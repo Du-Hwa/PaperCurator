@@ -1,0 +1,15 @@
+[
+  {
+    "pmid": "41225013",
+    "doi": "10.1038/s41586-025-09704-6",
+    "title": "Florigen activation complex forms via multifaceted assembly in Arabidopsis.",
+    "authors": "Gao H, Ding N, Wu Y, ..., Hu JY, Chai J, Coupland G",
+    "journal": "Nature",
+    "pub_date": "2025 Nov",
+    "abstract": "Florigen, encoded by FT genes, is synthesized in leaves and transported to the shoot apical meristem (SAM) to induce flower development Florigen, encoded by FT genes, is synthesized in leaves and transported to the shoot apical meristem (SAM) to induce flower development 1-3 . At the SAM, 14-3-3 proteins are proposed to act as receptors for FT protein and to mediate the indirect interaction between FT and the basic leucine zipper (bZIP) transcription factor FD to form the florigen activation complex (FAC) that activates transcription of flowering genes 4-6 . Here we demonstrate a different mechanism of FAC assembly, diverse functions for the 14-3-3 proteins within the complex, and an unexpected spatiotemporal distribution of the FAC. We show that FT is not recruited by 14-3-3 alone, but that it interacts with the DNA-FD-14-3-3 complex through two interfaces, one of which binds DNA via the unstructured C terminus of FT. We also find that interaction of 14-3-3 proteins with the C terminus of phosphorylated FD reduces liquid phase condensation of the intrinsically disordered FD protein, allowing it to bind DNA, and that the 14-3-3 proteins strengthen DNA binding of FD by promoting dimerization, which ultimately results in the recruitment of FT. Unexpectedly, we also find that after FT movement to the shoot apex, FT and FD are co-transcribed in young floral primordia, forming a boundary with the suppressed bract and allowing formation of the FAC during the first stages of floral development. Our studies propose a new mechanism by which the florigen FT transcriptional complex is formed, and indicate distinct functions for the complex during SAM and floral primordium development.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41225013/",
+    "fetch_date": "2025-11-19 07:32:48",
+    "query_group": "High Impact General"
+  }
+]
