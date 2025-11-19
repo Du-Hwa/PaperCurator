@@ -1,0 +1,7 @@
+notion_settings.json
+selected_papers.json
+weekly_papers_*.json
+*.pyc
+__pycache__/
+.env
+.DS_Store
