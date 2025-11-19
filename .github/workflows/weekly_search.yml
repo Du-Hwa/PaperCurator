@@ -36,7 +36,10 @@ jobs:
         EOF
     
     - name: Run automation script
-      run: python automation_script.py
+      id: search
+      run: |
+        python automation_script.py
+        echo "paper_count=$(find . -name 'weekly_papers_*.json' -exec cat {} \; | grep -o '"pmid"' | wc -l)" >> $GITHUB_OUTPUT
     
     - name: Upload results
       uses: actions/upload-artifact@v4
@@ -45,8 +48,36 @@ jobs:
         path: weekly_papers_*.json
         retention-days: 30
     
-    - name: Send notification
+    - name: Send email notification
       if: success()
-      run: |
-        echo "검색 완료! 결과를 확인하세요."
-        # TODO: 이메일 또는 Slack 알림 추가
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 465
+        secure: true
+        username: ${{ secrets.EMAIL_ADDRESS }}
+        password: ${{ secrets.EMAIL_PASSWORD }}
+        subject: 📚 PaperCurator - 주간 논문 검색 완료
+        to: ${{ secrets.EMAIL_ADDRESS }}
+        from: PaperCurator <${{ secrets.EMAIL_ADDRESS }}>
+        html_body: |
+          <h2>📚 PaperCurator 주간 논문 검색 완료</h2>
+          
+          <p><strong>검색 일시:</strong> ${{ github.event.repository.updated_at }}</p>
+          <p><strong>발견된 논문:</strong> ${{ steps.search.outputs.paper_count }}개</p>
+          
+          <hr>
+          
+          <h3>🔗 다음 단계</h3>
+          <ol>
+            <li><a href="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}">GitHub Actions에서 결과 다운로드</a></li>
+            <li><a href="https://papercurator.streamlit.app">Streamlit에서 논문 선택</a> (배포 후 링크 업데이트 필요)</li>
+            <li>선택 완료 후 자동으로 Gemini 요약 + Notion 업로드 시작</li>
+          </ol>
+          
+          <hr>
+          
+          <p style="color: #666; font-size: 12px;">
+            자동 생성된 이메일입니다. PaperCurator by Du-Hwa
+          </p>
+        attachments: weekly_papers_*.json
