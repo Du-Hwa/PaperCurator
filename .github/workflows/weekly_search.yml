@@ -39,9 +39,19 @@ jobs:
       id: search
       run: |
         python automation_script.py
-        echo "paper_count=$(find . -name 'weekly_papers_*.json' -exec cat {} \; | grep -o '"pmid"' | wc -l)" >> $GITHUB_OUTPUT
+        # 파일 이름을 고정된 이름으로 복사
+        cp weekly_papers_*.json latest_papers.json
+        echo "paper_count=$(cat latest_papers.json | grep -o '"pmid"' | wc -l)" >> $GITHUB_OUTPUT
     
-    - name: Upload results
+    - name: Commit and push results
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add latest_papers.json
+        git commit -m "🤖 Weekly paper search - $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+        git push
+    
+    - name: Upload results (backup)
       uses: actions/upload-artifact@v4
       with:
         name: weekly-papers
@@ -63,21 +73,32 @@ jobs:
         html_body: |
           <h2>📚 PaperCurator 주간 논문 검색 완료</h2>
           
-          <p><strong>검색 일시:</strong> ${{ github.event.repository.updated_at }}</p>
+          <p><strong>검색 일시:</strong> $(date +'%Y-%m-%d %H:%M') KST</p>
           <p><strong>발견된 논문:</strong> ${{ steps.search.outputs.paper_count }}개</p>
           
           <hr>
           
           <h3>🔗 다음 단계</h3>
-          <ol>
-            <li><a href="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}">GitHub Actions에서 결과 다운로드</a></li>
-            <li><a href="https://papercurator.streamlit.app">Streamlit에서 논문 선택</a> (배포 후 링크 업데이트 필요)</li>
-            <li>선택 완료 후 자동으로 Gemini 요약 + Notion 업로드 시작</li>
-          </ol>
+          <p><strong>Streamlit에서 논문 선택하기:</strong></p>
+          <a href="https://papercurator.streamlit.app" style="display: inline-block; padding: 10px 20px; background-color: #FF4B4B; color: white; text-decoration: none; border-radius: 5px;">
+            📚 논문 선택하러 가기
+          </a>
+          
+          <p style="margin-top: 20px;">
+            ✅ 최신 검색 결과가 자동으로 표시됩니다<br>
+            ✅ 수동 다운로드 불필요
+          </p>
+          
+          <hr>
+          
+          <h3>📋 참고</h3>
+          <ul>
+            <li><a href="https://github.com/${{ github.repository }}/blob/main/latest_papers.json">GitHub에서 결과 보기</a></li>
+            <li><a href="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}">실행 로그 확인</a></li>
+          </ul>
           
           <hr>
           
           <p style="color: #666; font-size: 12px;">
             자동 생성된 이메일입니다. PaperCurator by Du-Hwa
           </p>
-        attachments: weekly_papers_*.json
