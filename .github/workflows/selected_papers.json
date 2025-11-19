@@ -1,0 +1,92 @@
+name: PaperCurator Auto Summarize
+
+on:
+  push:
+    paths:
+      - 'selected_papers.json'
+  workflow_dispatch:  # 수동 실행 가능
+
+jobs:
+  summarize-and-upload:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        pip install google-generativeai notion-client
+    
+    - name: Create settings file
+      run: |
+        cat > notion_settings.json << EOF
+        {
+          "notion_token": "${{ secrets.NOTION_TOKEN }}",
+          "papers_database_page_id": "${{ secrets.PAPERS_DATABASE_PAGE_ID }}",
+          "papers_database_id": "${{ secrets.PAPERS_DATABASE_ID }}",
+          "query_database_id": "${{ secrets.QUERY_DATABASE_ID }}",
+          "gemini_api_key": "${{ secrets.GEMINI_API_KEY }}"
+        }
+        EOF
+    
+    - name: Run summarization and upload
+      id: summarize
+      run: |
+        python summarize_and_upload.py
+        echo "paper_count=$(cat selected_papers.json | grep -o '"pmid"' | wc -l)" >> $GITHUB_OUTPUT
+    
+    - name: Archive selected papers
+      run: |
+        # 처리된 파일을 아카이브로 이동
+        timestamp=$(date +'%Y%m%d_%H%M%S')
+        mkdir -p processed
+        cp selected_papers.json "processed/selected_papers_${timestamp}.json"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add processed/
+        git commit -m "📦 Archive processed papers - ${timestamp}" || echo "No changes"
+        git push
+    
+    - name: Remove selected papers file
+      run: |
+        # selected_papers.json 삭제 (재실행 방지)
+        git rm selected_papers.json
+        git commit -m "🗑️ Remove processed selected_papers.json"
+        git push
+    
+    - name: Send completion email
+      if: success()
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 465
+        secure: true
+        username: ${{ secrets.EMAIL_ADDRESS }}
+        password: ${{ secrets.EMAIL_PASSWORD }}
+        subject: ✅ PaperCurator - 자동 요약 완료
+        to: ${{ secrets.EMAIL_ADDRESS }}
+        from: PaperCurator <${{ secrets.EMAIL_ADDRESS }}>
+        html_body: |
+          <h2>✅ 논문 요약 및 Notion 업로드 완료</h2>
+          
+          <p><strong>처리 일시:</strong> $(date +'%Y-%m-%d %H:%M') KST</p>
+          <p><strong>처리된 논문:</strong> ${{ steps.summarize.outputs.paper_count }}개</p>
+          
+          <hr>
+          
+          <h3>📊 Notion에서 확인하기</h3>
+          <a href="https://notion.so/${{ secrets.PAPERS_DATABASE_ID }}" style="display: inline-block; padding: 10px 20px; background-color: #000000; color: white; text-decoration: none; border-radius: 5px;">
+            📚 Papers Database 열기
+          </a>
+          
+          <hr>
+          
+          <p style="color: #666; font-size: 12px;">
+            자동 생성된 이메일입니다. PaperCurator by Du-Hwa
+          </p>
