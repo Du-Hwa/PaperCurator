@@ -1,1 +1,52 @@
+name: PaperCurator Weekly Search
 
+on:
+  schedule:
+    # 매주 월요일 10:00 UTC (한국시간 19:00)
+    - cron: '0 10 * * 1'
+  workflow_dispatch:  # 수동 실행 가능
+
+jobs:
+  search-papers:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        pip install biopython requests urllib3
+    
+    - name: Create settings file
+      run: |
+        cat > notion_settings.json << EOF
+        {
+          "notion_token": "${{ secrets.NOTION_TOKEN }}",
+          "papers_database_page_id": "${{ secrets.PAPERS_DATABASE_PAGE_ID }}",
+          "papers_database_id": "${{ secrets.PAPERS_DATABASE_ID }}",
+          "query_database_id": "${{ secrets.QUERY_DATABASE_ID }}",
+          "gemini_api_key": "${{ secrets.GEMINI_API_KEY }}"
+        }
+        EOF
+    
+    - name: Run automation script
+      run: python automation_script.py
+    
+    - name: Upload results
+      uses: actions/upload-artifact@v3
+      with:
+        name: weekly-papers
+        path: weekly_papers_*.json
+        retention-days: 30
+    
+    - name: Send notification
+      if: success()
+      run: |
+        echo "검색 완료! 결과를 확인하세요."
+        # TODO: 이메일 또는 Slack 알림 추가
