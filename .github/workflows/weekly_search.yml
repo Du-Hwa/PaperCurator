@@ -80,7 +80,7 @@ jobs:
           
           <h3>🔗 다음 단계</h3>
           <p><strong>Streamlit에서 논문 선택하기:</strong></p>
-          <a href="https://papercurator.streamlit.app" style="display: inline-block; padding: 10px 20px; background-color: #FF4B4B; color: white; text-decoration: none; border-radius: 5px;">
+          <a href="https://papercurator-fmbftyrkz4qc6dthnyh2em.streamlit.app" style="display: inline-block; padding: 10px 20px; background-color: #FF4B4B; color: white; text-decoration: none; border-radius: 5px;">
             📚 논문 선택하러 가기
           </a>
           
