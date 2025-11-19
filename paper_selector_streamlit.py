@@ -1,12 +1,13 @@
 """
 PaperCurator - Streamlit Paper Selector
-GitHub Repository에서 최신 논문을 자동으로 로드
+GitHub Repository에서 최신 논문을 자동으로 로드하고, 선택 후 GitHub에 자동 커밋
 """
 
 import streamlit as st
 import json
 import requests
 from datetime import datetime
+import base64
 
 # 페이지 설정
 st.set_page_config(
@@ -21,7 +22,7 @@ GITHUB_REPO = "PaperCurator"
 GITHUB_BRANCH = "main"
 LATEST_PAPERS_URL = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}/latest_papers.json"
 
-@st.cache_data(ttl=300)  # 5분 캐시
+@st.cache_data(ttl=300)
 def load_latest_papers():
     """GitHub Repository에서 최신 논문 JSON 자동 로드"""
     try:
@@ -31,14 +32,50 @@ def load_latest_papers():
         return papers, None
     except requests.exceptions.HTTPError as e:
         if e.response.status_code == 404:
-            return None, "아직 검색 결과가 없습니다. GitHub Actions가 실행될 때까지 기다려주세요."
+            return None, "아직 검색 결과가 없습니다."
         return None, f"데이터 로드 실패: {str(e)}"
     except Exception as e:
         return None, f"오류 발생: {str(e)}"
 
-def save_selected_papers(selected_papers):
-    """선택된 논문을 JSON으로 생성 (다운로드용)"""
-    return json.dumps(selected_papers, indent=2, ensure_ascii=False)
+def commit_to_github(selected_papers, github_token):
+    """선택된 논문을 GitHub에 자동 커밋"""
+    try:
+        # GitHub API URL
+        api_url = f"https://api.github.com/repos/{GITHUB_USER}/{GITHUB_REPO}/contents/selected_papers.json"
+        
+        # JSON 데이터 준비
+        content = json.dumps(selected_papers, indent=2, ensure_ascii=False)
+        encoded_content = base64.b64encode(content.encode()).decode()
+        
+        # 기존 파일 SHA 가져오기 (있으면)
+        headers = {
+            "Authorization": f"token {github_token}",
+            "Accept": "application/vnd.github.v3+json"
+        }
+        
+        get_response = requests.get(api_url, headers=headers)
+        sha = None
+        if get_response.status_code == 200:
+            sha = get_response.json()['sha']
+        
+        # 커밋 데이터
+        commit_data = {
+            "message": f"📝 Selected papers - {datetime.now().strftime('%Y-%m-%d %H:%M')}",
+            "content": encoded_content,
+            "branch": GITHUB_BRANCH
+        }
+        
+        if sha:
+            commit_data["sha"] = sha
+        
+        # GitHub에 커밋
+        response = requests.put(api_url, headers=headers, json=commit_data)
+        response.raise_for_status()
+        
+        return True, "✅ GitHub에 자동 커밋 완료! 자동 요약이 곧 시작됩니다."
+    
+    except Exception as e:
+        return False, f"❌ GitHub 커밋 실패: {str(e)}"
 
 # 메인 UI
 st.title("📚 PaperCurator - Paper Selector")
@@ -56,20 +93,18 @@ if error:
 if papers:
     st.success(f"✅ {len(papers)}개 논문 자동 로드 완료!")
     
-    # 마지막 업데이트 시간
     if papers and 'fetch_date' in papers[0]:
         st.info(f"🕒 검색 일시: {papers[0]['fetch_date']}")
     
-    # Session state 초기화
     if 'papers' not in st.session_state:
         st.session_state.papers = papers
         st.session_state.votes = {}
 
-# 사이드바 - 통계
+# 사이드바
 with st.sidebar:
     st.header("📊 통계")
     
-    if 'papers' in st.session_state and st.session_state.papers:
+    if 'papers' in st.session_state:
         st.metric("총 논문 수", len(st.session_state.papers))
         
         if 'votes' in st.session_state:
@@ -83,24 +118,35 @@ with st.sidebar:
     
     st.markdown("---")
     
-    # 새로고침 버튼
+    # GitHub Token 입력
+    st.subheader("🔑 GitHub 설정")
+    github_token = st.text_input(
+        "GitHub Personal Access Token",
+        type="password",
+        help="Settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token (repo 권한 필요)"
+    )
+    
+    if github_token:
+        st.success("✅ Token 입력 완료")
+    else:
+        st.warning("⚠️ 자동 커밋을 위해 Token이 필요합니다")
+    
+    st.markdown("---")
+    
     if st.button("🔄 최신 검색 결과 다시 불러오기", use_container_width=True):
         st.cache_data.clear()
         st.rerun()
 
-# 논문이 로드된 경우
+# 논문 표시
 if 'papers' in st.session_state and st.session_state.papers:
     papers = st.session_state.papers
     
-    # 필터링 옵션
+    # 필터링
     st.subheader("🔍 필터")
     col1, col2, col3 = st.columns(3)
     
     with col1:
-        show_filter = st.selectbox(
-            "표시",
-            ["전체", "선택됨", "제외됨", "미투표"]
-        )
+        show_filter = st.selectbox("표시", ["전체", "선택됨", "제외됨", "미투표"])
     
     with col2:
         query_groups = ["전체"] + sorted(list(set([p.get('query_group', 'Unknown') for p in papers])))
@@ -130,13 +176,12 @@ if 'papers' in st.session_state and st.session_state.papers:
     st.markdown(f"**필터링 결과: {len(filtered_papers)}개 논문**")
     st.markdown("---")
     
-    # 논문 표시
+    # 논문 리스트
     if filtered_papers:
         for paper in filtered_papers:
             pmid = paper['pmid']
             current_vote = st.session_state.votes.get(pmid, None)
             
-            # 투표 상태에 따른 표시
             if current_vote == 'up':
                 badge = "✅"
             elif current_vote == 'down':
@@ -173,33 +218,32 @@ if 'papers' in st.session_state and st.session_state.papers:
             
             st.markdown("---")
         
-        # 하단 액션 버튼
+        # 완료 버튼
         st.markdown("## 🎯 완료")
         
         col1, col2, col3 = st.columns([2, 2, 1])
         
         with col1:
-            if st.button("💾 선택 완료 - 저장", type="primary", use_container_width=True):
+            if st.button("🚀 선택 완료 - 자동 요약 시작", type="primary", use_container_width=True):
                 selected = [p for p in papers if st.session_state.votes.get(p['pmid']) == 'up']
                 
-                if selected:
-                    json_str = save_selected_papers(selected)
-                    
-                    st.success(f"✅ {len(selected)}개 논문 선택 완료!")
-                    st.balloons()
-                    
-                    # 다운로드 버튼
-                    st.download_button(
-                        label="📥 selected_papers.json 다운로드",
-                        data=json_str,
-                        file_name="selected_papers.json",
-                        mime="application/json",
-                        use_container_width=True
-                    )
-                    
-                    st.info("💡 다운로드한 JSON 파일을 지정된 위치에 저장하면 자동 요약이 시작됩니다.")
-                else:
+                if not selected:
                     st.warning("선택된 논문이 없습니다!")
+                elif not github_token:
+                    st.error("⚠️ GitHub Token을 입력해주세요! (왼쪽 사이드바)")
+                else:
+                    with st.spinner("GitHub에 커밋하는 중..."):
+                        success, message = commit_to_github(selected, github_token)
+                    
+                    if success:
+                        st.success(message)
+                        st.balloons()
+                        st.info("📧 자동 요약이 완료되면 이메일로 알림을 받게 됩니다.")
+                        
+                        # GitHub Actions 링크
+                        st.markdown(f"[🔗 GitHub Actions에서 진행 상황 확인](https://github.com/{GITHUB_USER}/{GITHUB_REPO}/actions)")
+                    else:
+                        st.error(message)
         
         with col2:
             if st.button("🔄 선택 초기화", use_container_width=True):
@@ -215,4 +259,5 @@ if 'papers' in st.session_state and st.session_state.papers:
 
 # Footer
 st.markdown("---")
-st.markdown("**PaperCurator** | Automated Paper Management System | 🤖 Auto-loads from GitHub")
+st.markdown("**PaperCurator** | Automated Paper Management System")
+st.markdown("💡 **Tip**: GitHub Token 생성 → [Settings → Developer settings → Personal access tokens](https://github.com/settings/tokens)")
