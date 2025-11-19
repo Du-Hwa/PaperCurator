@@ -143,7 +143,7 @@ if 'papers' in st.session_state and st.session_state.papers:
     
     # 필터링
     st.subheader("🔍 필터")
-    col1, col2, col3 = st.columns(3)
+    col1, col2, col3, col4 = st.columns(4)  # 4개 컬럼으로 변경
     
     with col1:
         show_filter = st.selectbox("표시", ["전체", "선택됨", "제외됨", "미투표"])
@@ -155,6 +155,9 @@ if 'papers' in st.session_state and st.session_state.papers:
     with col3:
         journals = ["전체"] + sorted(list(set([p.get('journal', 'Unknown') for p in papers])))
         journal_filter = st.selectbox("저널", journals)
+    
+    with col4:  # 초록 필터 추가
+        abstract_filter = st.selectbox("초록", ["전체", "초록 있음", "초록 없음"])
     
     # 필터 적용
     filtered_papers = papers
@@ -173,6 +176,12 @@ if 'papers' in st.session_state and st.session_state.papers:
     if journal_filter != "전체":
         filtered_papers = [p for p in filtered_papers if p.get('journal') == journal_filter]
     
+    # 초록 필터 적용
+    if abstract_filter == "초록 있음":
+        filtered_papers = [p for p in filtered_papers if p.get('abstract') and len(p['abstract']) > 50]
+    elif abstract_filter == "초록 없음":
+        filtered_papers = [p for p in filtered_papers if not p.get('abstract') or len(p['abstract']) <= 50]
+    
     st.markdown(f"**필터링 결과: {len(filtered_papers)}개 논문**")
     st.markdown("---")
     
@@ -182,12 +191,19 @@ if 'papers' in st.session_state and st.session_state.papers:
             pmid = paper['pmid']
             current_vote = st.session_state.votes.get(pmid, None)
             
+            # 초록 상태 표시 추가
+            has_abstract = paper.get('abstract') and len(paper['abstract']) > 50
+            
             if current_vote == 'up':
                 badge = "✅"
             elif current_vote == 'down':
                 badge = "❌"
             else:
                 badge = "📄"
+            
+            # 초록 없으면 경고 표시
+            if not has_abstract:
+                badge = f"{badge} ⚠️"
             
             col1, col2 = st.columns([5, 1])
             
@@ -197,7 +213,10 @@ if 'papers' in st.session_state and st.session_state.papers:
                 st.markdown(f"📚 {paper['journal']} | 📅 {paper['pub_date']} | 🔖 {paper.get('query_group', 'Unknown')}")
                 
                 with st.expander("📖 초록 보기"):
-                    st.write(paper['abstract'] if paper['abstract'] else "초록 없음")
+                    if has_abstract:
+                        st.write(paper['abstract'])
+                    else:
+                        st.warning("⚠️ 초록 없음 - 요약 품질이 낮을 수 있습니다")
                 
                 st.markdown(f"🔗 [PubMed]({paper['pubmed_url']})")
             
@@ -232,6 +251,11 @@ if 'papers' in st.session_state and st.session_state.papers:
                 elif not github_token:
                     st.error("⚠️ GitHub Token을 입력해주세요! (왼쪽 사이드바)")
                 else:
+                    # 초록 없는 논문 경고
+                    no_abstract = [p for p in selected if not p.get('abstract') or len(p['abstract']) <= 50]
+                    if no_abstract:
+                        st.warning(f"⚠️ {len(no_abstract)}개 논문에 초록이 없습니다. 요약 품질이 낮을 수 있습니다.")
+                    
                     with st.spinner("GitHub에 커밋하는 중..."):
                         success, message = commit_to_github(selected, github_token)
                     
