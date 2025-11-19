@@ -39,7 +39,7 @@ jobs:
       run: python automation_script.py
     
     - name: Upload results
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: weekly-papers
         path: weekly_papers_*.json
