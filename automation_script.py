@@ -185,9 +185,19 @@ class PaperCuratorAutomation:
             
             title_elem = article.find('.//ArticleTitle')
             title = title_elem.text if title_elem is not None else 'No title'
-            
+
             abstract_texts = article.findall('.//AbstractText')
-            abstract = ' '.join([at.text for at in abstract_texts if at.text]) if abstract_texts else ''
+            abstract_parts = []
+            for at in abstract_texts:
+                # 텍스트와 모든 하위 요소의 텍스트를 포함
+                text_parts = [at.text or '']
+                for elem in at.iter():
+                    if elem.text:
+                        text_parts.append(elem.text)
+                    if elem.tail:
+                        text_parts.append(elem.tail)
+                abstract_parts.append(' '.join(text_parts).strip())
+            abstract = ' '.join(abstract_parts) if abstract_parts else ''
             
             authors = []
             author_list = article.findall('.//Author')
