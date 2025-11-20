@@ -1,76 +1,5 @@
 [
   {
-    "pmid": "41225013",
-    "doi": "10.1038/s41586-025-09704-6",
-    "title": "Florigen activation complex forms via multifaceted assembly in Arabidopsis.",
-    "authors": "Gao H, Ding N, Wu Y, ..., Hu JY, Chai J, Coupland G",
-    "journal": "Nature",
-    "pub_date": "2025 Nov",
-    "abstract": "Florigen, encoded by FT genes, is synthesized in leaves and transported to the shoot apical meristem (SAM) to induce flower development Florigen, encoded by FT genes, is synthesized in leaves and transported to the shoot apical meristem (SAM) to induce flower development 1-3 . At the SAM, 14-3-3 proteins are proposed to act as receptors for FT protein and to mediate the indirect interaction between FT and the basic leucine zipper (bZIP) transcription factor FD to form the florigen activation complex (FAC) that activates transcription of flowering genes 4-6 . Here we demonstrate a different mechanism of FAC assembly, diverse functions for the 14-3-3 proteins within the complex, and an unexpected spatiotemporal distribution of the FAC. We show that FT is not recruited by 14-3-3 alone, but that it interacts with the DNA-FD-14-3-3 complex through two interfaces, one of which binds DNA via the unstructured C terminus of FT. We also find that interaction of 14-3-3 proteins with the C terminus of phosphorylated FD reduces liquid phase condensation of the intrinsically disordered FD protein, allowing it to bind DNA, and that the 14-3-3 proteins strengthen DNA binding of FD by promoting dimerization, which ultimately results in the recruitment of FT. Unexpectedly, we also find that after FT movement to the shoot apex, FT and FD are co-transcribed in young floral primordia, forming a boundary with the suppressed bract and allowing formation of the FAC during the first stages of floral development. Our studies propose a new mechanism by which the florigen FT transcriptional complex is formed, and indicate distinct functions for the complex during SAM and floral primordium development.",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41225013/",
-    "fetch_date": "2025-11-19 07:32:48",
-    "query_group": "High Impact General"
-  },
-  {
-    "pmid": "41167187",
-    "doi": "10.1016/j.chom.2025.10.002",
-    "title": "Soil organic carbon mediates plant immunity-rhizosphere microbiome interactions and controls colonization resistance to microbial inoculants.",
-    "authors": "Huang Y, Tang S, Liu R, ..., Fan M, Zhang F, Ni B",
-    "journal": "Cell host & microbe",
-    "pub_date": "2025 Nov",
-    "abstract": "Beneficial microbial inoculants can improve crop performance, but their effectiveness in the field is highly variable. Here, we provide experimental and ecological evidence suggesting that soil organic carbon (SOC) may influence colonization resistance, potentially through interactions between host immunity and microbiome assembly in the rhizosphere. Using greenhouse assays, field trials, multi-omics, and a global meta-analysis, we observed an inverted U-shaped (Kuznets-type) relationship between SOC and bioinoculant efficacy. Yield gains peaked at ∼1.5% SOC, coinciding with reduced immune and microbial barriers to inoculant establishment. At low or high SOC, enrichment of antagonistic bacterial consortia suppressed beneficial fungal colonization. Mechanistic analyses indicated SOC-dependent modulation of reactive oxygen species homeostasis, altered microbial network connectivity, and regulation of bioactive metabolites affecting plant immunity. These findings are consistent with the existence of a conceptual SOC-immune-microbiome axis, which may help explain resource-dependent colonization patterns and inform future microbiome engineering strategies across diverse hosts. Beneficial microbial inoculants can improve crop performance, but their effectiveness in the field is highly variable. Here, we provide experimental and ecological evidence suggesting that soil organic carbon (SOC) may influence colonization resistance, potentially through interactions between host immunity and microbiome assembly in the rhizosphere. Using greenhouse assays, field trials, multi-omics, and a global meta-analysis, we observed an inverted U-shaped (Kuznets-type) relationship between SOC and bioinoculant efficacy. Yield gains peaked at ∼1.5% SOC, coinciding with reduced immune and microbial barriers to inoculant establishment. At low or high SOC, enrichment of antagonistic bacterial consortia suppressed beneficial fungal colonization. Mechanistic analyses indicated SOC-dependent modulation of reactive oxygen species homeostasis, altered microbial network connectivity, and regulation of bioactive metabolites affecting plant immunity. These findings are consistent with the existence of a conceptual SOC-immune-microbiome axis, which may help explain resource-dependent colonization patterns and inform future microbiome engineering strategies across diverse hosts.",
-    "keywords": [
-      "Actinomucor",
-      "Purpureocillium",
-      "SOC-immune-microbiome axis",
-      "bioinoculants",
-      "deoxynivalenol",
-      "functional instability",
-      "microbiome engineering",
-      "soil organic carbon"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41167187/",
-    "fetch_date": "2025-11-19 07:32:48",
-    "query_group": "High Impact General"
-  },
-  {
-    "pmid": "41125075",
-    "doi": "10.1016/j.chom.2025.09.017",
-    "title": "Genetically engineered plant endophytes broaden effector-triggered immunity.",
-    "authors": "Hou M, Zhu S, Niu R, ..., Tang Z, Shi S, Xu G",
-    "journal": "Cell host & microbe",
-    "pub_date": "2025 Nov",
-    "abstract": "Plants utilize nucleotide-binding leucine-rich repeat (NLR) receptors to detect pathogen effectors and initiate a potent immune response called effector-triggered immunity (ETI). However, this defense relies on the presence of recognizable effectors in pathogens, which is often unpredictable during natural infections. To address this, we engineer plant endophytes, termed Sentinels, to heterologously express effectors that are recognized by the host's corresponding NLR. Using an OxyR regulatory circuit, effector expression is activated by reactive oxygen species-a common signal during pathogen infection. This circuit enables ETI activation against pathogens without recognizable effectors. Colonization by the sentinel bacterium slightly alters microbial abundance but maintains overall microbiota diversity and normal plant growth. We demonstrate the strategy's versatility by testing distinct effector-NLR recognition pairs in various plants against a range of pathogens. This strategy exploits the microbiota-host-pathogen interaction network to rapidly engineer a spectrum-expanded ETI, complementing synthetic microbial consortia for plant defense. Plants utilize nucleotide-binding leucine-rich repeat (NLR) receptors to detect pathogen effectors and initiate a potent immune response called effector-triggered immunity (ETI). However, this defense relies on the presence of recognizable effectors in pathogens, which is often unpredictable during natural infections. To address this, we engineer plant endophytes, termed Sentinels, to heterologously express effectors that are recognized by the host's corresponding NLR. Using an OxyR regulatory circuit, effector expression is activated by reactive oxygen species-a common signal during pathogen infection. This circuit enables ETI activation against pathogens without recognizable effectors. Colonization by the sentinel bacterium slightly alters microbial abundance but maintains overall microbiota diversity and normal plant growth. We demonstrate the strategy's versatility by testing distinct effector-NLR recognition pairs in various plants against a range of pathogens. This strategy exploits the microbiota-host-pathogen interaction network to rapidly engineer a spectrum-expanded ETI, complementing synthetic microbial consortia for plant defense.",
-    "keywords": [
-      "ETI",
-      "NLR receptor",
-      "disease resistance",
-      "effector-triggered immunity",
-      "genetically modified endophyte",
-      "microbial engineering",
-      "microbiota",
-      "nucleotide-binding leucine-rich repeat receptor",
-      "plant defense"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41125075/",
-    "fetch_date": "2025-11-19 07:32:48",
-    "query_group": "High Impact General"
-  },
-  {
-    "pmid": "41061695",
-    "doi": "10.1016/j.chom.2025.09.016",
-    "title": "The HY5-NPR1 module governs light-dependent virulence of a plant bacterial pathogen.",
-    "authors": "Liu P, Zhao Z, Tang Y, ..., Li X, Tang Y, Yang L",
-    "journal": "Cell host & microbe",
-    "pub_date": "2025 Nov",
-    "abstract": "",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41061695/",
-    "fetch_date": "2025-11-19 07:32:48",
-    "query_group": "High Impact General"
-  },
-  {
     "pmid": "41223217",
     "doi": "10.1073/pnas.2513517122",
     "title": "SERK5 genetically compensates for the loss of BAK1 and BKK1 in regulating elf18-triggered immune signaling in ",
@@ -85,7 +14,7 @@
       "plant immunity"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41223217/",
-    "fetch_date": "2025-11-19 07:32:49",
+    "fetch_date": "2025-11-20 02:06:35",
     "query_group": "Medium Impact Specialized"
   },
   {
@@ -104,7 +33,7 @@
       "biomolecular condensation"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41213015/",
-    "fetch_date": "2025-11-19 07:32:49",
+    "fetch_date": "2025-11-20 02:06:35",
     "query_group": "Medium Impact Specialized"
   },
   {
@@ -123,7 +52,7 @@
       "variation"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41213012/",
-    "fetch_date": "2025-11-19 07:32:49",
+    "fetch_date": "2025-11-20 02:06:35",
     "query_group": "Medium Impact Specialized"
   },
   {
@@ -142,7 +71,7 @@
       "Root Hairs"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41249506/",
-    "fetch_date": "2025-11-19 07:32:49",
+    "fetch_date": "2025-11-20 02:06:35",
     "query_group": "Medium Impact Specialized"
   },
   {
@@ -161,7 +90,7 @@
       "short ORF"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41138724/",
-    "fetch_date": "2025-11-19 07:32:49",
+    "fetch_date": "2025-11-20 02:06:35",
     "query_group": "Medium Impact Specialized"
   },
   {
@@ -174,8 +103,48 @@
     "abstract": "Phytocytokines, hormone-like plant peptides, play crucial roles in immune regulation and development. Phytosulfokine (PSK), known to mediate plant growth, also modulates plant pattern-triggered immunity (PTI). Here, we demonstrate that VdSCP8, a small cysteine-containing effector from Verticillium dahliae, functions as a virulence-promoting protein that suppresses PTI in Arabidopsis thaliana and Nicotiana benthamiana. Apoplastic SCP8 suppresses immune activation mediated by leucine-rich repeat ectodomain pattern recognition receptors. SCP8 virulence and immunosuppressive activities require PHYTOSULFOKINE RECEPTOR 1 (PSKR1), which binds PSK and forms a complex with co-receptor BAK1 to suppress PTI. Our findings underscore SCP8's role in PTI suppression, facilitating PSKR1-BAK1 complex formation and promoting PSK accumulation through a plant subtilase. These results highlight how a multi-host plant pathogen manipulates PTI through enhancing immunosuppressive PSK signaling. Phytocytokines, hormone-like plant peptides, play crucial roles in immune regulation and development. Phytosulfokine (PSK), known to mediate plant growth, also modulates plant pattern-triggered immunity (PTI). Here, we demonstrate that VdSCP8, a small cysteine-containing effector from Verticillium dahliae, functions as a virulence-promoting protein that suppresses PTI in Arabidopsis thaliana and Nicotiana benthamiana. Apoplastic SCP8 suppresses immune activation mediated by leucine-rich repeat ectodomain pattern recognition receptors. SCP8 virulence and immunosuppressive activities require PHYTOSULFOKINE RECEPTOR 1 (PSKR1), which binds PSK and forms a complex with co-receptor BAK1 to suppress PTI. Our findings underscore SCP8's role in PTI suppression, facilitating PSKR1-BAK1 complex formation and promoting PSK accumulation through a plant subtilase. These results highlight how a multi-host plant pathogen manipulates PTI through enhancing immunosuppressive PSK signaling.",
     "keywords": [],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41238555/",
-    "fetch_date": "2025-11-19 07:32:49",
+    "fetch_date": "2025-11-20 02:06:35",
     "query_group": "Medium Impact Specialized"
+  },
+  {
+    "pmid": "41254967",
+    "doi": "10.1111/nph.70738",
+    "title": "SWEET1-mediated glucose transport is crucial for energy availability in Arabidopsis.",
+    "authors": "Xue X, Li J, Yu YC, Chen LQ",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Nov",
+    "abstract": "The stress-responsive hormone abscisic acid (ABA) is known for its inhibitory effects on various physiological processes, including seed germination, often resulting in energy deprivation. Interestingly, ABA-induced germination inhibition can be alleviated by exogenous glucose (Glc), mimicking a functional interplay between ABA and sugar signaling in vivo. However, it remains poorly understood which sugar transporter mediates Glc allocation under ABA treatment and how Glc counteracts the effects of ABA. To address this, we combined transcriptomic analyses, transport assays, physiological studies, and genetic approaches to identify and characterize processes involved in Glc allocation that counteract the inhibitory effects of ABA during seed germination in Arabidopsis thaliana. We identified the plasma membrane-localized Glc uniporter SWEET1 as a key player in the Glc-mediated suppression of ABA inhibition. The sweet1 mutants showed delayed germination in the presence of ABA, reduced Glc transport, and slower root growth under energy starvation conditions. The suppression of ABA inhibited germination by Glc transported by SWEET1 appears to depend, at least partially, on Glc signaling through SnRK1 kinase pathway, including KIN10. Our findings demonstrate that SWEET1 is crucial for Glc suppression of ABA-induced inhibition during seed germination and provide insight into sugar signaling pathways linked to environment- or ABA-triggered energy deficiency. The stress-responsive hormone abscisic acid (ABA) is known for its inhibitory effects on various physiological processes, including seed germination, often resulting in energy deprivation. Interestingly, ABA-induced germination inhibition can be alleviated by exogenous glucose (Glc), mimicking a functional interplay between ABA and sugar signaling in vivo. However, it remains poorly understood which sugar transporter mediates Glc allocation under ABA treatment and how Glc counteracts the effects of ABA. To address this, we combined transcriptomic analyses, transport assays, physiological studies, and genetic approaches to identify and characterize processes involved in Glc allocation that counteract the inhibitory effects of ABA during seed germination in Arabidopsis thaliana. We identified the plasma membrane-localized Glc uniporter SWEET1 as a key player in the Glc-mediated suppression of ABA inhibition. The sweet1 mutants showed delayed germination in the presence of ABA, reduced Glc transport, and slower root growth under energy starvation conditions. The suppression of ABA inhibited germination by Glc transported by SWEET1 appears to depend, at least partially, on Glc signaling through SnRK1 kinase pathway, including KIN10. Our findings demonstrate that SWEET1 is crucial for Glc suppression of ABA-induced inhibition during seed germination and provide insight into sugar signaling pathways linked to environment- or ABA-triggered energy deficiency. 逆境响应激素脱落酸(abscisic acid, ABA)以其对多种生理过程的抑制作用而著称，其中包括对种子萌发的抑制，常伴随能量匮乏的发生。值得注意的是，外源葡萄糖(Glc)可显著缓解ABA引起的萌发抑制，模拟了ABA与Glc在体内信号间的功能互作。然而，目前尚不清楚在ABA处理条件下哪种糖转运蛋白介导Glc的分配，以及Glc如何拮抗ABA作用的机制。 本研究通过结合转录组分析、转运活性测定、生理学实验及遗传学研究，系统解析了在拟南芥(Arabidopsis thaliana)种子萌发过程中，Glc分配是如何参与抵消ABA抑制效应的相关机制。 研究发现，质膜定位的Glc转运蛋白SWEET1是Glc介导缓解ABA抑制的关键因子。在有ABA存在的条件下，sweet1突变体表现出萌发延迟、Glc吸收能力下降以及能量饥饿条件下根系生长受限的表型。SWEET1介导的Glc转运对ABA抑制萌发的缓解作用，至少部分依赖于Glc‐SnRK1激酶通路(包括KIN10)介导的信号传导。 综上所述，本研究表明在种子萌发过程中，SWEET1介导的糖转运对ABA引起的抑制具有关键的缓解作用，并为理解由逆境或ABA激发的能量缺乏相关的糖信号通路提供了新的分子机制见解。. 逆境响应激素脱落酸(abscisic acid, ABA)以其对多种生理过程的抑制作用而著称，其中包括对种子萌发的抑制，常伴随能量匮乏的发生。值得注意的是，外源葡萄糖(Glc)可显著缓解ABA引起的萌发抑制，模拟了ABA与Glc在体内信号间的功能互作。然而，目前尚不清楚在ABA处理条件下哪种糖转运蛋白介导Glc的分配，以及Glc如何拮抗ABA作用的机制。 本研究通过结合转录组分析、转运活性测定、生理学实验及遗传学研究，系统解析了在拟南芥(Arabidopsis thaliana)种子萌发过程中，Glc分配是如何参与抵消ABA抑制效应的相关机制。 研究发现，质膜定位的Glc转运蛋白SWEET1是Glc介导缓解ABA抑制的关键因子。在有ABA存在的条件下，sweet1突变体表现出萌发延迟、Glc吸收能力下降以及能量饥饿条件下根系生长受限的表型。SWEET1介导的Glc转运对ABA抑制萌发的缓解作用，至少部分依赖于Glc‐SnRK1激酶通路(包括KIN10)介导的信号传导。 综上所述，本研究表明在种子萌发过程中，SWEET1介导的糖转运对ABA引起的抑制具有关键的缓解作用，并为理解由逆境或ABA激发的能量缺乏相关的糖信号通路提供了新的分子机制见解。.",
+    "keywords": [
+      "KIN10",
+      "SWEET1",
+      "TOR",
+      "abscisic acid",
+      "glucose",
+      "seed germination",
+      "sugar transporter"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41254967/",
+    "fetch_date": "2025-11-20 02:06:40",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41254947",
+    "doi": "10.1111/nph.70747",
+    "title": "Pathogen mediated plant community ecology.",
+    "authors": "Cobb RC",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Nov",
+    "abstract": "",
+    "keywords": [
+      "apparent competition",
+      "decomposition",
+      "defense",
+      "invasive pathogens",
+      "invasive plants"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41254947/",
+    "fetch_date": "2025-11-20 02:06:40",
+    "query_group": "Plant-Specific Journals"
   },
   {
     "pmid": "41253714",
@@ -192,7 +161,7 @@
       "‘Fenjiao’ banana"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41253714/",
-    "fetch_date": "2025-11-19 07:32:50",
+    "fetch_date": "2025-11-20 02:06:40",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -217,7 +186,29 @@
       "symbiosis"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41253704/",
-    "fetch_date": "2025-11-19 07:32:50",
+    "fetch_date": "2025-11-20 02:06:40",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41254943",
+    "doi": "10.1016/j.molp.2025.11.007",
+    "title": "Pathogen-induced H",
+    "authors": "Lu X, An Y, Lu W, ..., Li W, Wang J, Chen X",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Nov",
+    "abstract": "Alternative splicing plays a vital role in plant immunity, but how plants stringently and selectively regulate alternative splicing to coordinate immunity and growth is poorly understood. Here we report that H Alternative splicing plays a vital role in plant immunity, but how plants stringently and selectively regulate alternative splicing to coordinate immunity and growth is poorly understood. Here we report that H 2 O 2 -triggered phosphorylation of the RNA binding protein RRM2R releases a retained-intron brake in OsMAPKKK18 to orchestrate immunity and growth in rice. During homeostasis, transcript OsMAPKKK18β containing a retained intron subjects to nonsense-mediated mRNA decay to promote growth. Upon pathogen Magnaporthe oryzae invasion, H 2 O 2  activates protein kinase OsCLK1 to phosphorylate and stabilize RRM2R, which interacts with OsRNPS1A/B to recruit spliceosome machinery and promote the production of transcript OsMAPKKK18α without retained intron to promote immunity of rice. After the endogenous H 2 O 2  is consumed or degraded by peroxidases or catalases, decreased abundance of RRM2R reduces accumulation of transcript OsMAPKKK18α to avoid autoimmunity in rice. Together, our study uncovers H 2 O 2 -controlled retained intron of OsMAPKKK18 as a novel molecular switch for orchestrating immunity and growth in rice.",
+    "keywords": [
+      "Alternative Splicing",
+      "Ethylene",
+      "H(2)O(2)",
+      "Immunity and Growth",
+      "Intron Retention",
+      "PTI",
+      "Phosphorylation",
+      "RNA Binding Protein"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41254943/",
+    "fetch_date": "2025-11-20 02:06:40",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -237,7 +228,7 @@
       "phenylpropanoids"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41249874/",
-    "fetch_date": "2025-11-19 07:32:50",
+    "fetch_date": "2025-11-20 02:06:40",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -250,7 +241,7 @@
     "abstract": "Plant respiratory burst oxidase homologs (Rbohs) contribute to the production of reactive oxygen species (ROS), which are crucial defense signals in plants. However, the regulation of rice (Oryza sativa) OsRboh homeostasis has remained unclear. In this study, we reported that overexpression of OsRbohB confers resistance to Magnaporthe oryzae and Xanthomonas oryzae pv. oryzae. Mechanistically, the calcium-dependent protein kinase OsCPK4 interacts with and phosphorylates OsRbohB at Ser322 and Ser326, thereby reducing immune responses. OsRbohB phosphomimic modifications at these two sites disrupt OsRbohB-mediated disease resistance. Moreover, the RING-type E3 ubiquitin ligase OsRING142 interacts with and ubiquitinates OsRbohB at Lys266, targeting it for degradation by the 26S proteasome pathway and compromising the immune response. Overexpression of OsRbohBK266R further increased resistance compared to OsRbohB overexpression plants. Remarkably, phosphorylation at OsRbohB facilitates OsRING142-mediated ubiquitination and degradation of OsRbohB. OsRbohBK266R×S2A overexpression plants with reduced ubiquitination and phosphorylation levels of OsRbohB exhibit stronger resistance against M. oryzae. Overall, our study highlights the critical role of Rbohs in broad-spectrum resistance and demonstrates that phosphorylation and ubiquitination synergistically fine-tune Rboh protein stability and immunity. Plant respiratory burst oxidase homologs (Rbohs) contribute to the production of reactive oxygen species (ROS), which are crucial defense signals in plants. However, the regulation of rice (Oryza sativa) OsRboh homeostasis has remained unclear. In this study, we reported that overexpression of OsRbohB confers resistance to Magnaporthe oryzae and Xanthomonas oryzae pv. oryzae. Mechanistically, the calcium-dependent protein kinase OsCPK4 interacts with and phosphorylates OsRbohB at Ser322 and Ser326, thereby reducing immune responses. OsRbohB phosphomimic modifications at these two sites disrupt OsRbohB-mediated disease resistance. Moreover, the RING-type E3 ubiquitin ligase OsRING142 interacts with and ubiquitinates OsRbohB at Lys266, targeting it for degradation by the 26S proteasome pathway and compromising the immune response. Overexpression of OsRbohBK266R further increased resistance compared to OsRbohB overexpression plants. Remarkably, phosphorylation at OsRbohB facilitates OsRING142-mediated ubiquitination and degradation of OsRbohB. OsRbohBK266R×S2A overexpression plants with reduced ubiquitination and phosphorylation levels of OsRbohB exhibit stronger resistance against M. oryzae. Overall, our study highlights the critical role of Rbohs in broad-spectrum resistance and demonstrates that phosphorylation and ubiquitination synergistically fine-tune Rboh protein stability and immunity.",
     "keywords": [],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41248081/",
-    "fetch_date": "2025-11-19 07:32:50",
+    "fetch_date": "2025-11-20 02:06:40",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -263,7 +254,7 @@
     "abstract": "",
     "keywords": [],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41243520/",
-    "fetch_date": "2025-11-19 07:32:50",
+    "fetch_date": "2025-11-20 02:06:40",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -276,7 +267,7 @@
     "abstract": "",
     "keywords": [],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41240364/",
-    "fetch_date": "2025-11-19 07:32:50",
+    "fetch_date": "2025-11-20 02:06:40",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -289,7 +280,7 @@
     "abstract": "Plant growth originates from the interlinked action of cell division and cell growth. During radial growth of secondary tissues, bifacial cambial stem cells grow and divide to produce xylem and phloem precursors, which subsequently undergo expansion characteristic of their respective differentiation processes. In Arabidopsis roots, cytokinins and four downstream LATERAL ORGAN BOUNDARIES DOMAIN (LBD) transcription factors are key players in promoting radial growth, though the underlying mechanisms remain unknown. Here our results indicate that these LBD genes primarily regulate cell growth rather than proliferation. Through a large-scale CRISPR-Cas9-aided reverse genetic screen, we identified a set of PECTATE LYASE-LIKE (PLL) genes that function downstream of cytokinin and the LBDs in the regulation of radial growth. We show that at least one of these PLLs, PLL18, possesses pectate lyase activity. In accordance with this activity, PLLs and LBDs promote radial growth by modifying the pectin composition and mechanical properties of the primary cell wall. Our findings thus connect the central role of cytokinins in radial growth with cell wall remodelling and pave a way for further research on hormone-mediated plant growth regulation and cell wall metabolism. Plant growth originates from the interlinked action of cell division and cell growth. During radial growth of secondary tissues, bifacial cambial stem cells grow and divide to produce xylem and phloem precursors, which subsequently undergo expansion characteristic of their respective differentiation processes. In Arabidopsis roots, cytokinins and four downstream LATERAL ORGAN BOUNDARIES DOMAIN (LBD) transcription factors are key players in promoting radial growth, though the underlying mechanisms remain unknown. Here our results indicate that these LBD genes primarily regulate cell growth rather than proliferation. Through a large-scale CRISPR-Cas9-aided reverse genetic screen, we identified a set of PECTATE LYASE-LIKE (PLL) genes that function downstream of cytokinin and the LBDs in the regulation of radial growth. We show that at least one of these PLLs, PLL18, possesses pectate lyase activity. In accordance with this activity, PLLs and LBDs promote radial growth by modifying the pectin composition and mechanical properties of the primary cell wall. Our findings thus connect the central role of cytokinins in radial growth with cell wall remodelling and pave a way for further research on hormone-mediated plant growth regulation and cell wall metabolism.",
     "keywords": [],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41238726/",
-    "fetch_date": "2025-11-19 07:32:50",
+    "fetch_date": "2025-11-20 02:06:40",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -302,7 +293,7 @@
     "abstract": "Plant guard cells perceive pathogens and close stomata to prevent their invasion. Biomolecular condensates are membraneless organelles essential for life processes. However, guard cell biomolecular condensates mediating stomatal immunity remain unknown. Here we identify a guard-cell-preferential RNA-recognition-motif-type RNA-BINDING PROTEIN, STOMATAL IMMUNE RNA-BINDING PROTEIN 1 (SAIR1), that forms pathogen-responsive guard cell condensates via phase separation. Upon perception of the pathogen molecular pattern flg22, the activated kinases MPK3 and MPK6 phosphorylate SAIR1 and trigger its condensation in guard cells for stomatal immunity. SAIR1 condensates recruit translational regulators such as POLYADENYLATE-BINDING PROTEINs and eIFiso4G, and sequester defence-related mRNAs, including key components of the salicylic acid pathway. Through these interactions, SAIR1 condensates enhance the translation of defence mRNAs, ultimately promoting stomatal closure. Our findings reveal phosphorylation-regulated SAIR1 condensates as a critical hub that links flg22-MPK3/6 signalling to stomatal immunity. Plant guard cells perceive pathogens and close stomata to prevent their invasion. Biomolecular condensates are membraneless organelles essential for life processes. However, guard cell biomolecular condensates mediating stomatal immunity remain unknown. Here we identify a guard-cell-preferential RNA-recognition-motif-type RNA-BINDING PROTEIN, STOMATAL IMMUNE RNA-BINDING PROTEIN 1 (SAIR1), that forms pathogen-responsive guard cell condensates via phase separation. Upon perception of the pathogen molecular pattern flg22, the activated kinases MPK3 and MPK6 phosphorylate SAIR1 and trigger its condensation in guard cells for stomatal immunity. SAIR1 condensates recruit translational regulators such as POLYADENYLATE-BINDING PROTEINs and eIFiso4G, and sequester defence-related mRNAs, including key components of the salicylic acid pathway. Through these interactions, SAIR1 condensates enhance the translation of defence mRNAs, ultimately promoting stomatal closure. Our findings reveal phosphorylation-regulated SAIR1 condensates as a critical hub that links flg22-MPK3/6 signalling to stomatal immunity.",
     "keywords": [],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41233565/",
-    "fetch_date": "2025-11-19 07:32:50",
+    "fetch_date": "2025-11-20 02:06:40",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -320,7 +311,7 @@
       "Morphological variations"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41231747/",
-    "fetch_date": "2025-11-19 07:32:50",
+    "fetch_date": "2025-11-20 02:06:40",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -333,7 +324,7 @@
     "abstract": "The ability for stress to modify development is common in plants yet how external cues determine phenotypic outputs and developmental responses is not fully understood. Here, we uncovered a ZINC FINGER OF ARABIDOPSIS THALIANA14 (ZAT14) transcription factor whose expression was enhanced in differentiating xylem through its positive regulation by VASCULAR RELATED NAC-DOMAIN PROTEIN7 (VND7) yet decreased in root tips through its negative regulation by PLETHORA2 (PLT2) in Arabidopsis (Arabidopsis thaliana). Mutating ZAT14 and its closely related homologs, ZAT5, ZAT14L and ZAT15, disrupted vascular patterning and inhibited xylem differentiation indicating that ZATs are important for xylem formation. A transcriptome analysis of zat triple and quadruple mutants found that many cell wall-related genes were differentially expressed. In particular, ten expansin genes were repressed by ZATs and several were direct targets of the ZATs. We uncovered that salinity repressed ZAT14, ZAT14L and ZAT15 vascular expression, whereas zat mutants improved salinity tolerance, decreased xylem differentiation and reduced cell death mediated by salt. Furthermore, expansin mutants decreased salinity tolerance and increased xylem differentiation under salinity stress. We propose that ZATs are key regulators of programmed cell death that promote xylem formation, yet upon salinity stress, ZATs are repressed to inhibit cell death and improve salt tolerance, thus modifying developmental outputs in response to stress. The ability for stress to modify development is common in plants yet how external cues determine phenotypic outputs and developmental responses is not fully understood. Here, we uncovered a ZINC FINGER OF ARABIDOPSIS THALIANA14 (ZAT14) transcription factor whose expression was enhanced in differentiating xylem through its positive regulation by VASCULAR RELATED NAC-DOMAIN PROTEIN7 (VND7) yet decreased in root tips through its negative regulation by PLETHORA2 (PLT2) in Arabidopsis (Arabidopsis thaliana). Mutating ZAT14 and its closely related homologs, ZAT5, ZAT14L and ZAT15, disrupted vascular patterning and inhibited xylem differentiation indicating that ZATs are important for xylem formation. A transcriptome analysis of zat triple and quadruple mutants found that many cell wall-related genes were differentially expressed. In particular, ten expansin genes were repressed by ZATs and several were direct targets of the ZATs. We uncovered that salinity repressed ZAT14, ZAT14L and ZAT15 vascular expression, whereas zat mutants improved salinity tolerance, decreased xylem differentiation and reduced cell death mediated by salt. Furthermore, expansin mutants decreased salinity tolerance and increased xylem differentiation under salinity stress. We propose that ZATs are key regulators of programmed cell death that promote xylem formation, yet upon salinity stress, ZATs are repressed to inhibit cell death and improve salt tolerance, thus modifying developmental outputs in response to stress.",
     "keywords": [],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41231742/",
-    "fetch_date": "2025-11-19 07:32:50",
+    "fetch_date": "2025-11-20 02:06:40",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -356,59 +347,7 @@
       "zeaxanthin"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41230886/",
-    "fetch_date": "2025-11-19 07:32:50",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41234009",
-    "doi": "10.1016/j.xplc.2025.101615",
-    "title": "Nanomaterial-mediated delivery of tomato miR393 that intrinsically targets a cell wall-related gene of Botrytis cinerea confers efficient control of gray mold disease.",
-    "authors": "Yin Y, Wang R, Hou J, ..., Sikandar A, Li Y, Liu T",
-    "journal": "Plant communications",
-    "pub_date": "2025 Nov",
-    "abstract": "Gray mold, caused by the fungal pathogen Botrytis cinerea, is a major threat to global agriculture. Conventional pesticide control exacerbates environmental pollution and the risk of resistance development. Although RNA interference (RNAi) holds potential for disease control, its application is limited by instability of RNA and ambiguous targeting. This study demonstrates that tomato microRNA393 (miR393) can cross-kingdom into B. cinerea and reduce its pathogenicity. Using RT-qPCR, GUS staining, and 5' RLM-RACE, we confirmed that miR393 specifically targets nucleotides 1777-1778 of the BcFKS1 gene in B. cinerea, thereby inhibiting its expression and disrupting the fungal cell wall. To protect against miRNA degradation, we constructed a nanocarrier delivery system based on Star Polycation (SPc) was constructed. This nanomaterial extended the degradation half-life of miR393's by 6-fold under RNase A and RNase III conditions (up to 2 h) and increased delivery efficiency by 35%-65%. SPc-loaded miR393 enhanced tomato immunity by activating the jasmonic acid/salicylic acid (JA/SA) pathways, suppressing auxin receptor genes, and inducing PR1 protein accumulation (6.8-fold). Furthermore, inoculation assays showed that dsmiR393 reduced gray mold lesion areas by 67% in tomato, 88% in strawberry, and 41% in grape. This study elucidates the dual mechanism of miR393 to control gray mold, including cross-kingdom regulation for pathogenic fungi and modulation of plant immunity. This work provides a new strategy for disease prevention and control in sustainable agriculture. Gray mold, caused by the fungal pathogen Botrytis cinerea, is a major threat to global agriculture. Conventional pesticide control exacerbates environmental pollution and the risk of resistance development. Although RNA interference (RNAi) holds potential for disease control, its application is limited by instability of RNA and ambiguous targeting. This study demonstrates that tomato microRNA393 (miR393) can cross-kingdom into B. cinerea and reduce its pathogenicity. Using RT-qPCR, GUS staining, and 5' RLM-RACE, we confirmed that miR393 specifically targets nucleotides 1777-1778 of the BcFKS1 gene in B. cinerea, thereby inhibiting its expression and disrupting the fungal cell wall. To protect against miRNA degradation, we constructed a nanocarrier delivery system based on Star Polycation (SPc) was constructed. This nanomaterial extended the degradation half-life of miR393's by 6-fold under RNase A and RNase III conditions (up to 2 h) and increased delivery efficiency by 35%-65%. SPc-loaded miR393 enhanced tomato immunity by activating the jasmonic acid/salicylic acid (JA/SA) pathways, suppressing auxin receptor genes, and inducing PR1 protein accumulation (6.8-fold). Furthermore, inoculation assays showed that dsmiR393 reduced gray mold lesion areas by 67% in tomato, 88% in strawberry, and 41% in grape. This study elucidates the dual mechanism of miR393 to control gray mold, including cross-kingdom regulation for pathogenic fungi and modulation of plant immunity. This work provides a new strategy for disease prevention and control in sustainable agriculture.",
-    "keywords": [
-      "Botrytis cinerea",
-      "FKS1",
-      "gray mold",
-      "miR393",
-      "nanomaterials",
-      "plant protection"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41234009/",
-    "fetch_date": "2025-11-19 07:32:50",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41225764",
-    "doi": "10.1111/nph.70729",
-    "title": "Natural allelic variations in IbJAZ10-IbNF-YA3 complex regulate Rhizopus soft rot resistance in sweet potato.",
-    "authors": "Wang W, Wang Z, Wei Y, ..., Liu Q, Zhang H, He S",
-    "journal": "The New phytologist",
-    "pub_date": "2025 Nov",
-    "abstract": "Sweet potato is a globally important root and tuber crop. Soft rot severely threatens its postharvest quality and market value. However, research on the pathogenic mechanisms of soft rot remains limited. Here, we isolated a highly virulent fungal strain, Rhizopus stolonifer MY03, and identified one single nucleotide polymorphism within the promoter region of JASMONATE-ZIM domain protein 10 (IbJAZ10) linked to soft rot resistance. In susceptible varieties, the expression of IbJAZ10 Sweet potato is a globally important root and tuber crop. Soft rot severely threatens its postharvest quality and market value. However, research on the pathogenic mechanisms of soft rot remains limited. Here, we isolated a highly virulent fungal strain, Rhizopus stolonifer MY03, and identified one single nucleotide polymorphism within the promoter region of JASMONATE-ZIM domain protein 10 (IbJAZ10) linked to soft rot resistance. In susceptible varieties, the expression of IbJAZ10 Hap2  was significantly upregulated. Overexpression of IbJAZ10 enhanced susceptibility to soft rot. IbJAZ10 interacts with NUCLEAR FACTOR-Y protein 3 (IbNF-YA3). The high dosage Pro::IbNF-YA3 Hap1  allele led to a substantial increase in IbNF-YA3 expression, which conferred resistance to soft rot and improved yield by > 9.7%. Moreover, a MY03-specific effector RsSUN41 hijacks IbJAZ10 to degrade IbNF-YA3, thereby inhibiting multiple defense pathways. Our findings provide insights into Rhizopus pathogenicity and establish a genetic basis for soft rot research as well as the development of disease-resistant crops.",
-    "keywords": [
-      "IbJAZ10",
-      "IbNF‐YA3",
-      "Rhizopus soft rot",
-      "RsSUN41",
-      "sweet potato"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41225764/",
-    "fetch_date": "2025-11-19 07:32:50",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41223020",
-    "doi": "10.1093/plphys/kiaf582",
-    "title": "From evasion to elicitation: a fungal effector turned into defense trigger.",
-    "authors": "Teixeira M",
-    "journal": "Plant physiology",
-    "pub_date": "2025 Nov",
-    "abstract": "",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41223020/",
-    "fetch_date": "2025-11-19 07:32:50",
+    "fetch_date": "2025-11-20 02:06:40",
     "query_group": "Plant-Specific Journals"
   }
 ]
