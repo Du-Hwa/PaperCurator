@@ -1,0 +1,84 @@
+[
+  {
+    "pmid": "41223217",
+    "doi": "10.1073/pnas.2513517122",
+    "title": "SERK5 genetically compensates for the loss of BAK1 and BKK1 in regulating elf18-triggered immune signaling in ",
+    "authors": "Li Y, Tao Y, Yao X, ..., Xiong X, Gong BQ, Li JF",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "pub_date": "2025 Nov",
+    "abstract": "SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASEs (SERKs), particularly BRASSINOSTEROID INSENSITIVE1-ASSOCIATED KINASE 1 (BAK1) (SERK3) and BKK1 (SERK4), function as pleiotropic coreceptors to transduce extracellular developmental and immune signals in  SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASEs (SERKs), particularly BRASSINOSTEROID INSENSITIVE1-ASSOCIATED KINASE 1 (BAK1) (SERK3) and BKK1 (SERK4), function as pleiotropic coreceptors to transduce extracellular developmental and immune signals in  Arabidopsis thaliana . However, SERK5, the closest paralog of BAK1/BKK1, is long considered a nonfunctional kinase due to a mutation in the conserved arginine-aspartic acid (RD) motif within its kinase domain. Here, we show that artificial microRNA (amiRNA)-mediated cosilencing of  BAK1 / BKK1 / SERK5  induces autoimmunity, which is more severe than that observed in  bak1 bkk1  double mutants. Complementation with the amiRNA-resistant  mSERK5 , but surprisingly not with  mSERK5Km  encoding an ATP-binding-deficient SERK5, rescues this autoimmunity. Knockout of  ENHANCED DISEASE SUSCEPTIBILITY 1 , a central component of plant immunity with important functions in effector-triggered immunity (ETI), or  BAK-TO-LIFE 2 , a surveillance protein sensing BAK1/BKK1 perturbations in immunity, partially suppresses the amiRNA-mediated autoimmunity. The bacterial elicitor elf18 swiftly upregulates  SERK5  expression.  BAK1 / BKK1 / SERK5  cosilencing seedlings complemented with  mSERK5  maintain wild-type levels of elf18-induced mitogen-activated protein kinase (MAPK) activation, while overexpression of  SERK5 , but not unrelated  SERK1  or  SERK2 , restores normal elf18-induced MAPK activation in  bak1  null protoplasts. These findings unmask a substitute coreceptor role for SERK5 in elf18 signaling, and suggest that plants can monitor and discriminate between concurrent BAK1/BKK1/SERK5 inactivation and BAK1/BKK1 depletion to fine-tune the severity of downstream ETI responses.",
+    "keywords": [
+      "SERK5",
+      "autoimmunity",
+      "elf18",
+      "plant immunity"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41223217/",
+    "fetch_date": "2025-11-20 02:06:35",
+    "query_group": "Medium Impact Specialized"
+  },
+  {
+    "pmid": "41249506",
+    "doi": "10.1038/s44318-025-00614-x",
+    "title": "The Arabidopsis phosphatase PP2C12 negatively regulates LRX-RALF-FER-mediated cell wall integrity sensing.",
+    "authors": "Hou X, Bender KW, Fernández-Fernández ÁD, ..., Wicker T, Zipfel C, Ringli C",
+    "journal": "The EMBO journal",
+    "pub_date": "2025 Nov",
+    "abstract": "Plants have evolved an elaborate cell wall integrity (CWI) sensing system to monitor and modify cell wall formation. LRR-extensins (LRXs) are cell wall-anchored proteins that bind RAPID ALKALINIZATION FACTOR (RALF) peptide hormones and induce compaction of cell wall structures. LRXs also form a signaling platform with RALFs and the transmembrane receptor kinase FERONIA (FER) to maintain cell wall integrity. LRX1 of Arabidopsis thaliana is predominantly expressed in root hairs, and lrx1 mutants develop defective root hairs. Here, we identify a regulator of LRX1-RALF-FER signaling as a suppressor of the lrx1 root hair phenotype. The repressor of lrx1_23 (rol23) gene encodes PP2C12, a clade H phosphatase that interacts with FER and dephosphorylates Thr696 in the FER activation loop in vitro. Expression of FER phospho-mimetic and phospho-null mutants in an lrx1 fer-4 background demonstrates that phosphorylation of FER at Thr696 is essential for suppression of lrx1 phenotypes by rol23. The LRX1-related function of PP2Cs appears clade H-specific. Collectively, our data suggest that LRX1 acts upstream of the RALF-FER signaling module and that PP2C12 inhibits FER via activation-loop dephosphorylation. Plants have evolved an elaborate cell wall integrity (CWI) sensing system to monitor and modify cell wall formation. LRR-extensins (LRXs) are cell wall-anchored proteins that bind RAPID ALKALINIZATION FACTOR (RALF) peptide hormones and induce compaction of cell wall structures. LRXs also form a signaling platform with RALFs and the transmembrane receptor kinase FERONIA (FER) to maintain cell wall integrity. LRX1 of Arabidopsis thaliana is predominantly expressed in root hairs, and lrx1 mutants develop defective root hairs. Here, we identify a regulator of LRX1-RALF-FER signaling as a suppressor of the lrx1 root hair phenotype. The repressor of lrx1_23 (rol23) gene encodes PP2C12, a clade H phosphatase that interacts with FER and dephosphorylates Thr696 in the FER activation loop in vitro. Expression of FER phospho-mimetic and phospho-null mutants in an lrx1 fer-4 background demonstrates that phosphorylation of FER at Thr696 is essential for suppression of lrx1 phenotypes by rol23. The LRX1-related function of PP2Cs appears clade H-specific. Collectively, our data suggest that LRX1 acts upstream of the RALF-FER signaling module and that PP2C12 inhibits FER via activation-loop dephosphorylation.",
+    "keywords": [
+      "Arabidopsis",
+      "FERONIA",
+      "LRX1",
+      "PP2C12",
+      "Root Hairs"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41249506/",
+    "fetch_date": "2025-11-20 02:06:35",
+    "query_group": "Medium Impact Specialized"
+  },
+  {
+    "pmid": "41138724",
+    "doi": "10.1016/j.cub.2025.09.060",
+    "title": "Arabidopsis LOHN1 peptide modulates lateral root spacing under the control of systemic nitrogen-satiety signaling.",
+    "authors": "Ito K, Sonoda T, Hisanaga Y, ..., Hanada K, Iba K, Kusumi K",
+    "journal": "Current biology : CB",
+    "pub_date": "2025 Nov",
+    "abstract": "In Arabidopsis thaliana, high nitrogen (N) levels are known to induce a systemic signal that represses lateral root (LR) development. However, the molecular mechanisms underlying this response remain poorly understood. In this study, we identified a cysteine-rich secretory peptide, LATERAL ROOT OVERPRODUCTION UNDER HIGH-NITROGEN CONDITIONS 1 (LOHN1), as a key signaling molecule involved in translating an N-sufficient nutritional status into a morphological response that inhibits LR development. High N supply induces LOHN1 expression in phloem companion cells at the root tip region under the control of shoot-derived glutamate and glutamate receptor-like channel (GLR). LOHN1 secretion into the apoplastic space regulates the expression of auxin transporter genes to reduce the frequency of LR priming and LR founder cell formation, thereby suppressing LR branching. Our data provide a molecular basis for how plants respond to high N supply and control root architecture to achieve proper plant growth. In Arabidopsis thaliana, high nitrogen (N) levels are known to induce a systemic signal that represses lateral root (LR) development. However, the molecular mechanisms underlying this response remain poorly understood. In this study, we identified a cysteine-rich secretory peptide, LATERAL ROOT OVERPRODUCTION UNDER HIGH-NITROGEN CONDITIONS 1 (LOHN1), as a key signaling molecule involved in translating an N-sufficient nutritional status into a morphological response that inhibits LR development. High N supply induces LOHN1 expression in phloem companion cells at the root tip region under the control of shoot-derived glutamate and glutamate receptor-like channel (GLR). LOHN1 secretion into the apoplastic space regulates the expression of auxin transporter genes to reduce the frequency of LR priming and LR founder cell formation, thereby suppressing LR branching. Our data provide a molecular basis for how plants respond to high N supply and control root architecture to achieve proper plant growth.",
+    "keywords": [
+      "glutamate",
+      "lateral root development",
+      "nitrogen signal",
+      "peptide signal",
+      "short ORF"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41138724/",
+    "fetch_date": "2025-11-20 02:06:35",
+    "query_group": "Medium Impact Specialized"
+  },
+  {
+    "pmid": "41238555",
+    "doi": "10.1038/s41467-025-65934-2",
+    "title": "A fungal pathogen manipulates phytocytokine signaling for plant infection.",
+    "authors": "Hua C, Zhang L, Stintzi A, Schaller A, Guo HS, Nürnberger T",
+    "journal": "Nature communications",
+    "pub_date": "2025 Nov",
+    "abstract": "Phytocytokines, hormone-like plant peptides, play crucial roles in immune regulation and development. Phytosulfokine (PSK), known to mediate plant growth, also modulates plant pattern-triggered immunity (PTI). Here, we demonstrate that VdSCP8, a small cysteine-containing effector from Verticillium dahliae, functions as a virulence-promoting protein that suppresses PTI in Arabidopsis thaliana and Nicotiana benthamiana. Apoplastic SCP8 suppresses immune activation mediated by leucine-rich repeat ectodomain pattern recognition receptors. SCP8 virulence and immunosuppressive activities require PHYTOSULFOKINE RECEPTOR 1 (PSKR1), which binds PSK and forms a complex with co-receptor BAK1 to suppress PTI. Our findings underscore SCP8's role in PTI suppression, facilitating PSKR1-BAK1 complex formation and promoting PSK accumulation through a plant subtilase. These results highlight how a multi-host plant pathogen manipulates PTI through enhancing immunosuppressive PSK signaling. Phytocytokines, hormone-like plant peptides, play crucial roles in immune regulation and development. Phytosulfokine (PSK), known to mediate plant growth, also modulates plant pattern-triggered immunity (PTI). Here, we demonstrate that VdSCP8, a small cysteine-containing effector from Verticillium dahliae, functions as a virulence-promoting protein that suppresses PTI in Arabidopsis thaliana and Nicotiana benthamiana. Apoplastic SCP8 suppresses immune activation mediated by leucine-rich repeat ectodomain pattern recognition receptors. SCP8 virulence and immunosuppressive activities require PHYTOSULFOKINE RECEPTOR 1 (PSKR1), which binds PSK and forms a complex with co-receptor BAK1 to suppress PTI. Our findings underscore SCP8's role in PTI suppression, facilitating PSKR1-BAK1 complex formation and promoting PSK accumulation through a plant subtilase. These results highlight how a multi-host plant pathogen manipulates PTI through enhancing immunosuppressive PSK signaling.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41238555/",
+    "fetch_date": "2025-11-20 02:06:35",
+    "query_group": "Medium Impact Specialized"
+  },
+  {
+    "pmid": "41238726",
+    "doi": "10.1038/s41477-025-02151-1",
+    "title": "Cambium LBDs promote radial growth by regulating PLL-mediated pectin metabolism.",
+    "authors": "Ye L, Wang X, Valle-Delgado JJ, ..., Takahashi J, Sierla M, Mähönen AP",
+    "journal": "Nature plants",
+    "pub_date": "2025 Nov",
+    "abstract": "Plant growth originates from the interlinked action of cell division and cell growth. During radial growth of secondary tissues, bifacial cambial stem cells grow and divide to produce xylem and phloem precursors, which subsequently undergo expansion characteristic of their respective differentiation processes. In Arabidopsis roots, cytokinins and four downstream LATERAL ORGAN BOUNDARIES DOMAIN (LBD) transcription factors are key players in promoting radial growth, though the underlying mechanisms remain unknown. Here our results indicate that these LBD genes primarily regulate cell growth rather than proliferation. Through a large-scale CRISPR-Cas9-aided reverse genetic screen, we identified a set of PECTATE LYASE-LIKE (PLL) genes that function downstream of cytokinin and the LBDs in the regulation of radial growth. We show that at least one of these PLLs, PLL18, possesses pectate lyase activity. In accordance with this activity, PLLs and LBDs promote radial growth by modifying the pectin composition and mechanical properties of the primary cell wall. Our findings thus connect the central role of cytokinins in radial growth with cell wall remodelling and pave a way for further research on hormone-mediated plant growth regulation and cell wall metabolism. Plant growth originates from the interlinked action of cell division and cell growth. During radial growth of secondary tissues, bifacial cambial stem cells grow and divide to produce xylem and phloem precursors, which subsequently undergo expansion characteristic of their respective differentiation processes. In Arabidopsis roots, cytokinins and four downstream LATERAL ORGAN BOUNDARIES DOMAIN (LBD) transcription factors are key players in promoting radial growth, though the underlying mechanisms remain unknown. Here our results indicate that these LBD genes primarily regulate cell growth rather than proliferation. Through a large-scale CRISPR-Cas9-aided reverse genetic screen, we identified a set of PECTATE LYASE-LIKE (PLL) genes that function downstream of cytokinin and the LBDs in the regulation of radial growth. We show that at least one of these PLLs, PLL18, possesses pectate lyase activity. In accordance with this activity, PLLs and LBDs promote radial growth by modifying the pectin composition and mechanical properties of the primary cell wall. Our findings thus connect the central role of cytokinins in radial growth with cell wall remodelling and pave a way for further research on hormone-mediated plant growth regulation and cell wall metabolism.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41238726/",
+    "fetch_date": "2025-11-20 02:06:40",
+    "query_group": "Plant-Specific Journals"
+  }
+]
