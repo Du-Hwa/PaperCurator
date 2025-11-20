@@ -143,21 +143,22 @@ def fetch_paper_details(pmid):
         pmid_elem = article.find('.//PMID')
         pmid = pmid_elem.text if pmid_elem is not None else ''
         
-        # Title
+        # Title (모든 하위 태그의 텍스트 포함)
         title_elem = article.find('.//ArticleTitle')
-        title = title_elem.text if title_elem is not None else 'No title'
+        if title_elem is not None:
+            # itertext()로 모든 하위 텍스트 추출
+            title = ''.join(title_elem.itertext()).strip()
+        else:
+            title = 'No title'
         
-        # Abstract
+        # Abstract (모든 하위 태그의 텍스트 포함)
         abstract_texts = article.findall('.//AbstractText')
         abstract_parts = []
         for at in abstract_texts:
-            text_parts = [at.text or '']
-            for elem in at.iter():
-                if elem.text:
-                    text_parts.append(elem.text)
-                if elem.tail:
-                    text_parts.append(elem.tail)
-            abstract_parts.append(' '.join(text_parts).strip())
+            # itertext()로 모든 하위 텍스트 추출
+            text = ''.join(at.itertext()).strip()
+            if text:
+                abstract_parts.append(text)
         abstract = ' '.join(abstract_parts) if abstract_parts else ''
         
         # Authors
