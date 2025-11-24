@@ -1,0 +1,36 @@
+[
+  {
+    "pmid": "41264695",
+    "doi": "10.1126/science.adz8505",
+    "title": "CRISPR-Cas-mediated heritable chromosome fusions in ",
+    "authors": "Rönspies M, Khosravi S, Helia O, ..., Fojtová M, Houben A, Puchta H",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2025 Nov",
+    "abstract": "The genome of  The genome of  Arabidopsis thaliana  consists of 10 chromosomes. By inducing CRISPR-Cas-mediated breaks at subcentromeric and subtelomeric sequences, we fused entire chromosome arms, obtaining two eight-chromosome lines. In one line, both arms of chromosome 3 were fused to chromosome 1. In another line, the arms were transferred to chromosomes 1 and 5. Both chromosome number-reduced lines were fertile. Phenotypic and transcriptional analyses revealed no differences compared with wild-type plants. After crossing with the wild type, the progeny showed reduced fertility. The meiotic recombination patterns of the transferred chromosome arms were substantially changed. Directed chromosome number changes in plants may enable new breeding strategies, redefining linkage groups and establishing genetic barriers. Moreover, our data indicate that plants are highly robust to engineered karyotype changes.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41264695/",
+    "fetch_date": "2025-11-24 10:31:14",
+    "query_group": "High Impact General"
+  },
+  {
+    "pmid": "41254967",
+    "doi": "10.1111/nph.70738",
+    "title": "SWEET1-mediated glucose transport is crucial for energy availability in Arabidopsis.",
+    "authors": "Xue X, Li J, Yu YC, Chen LQ",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Nov",
+    "abstract": "The stress-responsive hormone abscisic acid (ABA) is known for its inhibitory effects on various physiological processes, including seed germination, often resulting in energy deprivation. Interestingly, ABA-induced germination inhibition can be alleviated by exogenous glucose (Glc), mimicking a functional interplay between ABA and sugar signaling in vivo. However, it remains poorly understood which sugar transporter mediates Glc allocation under ABA treatment and how Glc counteracts the effects of ABA. To address this, we combined transcriptomic analyses, transport assays, physiological studies, and genetic approaches to identify and characterize processes involved in Glc allocation that counteract the inhibitory effects of ABA during seed germination in Arabidopsis thaliana. We identified the plasma membrane-localized Glc uniporter SWEET1 as a key player in the Glc-mediated suppression of ABA inhibition. The sweet1 mutants showed delayed germination in the presence of ABA, reduced Glc transport, and slower root growth under energy starvation conditions. The suppression of ABA inhibited germination by Glc transported by SWEET1 appears to depend, at least partially, on Glc signaling through SnRK1 kinase pathway, including KIN10. Our findings demonstrate that SWEET1 is crucial for Glc suppression of ABA-induced inhibition during seed germination and provide insight into sugar signaling pathways linked to environment- or ABA-triggered energy deficiency. The stress-responsive hormone abscisic acid (ABA) is known for its inhibitory effects on various physiological processes, including seed germination, often resulting in energy deprivation. Interestingly, ABA-induced germination inhibition can be alleviated by exogenous glucose (Glc), mimicking a functional interplay between ABA and sugar signaling in vivo. However, it remains poorly understood which sugar transporter mediates Glc allocation under ABA treatment and how Glc counteracts the effects of ABA. To address this, we combined transcriptomic analyses, transport assays, physiological studies, and genetic approaches to identify and characterize processes involved in Glc allocation that counteract the inhibitory effects of ABA during seed germination in Arabidopsis thaliana. We identified the plasma membrane-localized Glc uniporter SWEET1 as a key player in the Glc-mediated suppression of ABA inhibition. The sweet1 mutants showed delayed germination in the presence of ABA, reduced Glc transport, and slower root growth under energy starvation conditions. The suppression of ABA inhibited germination by Glc transported by SWEET1 appears to depend, at least partially, on Glc signaling through SnRK1 kinase pathway, including KIN10. Our findings demonstrate that SWEET1 is crucial for Glc suppression of ABA-induced inhibition during seed germination and provide insight into sugar signaling pathways linked to environment- or ABA-triggered energy deficiency. 逆境响应激素脱落酸(abscisic acid, ABA)以其对多种生理过程的抑制作用而著称，其中包括对种子萌发的抑制，常伴随能量匮乏的发生。值得注意的是，外源葡萄糖(Glc)可显著缓解ABA引起的萌发抑制，模拟了ABA与Glc在体内信号间的功能互作。然而，目前尚不清楚在ABA处理条件下哪种糖转运蛋白介导Glc的分配，以及Glc如何拮抗ABA作用的机制。 本研究通过结合转录组分析、转运活性测定、生理学实验及遗传学研究，系统解析了在拟南芥(Arabidopsis thaliana)种子萌发过程中，Glc分配是如何参与抵消ABA抑制效应的相关机制。 研究发现，质膜定位的Glc转运蛋白SWEET1是Glc介导缓解ABA抑制的关键因子。在有ABA存在的条件下，sweet1突变体表现出萌发延迟、Glc吸收能力下降以及能量饥饿条件下根系生长受限的表型。SWEET1介导的Glc转运对ABA抑制萌发的缓解作用，至少部分依赖于Glc‐SnRK1激酶通路(包括KIN10)介导的信号传导。 综上所述，本研究表明在种子萌发过程中，SWEET1介导的糖转运对ABA引起的抑制具有关键的缓解作用，并为理解由逆境或ABA激发的能量缺乏相关的糖信号通路提供了新的分子机制见解。. 逆境响应激素脱落酸(abscisic acid, ABA)以其对多种生理过程的抑制作用而著称，其中包括对种子萌发的抑制，常伴随能量匮乏的发生。值得注意的是，外源葡萄糖(Glc)可显著缓解ABA引起的萌发抑制，模拟了ABA与Glc在体内信号间的功能互作。然而，目前尚不清楚在ABA处理条件下哪种糖转运蛋白介导Glc的分配，以及Glc如何拮抗ABA作用的机制。 本研究通过结合转录组分析、转运活性测定、生理学实验及遗传学研究，系统解析了在拟南芥(Arabidopsis thaliana)种子萌发过程中，Glc分配是如何参与抵消ABA抑制效应的相关机制。 研究发现，质膜定位的Glc转运蛋白SWEET1是Glc介导缓解ABA抑制的关键因子。在有ABA存在的条件下，sweet1突变体表现出萌发延迟、Glc吸收能力下降以及能量饥饿条件下根系生长受限的表型。SWEET1介导的Glc转运对ABA抑制萌发的缓解作用，至少部分依赖于Glc‐SnRK1激酶通路(包括KIN10)介导的信号传导。 综上所述，本研究表明在种子萌发过程中，SWEET1介导的糖转运对ABA引起的抑制具有关键的缓解作用，并为理解由逆境或ABA激发的能量缺乏相关的糖信号通路提供了新的分子机制见解。.",
+    "keywords": [
+      "KIN10",
+      "SWEET1",
+      "TOR",
+      "abscisic acid",
+      "glucose",
+      "seed germination",
+      "sugar transporter"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41254967/",
+    "fetch_date": "2025-11-24 10:31:17",
+    "query_group": "Plant-Specific Journals"
+  }
+]
