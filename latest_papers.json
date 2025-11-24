@@ -1,5 +1,18 @@
 [
   {
+    "pmid": "41264695",
+    "doi": "10.1126/science.adz8505",
+    "title": "CRISPR-Cas-mediated heritable chromosome fusions in ",
+    "authors": "Rönspies M, Khosravi S, Helia O, ..., Fojtová M, Houben A, Puchta H",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2025 Nov",
+    "abstract": "The genome of  The genome of  Arabidopsis thaliana  consists of 10 chromosomes. By inducing CRISPR-Cas-mediated breaks at subcentromeric and subtelomeric sequences, we fused entire chromosome arms, obtaining two eight-chromosome lines. In one line, both arms of chromosome 3 were fused to chromosome 1. In another line, the arms were transferred to chromosomes 1 and 5. Both chromosome number-reduced lines were fertile. Phenotypic and transcriptional analyses revealed no differences compared with wild-type plants. After crossing with the wild type, the progeny showed reduced fertility. The meiotic recombination patterns of the transferred chromosome arms were substantially changed. Directed chromosome number changes in plants may enable new breeding strategies, redefining linkage groups and establishing genetic barriers. Moreover, our data indicate that plants are highly robust to engineered karyotype changes.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41264695/",
+    "fetch_date": "2025-11-24 10:31:14",
+    "query_group": "High Impact General"
+  },
+  {
     "pmid": "41223217",
     "doi": "10.1073/pnas.2513517122",
     "title": "SERK5 genetically compensates for the loss of BAK1 and BKK1 in regulating elf18-triggered immune signaling in ",
@@ -14,7 +27,7 @@
       "plant immunity"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41223217/",
-    "fetch_date": "2025-11-20 02:06:35",
+    "fetch_date": "2025-11-24 10:31:15",
     "query_group": "Medium Impact Specialized"
   },
   {
@@ -33,7 +46,7 @@
       "biomolecular condensation"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41213015/",
-    "fetch_date": "2025-11-20 02:06:35",
+    "fetch_date": "2025-11-24 10:31:15",
     "query_group": "Medium Impact Specialized"
   },
   {
@@ -52,7 +65,7 @@
       "variation"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41213012/",
-    "fetch_date": "2025-11-20 02:06:35",
+    "fetch_date": "2025-11-24 10:31:15",
     "query_group": "Medium Impact Specialized"
   },
   {
@@ -71,7 +84,7 @@
       "Root Hairs"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41249506/",
-    "fetch_date": "2025-11-20 02:06:35",
+    "fetch_date": "2025-11-24 10:31:15",
     "query_group": "Medium Impact Specialized"
   },
   {
@@ -90,21 +103,153 @@
       "short ORF"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41138724/",
-    "fetch_date": "2025-11-20 02:06:35",
+    "fetch_date": "2025-11-24 10:31:15",
     "query_group": "Medium Impact Specialized"
   },
   {
-    "pmid": "41238555",
-    "doi": "10.1038/s41467-025-65934-2",
-    "title": "A fungal pathogen manipulates phytocytokine signaling for plant infection.",
-    "authors": "Hua C, Zhang L, Stintzi A, Schaller A, Guo HS, Nürnberger T",
-    "journal": "Nature communications",
+    "pmid": "41276876",
+    "doi": "10.1111/nph.70781",
+    "title": "Intraspecific variation in the growth-defense trade-off among deciduous and evergreen broadleaf woody plants.",
+    "authors": "Zhou G, Petticord DF, Wang X, ..., Zhang Z, Jin G, Liu Z",
+    "journal": "The New phytologist",
     "pub_date": "2025 Nov",
-    "abstract": "Phytocytokines, hormone-like plant peptides, play crucial roles in immune regulation and development. Phytosulfokine (PSK), known to mediate plant growth, also modulates plant pattern-triggered immunity (PTI). Here, we demonstrate that VdSCP8, a small cysteine-containing effector from Verticillium dahliae, functions as a virulence-promoting protein that suppresses PTI in Arabidopsis thaliana and Nicotiana benthamiana. Apoplastic SCP8 suppresses immune activation mediated by leucine-rich repeat ectodomain pattern recognition receptors. SCP8 virulence and immunosuppressive activities require PHYTOSULFOKINE RECEPTOR 1 (PSKR1), which binds PSK and forms a complex with co-receptor BAK1 to suppress PTI. Our findings underscore SCP8's role in PTI suppression, facilitating PSKR1-BAK1 complex formation and promoting PSK accumulation through a plant subtilase. These results highlight how a multi-host plant pathogen manipulates PTI through enhancing immunosuppressive PSK signaling. Phytocytokines, hormone-like plant peptides, play crucial roles in immune regulation and development. Phytosulfokine (PSK), known to mediate plant growth, also modulates plant pattern-triggered immunity (PTI). Here, we demonstrate that VdSCP8, a small cysteine-containing effector from Verticillium dahliae, functions as a virulence-promoting protein that suppresses PTI in Arabidopsis thaliana and Nicotiana benthamiana. Apoplastic SCP8 suppresses immune activation mediated by leucine-rich repeat ectodomain pattern recognition receptors. SCP8 virulence and immunosuppressive activities require PHYTOSULFOKINE RECEPTOR 1 (PSKR1), which binds PSK and forms a complex with co-receptor BAK1 to suppress PTI. Our findings underscore SCP8's role in PTI suppression, facilitating PSKR1-BAK1 complex formation and promoting PSK accumulation through a plant subtilase. These results highlight how a multi-host plant pathogen manipulates PTI through enhancing immunosuppressive PSK signaling.",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41238555/",
-    "fetch_date": "2025-11-20 02:06:35",
-    "query_group": "Medium Impact Specialized"
+    "abstract": "Plants make tradeoffs between growth and defense. However, differences in these tradeoffs interindividual, variation on the axes of trait expression, remain poorly understood. We evaluated six key leaf traits - defense traits (total phenols, condensed tannins, flavonoids, and specific leaf density) and nutrient acquisition traits (nitrogen and phosphorus content)-across 1985 individuals representing 314 species in 18 natural forest communities along a 4000-km latitudinal gradient in China. We found deciduous plants have higher nutrient content, whereas evergreen plants consistently invest more heavily in defense. Moreover, this broad difference in functional type (deciduous vs evergreen) was also a useful lens to examine the influence of intraspecific, interindividual variation on defense-acquisition trait axes. In evergreen plants, intraspecific variation causes a substantial shift in the orientation of trait space, with a 46.75° rotation of the defense-nutrient axis, compared to just 1.11° in deciduous plants. Only one trait-phenology combination (specific leaf density in evergreen plants) changed in a predictable way based on phylogeny. Overall, our results suggest evergreen plants are more constrained in how much they can vary their traits. This advances our understanding of evolution along the conservation/acquisitive axis, at least with regard to leaf traits. Plants make tradeoffs between growth and defense. However, differences in these tradeoffs interindividual, variation on the axes of trait expression, remain poorly understood. We evaluated six key leaf traits - defense traits (total phenols, condensed tannins, flavonoids, and specific leaf density) and nutrient acquisition traits (nitrogen and phosphorus content)-across 1985 individuals representing 314 species in 18 natural forest communities along a 4000-km latitudinal gradient in China. We found deciduous plants have higher nutrient content, whereas evergreen plants consistently invest more heavily in defense. Moreover, this broad difference in functional type (deciduous vs evergreen) was also a useful lens to examine the influence of intraspecific, interindividual variation on defense-acquisition trait axes. In evergreen plants, intraspecific variation causes a substantial shift in the orientation of trait space, with a 46.75° rotation of the defense-nutrient axis, compared to just 1.11° in deciduous plants. Only one trait-phenology combination (specific leaf density in evergreen plants) changed in a predictable way based on phylogeny. Overall, our results suggest evergreen plants are more constrained in how much they can vary their traits. This advances our understanding of evolution along the conservation/acquisitive axis, at least with regard to leaf traits.",
+    "keywords": [
+      "deciduous plant",
+      "defense",
+      "evergreen plant",
+      "growth",
+      "nutrient",
+      "phylogeny",
+      "trait space"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41276876/",
+    "fetch_date": "2025-11-24 10:31:17",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41276785",
+    "doi": "10.1111/nph.70746",
+    "title": "Integration of light quality signals regulates ABA abundance and stomatal movements during seedling establishment.",
+    "authors": "Gustavsson M, Hill L, Franklin KA, Pridgeon AJ",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Nov",
+    "abstract": "Obtaining sufficient light for photosynthesis and avoiding desiccation are two key challenges faced by seedlings during early establishment. Perception of light quality via specialised photoreceptors signals the availability of sunlight for photosynthesis. Canopy shade is depleted in red (R) and enriched in far-red (FR) light, lowering R : FR ratio, while direct sunlight and sunflecks contain UV-B. The balance between these wavelengths can determine the developmental strategy adopted by seedlings to either avoid shade, via stem elongation, or promote the expansion of photosynthetic organs. How seedlings regulate stomatal movements in different light environments is poorly understood. Using FR and UV-B supplementation to mimic aspects of canopy shade and sunlight, respectively, we monitored stomatal apertures in Arabidopsis thaliana cotyledons and gas exchange in the cotyledons of Chinese kale (Brassica oleracea var alboglabra). We show that low R : FR inhibits stomatal opening via a mechanism involving PHYTOCHROME INTERACTING FACTOR 4 (PIF4) and increased abscisic acid (ABA). UV-B perceived by the UV RESISTANCE LOCUS 8 (UVR8) photoreceptor acts antagonistically, promoting stomatal opening in a response that requires phototropin photoreceptors. The convergence of phytochrome and UVR8 signalling to control ABA abundance enables plants to coordinate stem elongation and water use, potentially facilitating seedling establishment in dynamic light environments. Obtaining sufficient light for photosynthesis and avoiding desiccation are two key challenges faced by seedlings during early establishment. Perception of light quality via specialised photoreceptors signals the availability of sunlight for photosynthesis. Canopy shade is depleted in red (R) and enriched in far-red (FR) light, lowering R : FR ratio, while direct sunlight and sunflecks contain UV-B. The balance between these wavelengths can determine the developmental strategy adopted by seedlings to either avoid shade, via stem elongation, or promote the expansion of photosynthetic organs. How seedlings regulate stomatal movements in different light environments is poorly understood. Using FR and UV-B supplementation to mimic aspects of canopy shade and sunlight, respectively, we monitored stomatal apertures in Arabidopsis thaliana cotyledons and gas exchange in the cotyledons of Chinese kale (Brassica oleracea var alboglabra). We show that low R : FR inhibits stomatal opening via a mechanism involving PHYTOCHROME INTERACTING FACTOR 4 (PIF4) and increased abscisic acid (ABA). UV-B perceived by the UV RESISTANCE LOCUS 8 (UVR8) photoreceptor acts antagonistically, promoting stomatal opening in a response that requires phototropin photoreceptors. The convergence of phytochrome and UVR8 signalling to control ABA abundance enables plants to coordinate stem elongation and water use, potentially facilitating seedling establishment in dynamic light environments.",
+    "keywords": [
+      "UV‐B signalling",
+      "abscisic acid",
+      "light signalling",
+      "seedling establishment",
+      "shade avoidance",
+      "signal integration",
+      "stomata"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41276785/",
+    "fetch_date": "2025-11-24 10:31:17",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41272237",
+    "doi": "10.1111/nph.70753",
+    "title": "Roberto Solano.",
+    "authors": "",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Nov",
+    "abstract": "Roberto Solano, National Biotechnology Center, CSIC (Spain). Roberto Solano, National Biotechnology Center, CSIC (Spain).",
+    "keywords": [
+      "COI1",
+      "JAZ",
+      "MYC",
+      "Marchantia",
+      "OPDA",
+      "herbivory",
+      "jasmonate",
+      "plant defense"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41272237/",
+    "fetch_date": "2025-11-24 10:31:17",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41271605",
+    "doi": "10.1111/nph.70755",
+    "title": "Jun Yuan ().",
+    "authors": "",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Nov",
+    "abstract": "",
+    "keywords": [
+      "continuous cropping obstacles",
+      "cry for help",
+      "disease‐suppressive soils",
+      "microbiome‐informed sustainable agriculture",
+      "plant–microbe interactions",
+      "rhizosphere microbiome"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41271605/",
+    "fetch_date": "2025-11-24 10:31:17",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41264810",
+    "doi": "10.1093/plphys/kiaf602",
+    "title": "MONOPTEROS isoform MP11ir plays a role during somatic embryogenesis in Arabidopsis thaliana.",
+    "authors": "Wójcikowska B, Belaidi S, Mironova V, Citerne S, Robert HS",
+    "journal": "Plant physiology",
+    "pub_date": "2025 Nov",
+    "abstract": "Auxin is crucial for plant morphogenesis, including embryo development. Exogenous auxin application is necessary for inducing embryogenic responses in in vitro cultured explants of Arabidopsis (Arabidopsis thaliana) and other plants. Thus, components of auxin transport, signaling, and metabolism are key to somatic embryogenesis. AUXIN RESPONSE FACTOR (ARF) transcription factors bind to auxin response elements to control auxin-responsive gene expression and are often repressed by AUXIN/INDOLE-3-ACETIC ACIDs (Aux/IAAs). MONOPTEROS (MP)/ARF5 is especially important in the embryogenic transition, being highly expressed during somatic embryogenesis; its mutant cannot develop somatic embryos. The MP11ir transcript, an alternatively spliced variant of MP, produces a truncated protein missing the Phox and Bem1p (PB1) domain, crucial for ARF-Aux/IAA dimerization. This renders MP11ir insensitive to Aux/IAA repression, suggesting auxin-independent regulation. High levels of MP11ir transcript are observed during auxin- and trichostatin A-dependent induction of somatic embryogenesis. Both MP and MP11ir are essential for embryo regeneration in the mpS319 mutant. However, overexpression of a truncated MP protein (ΔARF5) lacking the PB1 domain inhibits somatic embryogenesis, resulting in callus instead of somatic embryos. Overexpression of ΔARF5, lack of MP protein (mp mutant), or interference with MP action by the auxin-resistant BODENLOS (BDL) protein affects the expression of auxin biosynthesis genes. Our results suggest that these auxin-related genes might be targets of MP11ir and/or MP. Consequently, any adjustment to MP activity alters auxin homeostasis and endogenous auxin levels, hindering embryogenic transition. Auxin is crucial for plant morphogenesis, including embryo development. Exogenous auxin application is necessary for inducing embryogenic responses in in vitro cultured explants of Arabidopsis (Arabidopsis thaliana) and other plants. Thus, components of auxin transport, signaling, and metabolism are key to somatic embryogenesis. AUXIN RESPONSE FACTOR (ARF) transcription factors bind to auxin response elements to control auxin-responsive gene expression and are often repressed by AUXIN/INDOLE-3-ACETIC ACIDs (Aux/IAAs). MONOPTEROS (MP)/ARF5 is especially important in the embryogenic transition, being highly expressed during somatic embryogenesis; its mutant cannot develop somatic embryos. The MP11ir transcript, an alternatively spliced variant of MP, produces a truncated protein missing the Phox and Bem1p (PB1) domain, crucial for ARF-Aux/IAA dimerization. This renders MP11ir insensitive to Aux/IAA repression, suggesting auxin-independent regulation. High levels of MP11ir transcript are observed during auxin- and trichostatin A-dependent induction of somatic embryogenesis. Both MP and MP11ir are essential for embryo regeneration in the mpS319 mutant. However, overexpression of a truncated MP protein (ΔARF5) lacking the PB1 domain inhibits somatic embryogenesis, resulting in callus instead of somatic embryos. Overexpression of ΔARF5, lack of MP protein (mp mutant), or interference with MP action by the auxin-resistant BODENLOS (BDL) protein affects the expression of auxin biosynthesis genes. Our results suggest that these auxin-related genes might be targets of MP11ir and/or MP. Consequently, any adjustment to MP activity alters auxin homeostasis and endogenous auxin levels, hindering embryogenic transition.",
+    "keywords": [
+      "Arabidopsis thaliana; Auxin",
+      "In vitro culture; Isoform",
+      "AUXIN RESPONSE FACTOR",
+      "Alternative splicing",
+      "Auxin signalling",
+      "MONOPTEROS",
+      "MP11ir",
+      "Somatic embryogenesis",
+      "Transcription factor"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41264810/",
+    "fetch_date": "2025-11-24 10:31:17",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41261810",
+    "doi": "10.1111/nph.70772",
+    "title": "Endophytes with mycorrhizal potentials: biological and ecological implications.",
+    "authors": "Peng L, Yang Y, Martin FM, Yuan Z",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Nov",
+    "abstract": "Generally, the root mycobiome is dominated by endophytic and mycorrhizal fungi with mutualistic potential to enhance plant fitness. In some cases, however, the distinction between the two biotrophic guilds is challenged by the ability of several endophytic fungi to colonize roots and transfer nutrients to the plants. With more research on harnessing plant-endophyte combinations using a gnotobiotic system, more endophytes endowed with mycorrhizal-like traits have been identified. They often benefit nonmycorrhizal plants by employing a set of responses to nutrient deficiency similar to those from mycorrhizal plants, orchestrate the development of ectomycorrhizal-like structures under controlled conditions, and share genetic traits with true mycorrhizal fungi, such as a lower content of plant cell wall-degrading enzymes and gene networks reminiscent of mutualistic interactions. Based on these characteristics, we propose the term 'mycorrhizal-like endophytes' to describe these fungi, which likely represent a transitional state along the endophyte-mycorrhizal mutualistic continuum. Generally, the root mycobiome is dominated by endophytic and mycorrhizal fungi with mutualistic potential to enhance plant fitness. In some cases, however, the distinction between the two biotrophic guilds is challenged by the ability of several endophytic fungi to colonize roots and transfer nutrients to the plants. With more research on harnessing plant-endophyte combinations using a gnotobiotic system, more endophytes endowed with mycorrhizal-like traits have been identified. They often benefit nonmycorrhizal plants by employing a set of responses to nutrient deficiency similar to those from mycorrhizal plants, orchestrate the development of ectomycorrhizal-like structures under controlled conditions, and share genetic traits with true mycorrhizal fungi, such as a lower content of plant cell wall-degrading enzymes and gene networks reminiscent of mutualistic interactions. Based on these characteristics, we propose the term 'mycorrhizal-like endophytes' to describe these fungi, which likely represent a transitional state along the endophyte-mycorrhizal mutualistic continuum.",
+    "keywords": [
+      "ectomycorrhizal fungi",
+      "endophytes",
+      "nonmycorrhizal plants",
+      "plant cell wall‐degrading enzymes",
+      "saprotrophy‐to‐symbiosis continuum"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41261810/",
+    "fetch_date": "2025-11-24 10:31:17",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41261800",
+    "doi": "10.1111/nph.70754",
+    "title": "Yuting Liang.",
+    "authors": "",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Nov",
+    "abstract": "",
+    "keywords": [
+      "SynComs",
+      "carbon dynamics",
+      "plant–soil microorganism interaction",
+      "soil microbiome",
+      "stress resistance"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41261800/",
+    "fetch_date": "2025-11-24 10:31:17",
+    "query_group": "Plant-Specific Journals"
   },
   {
     "pmid": "41254967",
@@ -124,7 +269,7 @@
       "sugar transporter"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41254967/",
-    "fetch_date": "2025-11-20 02:06:40",
+    "fetch_date": "2025-11-24 10:31:17",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -143,7 +288,7 @@
       "invasive plants"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41254947/",
-    "fetch_date": "2025-11-20 02:06:40",
+    "fetch_date": "2025-11-24 10:31:17",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -161,7 +306,7 @@
       "‘Fenjiao’ banana"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41253714/",
-    "fetch_date": "2025-11-20 02:06:40",
+    "fetch_date": "2025-11-24 10:31:17",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -186,7 +331,7 @@
       "symbiosis"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41253704/",
-    "fetch_date": "2025-11-20 02:06:40",
+    "fetch_date": "2025-11-24 10:31:17",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -208,7 +353,7 @@
       "RNA Binding Protein"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41254943/",
-    "fetch_date": "2025-11-20 02:06:40",
+    "fetch_date": "2025-11-24 10:31:17",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -228,7 +373,7 @@
       "phenylpropanoids"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41249874/",
-    "fetch_date": "2025-11-20 02:06:40",
+    "fetch_date": "2025-11-24 10:31:17",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -241,7 +386,7 @@
     "abstract": "Plant respiratory burst oxidase homologs (Rbohs) contribute to the production of reactive oxygen species (ROS), which are crucial defense signals in plants. However, the regulation of rice (Oryza sativa) OsRboh homeostasis has remained unclear. In this study, we reported that overexpression of OsRbohB confers resistance to Magnaporthe oryzae and Xanthomonas oryzae pv. oryzae. Mechanistically, the calcium-dependent protein kinase OsCPK4 interacts with and phosphorylates OsRbohB at Ser322 and Ser326, thereby reducing immune responses. OsRbohB phosphomimic modifications at these two sites disrupt OsRbohB-mediated disease resistance. Moreover, the RING-type E3 ubiquitin ligase OsRING142 interacts with and ubiquitinates OsRbohB at Lys266, targeting it for degradation by the 26S proteasome pathway and compromising the immune response. Overexpression of OsRbohBK266R further increased resistance compared to OsRbohB overexpression plants. Remarkably, phosphorylation at OsRbohB facilitates OsRING142-mediated ubiquitination and degradation of OsRbohB. OsRbohBK266R×S2A overexpression plants with reduced ubiquitination and phosphorylation levels of OsRbohB exhibit stronger resistance against M. oryzae. Overall, our study highlights the critical role of Rbohs in broad-spectrum resistance and demonstrates that phosphorylation and ubiquitination synergistically fine-tune Rboh protein stability and immunity. Plant respiratory burst oxidase homologs (Rbohs) contribute to the production of reactive oxygen species (ROS), which are crucial defense signals in plants. However, the regulation of rice (Oryza sativa) OsRboh homeostasis has remained unclear. In this study, we reported that overexpression of OsRbohB confers resistance to Magnaporthe oryzae and Xanthomonas oryzae pv. oryzae. Mechanistically, the calcium-dependent protein kinase OsCPK4 interacts with and phosphorylates OsRbohB at Ser322 and Ser326, thereby reducing immune responses. OsRbohB phosphomimic modifications at these two sites disrupt OsRbohB-mediated disease resistance. Moreover, the RING-type E3 ubiquitin ligase OsRING142 interacts with and ubiquitinates OsRbohB at Lys266, targeting it for degradation by the 26S proteasome pathway and compromising the immune response. Overexpression of OsRbohBK266R further increased resistance compared to OsRbohB overexpression plants. Remarkably, phosphorylation at OsRbohB facilitates OsRING142-mediated ubiquitination and degradation of OsRbohB. OsRbohBK266R×S2A overexpression plants with reduced ubiquitination and phosphorylation levels of OsRbohB exhibit stronger resistance against M. oryzae. Overall, our study highlights the critical role of Rbohs in broad-spectrum resistance and demonstrates that phosphorylation and ubiquitination synergistically fine-tune Rboh protein stability and immunity.",
     "keywords": [],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41248081/",
-    "fetch_date": "2025-11-20 02:06:40",
+    "fetch_date": "2025-11-24 10:31:17",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -254,100 +399,7 @@
     "abstract": "",
     "keywords": [],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41243520/",
-    "fetch_date": "2025-11-20 02:06:40",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41240364",
-    "doi": "10.1093/plphys/kiaf593",
-    "title": "Gatekeeping symbiosis: Autophagy shapes Serendipita indica -Arabidopsis thaliana Interaction.",
-    "authors": "Khan M",
-    "journal": "Plant physiology",
-    "pub_date": "2025 Nov",
-    "abstract": "",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41240364/",
-    "fetch_date": "2025-11-20 02:06:40",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41238726",
-    "doi": "10.1038/s41477-025-02151-1",
-    "title": "Cambium LBDs promote radial growth by regulating PLL-mediated pectin metabolism.",
-    "authors": "Ye L, Wang X, Valle-Delgado JJ, ..., Takahashi J, Sierla M, Mähönen AP",
-    "journal": "Nature plants",
-    "pub_date": "2025 Nov",
-    "abstract": "Plant growth originates from the interlinked action of cell division and cell growth. During radial growth of secondary tissues, bifacial cambial stem cells grow and divide to produce xylem and phloem precursors, which subsequently undergo expansion characteristic of their respective differentiation processes. In Arabidopsis roots, cytokinins and four downstream LATERAL ORGAN BOUNDARIES DOMAIN (LBD) transcription factors are key players in promoting radial growth, though the underlying mechanisms remain unknown. Here our results indicate that these LBD genes primarily regulate cell growth rather than proliferation. Through a large-scale CRISPR-Cas9-aided reverse genetic screen, we identified a set of PECTATE LYASE-LIKE (PLL) genes that function downstream of cytokinin and the LBDs in the regulation of radial growth. We show that at least one of these PLLs, PLL18, possesses pectate lyase activity. In accordance with this activity, PLLs and LBDs promote radial growth by modifying the pectin composition and mechanical properties of the primary cell wall. Our findings thus connect the central role of cytokinins in radial growth with cell wall remodelling and pave a way for further research on hormone-mediated plant growth regulation and cell wall metabolism. Plant growth originates from the interlinked action of cell division and cell growth. During radial growth of secondary tissues, bifacial cambial stem cells grow and divide to produce xylem and phloem precursors, which subsequently undergo expansion characteristic of their respective differentiation processes. In Arabidopsis roots, cytokinins and four downstream LATERAL ORGAN BOUNDARIES DOMAIN (LBD) transcription factors are key players in promoting radial growth, though the underlying mechanisms remain unknown. Here our results indicate that these LBD genes primarily regulate cell growth rather than proliferation. Through a large-scale CRISPR-Cas9-aided reverse genetic screen, we identified a set of PECTATE LYASE-LIKE (PLL) genes that function downstream of cytokinin and the LBDs in the regulation of radial growth. We show that at least one of these PLLs, PLL18, possesses pectate lyase activity. In accordance with this activity, PLLs and LBDs promote radial growth by modifying the pectin composition and mechanical properties of the primary cell wall. Our findings thus connect the central role of cytokinins in radial growth with cell wall remodelling and pave a way for further research on hormone-mediated plant growth regulation and cell wall metabolism.",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41238726/",
-    "fetch_date": "2025-11-20 02:06:40",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41233565",
-    "doi": "10.1038/s41477-025-02154-y",
-    "title": "Pathogen-induced condensation of the guard cell RNA-binding protein SAIR1 fine-tunes translation for immunity.",
-    "authors": "Yu Q, Wu J, Jin Y, ..., Fang X, Song S, Qi T",
-    "journal": "Nature plants",
-    "pub_date": "2025 Nov",
-    "abstract": "Plant guard cells perceive pathogens and close stomata to prevent their invasion. Biomolecular condensates are membraneless organelles essential for life processes. However, guard cell biomolecular condensates mediating stomatal immunity remain unknown. Here we identify a guard-cell-preferential RNA-recognition-motif-type RNA-BINDING PROTEIN, STOMATAL IMMUNE RNA-BINDING PROTEIN 1 (SAIR1), that forms pathogen-responsive guard cell condensates via phase separation. Upon perception of the pathogen molecular pattern flg22, the activated kinases MPK3 and MPK6 phosphorylate SAIR1 and trigger its condensation in guard cells for stomatal immunity. SAIR1 condensates recruit translational regulators such as POLYADENYLATE-BINDING PROTEINs and eIFiso4G, and sequester defence-related mRNAs, including key components of the salicylic acid pathway. Through these interactions, SAIR1 condensates enhance the translation of defence mRNAs, ultimately promoting stomatal closure. Our findings reveal phosphorylation-regulated SAIR1 condensates as a critical hub that links flg22-MPK3/6 signalling to stomatal immunity. Plant guard cells perceive pathogens and close stomata to prevent their invasion. Biomolecular condensates are membraneless organelles essential for life processes. However, guard cell biomolecular condensates mediating stomatal immunity remain unknown. Here we identify a guard-cell-preferential RNA-recognition-motif-type RNA-BINDING PROTEIN, STOMATAL IMMUNE RNA-BINDING PROTEIN 1 (SAIR1), that forms pathogen-responsive guard cell condensates via phase separation. Upon perception of the pathogen molecular pattern flg22, the activated kinases MPK3 and MPK6 phosphorylate SAIR1 and trigger its condensation in guard cells for stomatal immunity. SAIR1 condensates recruit translational regulators such as POLYADENYLATE-BINDING PROTEINs and eIFiso4G, and sequester defence-related mRNAs, including key components of the salicylic acid pathway. Through these interactions, SAIR1 condensates enhance the translation of defence mRNAs, ultimately promoting stomatal closure. Our findings reveal phosphorylation-regulated SAIR1 condensates as a critical hub that links flg22-MPK3/6 signalling to stomatal immunity.",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41233565/",
-    "fetch_date": "2025-11-20 02:06:40",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41231747",
-    "doi": "10.1093/plcell/koaf272",
-    "title": "A comprehensive omics resource and genetic tools for genetic research and precision breeding of Cucumis melo ssp. agrestis.",
-    "authors": "Xu Y, Liu B, Li Y, ..., Zhang X, Zhang Z, Chai S",
-    "journal": "The Plant cell",
-    "pub_date": "2025 Nov",
-    "abstract": "Melon (Cucumis melo L.) is a globally important fruit crop, but progress in molecular breeding has been hampered by limited functional dissection of genes associated with agronomic traits. Therefore, we developed a comprehensive genome resource based on the C. melo ssp. agrestis accession 13C. This resource includes a complete telomere-to-telomere (T2T) genome assembly, including accurate quantification of 45S rDNA copy number in melon, a transcriptome atlas from 31 tissue samples, a phenotypically diverse EMS-induced mutant library and a stable transformation system. By sequencing 1,125 M₂ families, we identified about 660,000 variants, which cover 97.33% of the annotated gene space. Leveraging these integrated resources, we identified and functionally characterized several key genes, including CLAVATA3 INSENSITIVE RECEPTOR KINASES 2 (CmCIK2), which regulates carpel number; PARA-AMINOBENZOIC ACID SYNTHASE (CmACDS), a central regulator of folate biosynthesis; and a mutant allele of the known gynoecious gene WIP DOMAIN PROTEIN 1 (CmWIP1). In addition, we discovered a specific EMS-induced variant in the fruit ripening regulator CmNAC-NOR, and further validated its function by generating targeted mutants. The CmNAC-NOR mutants exhibited delayed fruit ripening, thus providing a valuable resource for improving ripening traits in agrestis accessions. To facilitate broader utilization, we developed the Melon Information Resource (MIR), available at https://zhanglab.qau.edu.cn/melon/index.php, an integrated platform housing 13C comprehensive genome resources and associated convenient analysis tools. This unified and accession-specific resource offers unprecedented opportunities to accelerate gene discovery and trait improvement in melon through functional genomics and molecular breeding. Melon (Cucumis melo L.) is a globally important fruit crop, but progress in molecular breeding has been hampered by limited functional dissection of genes associated with agronomic traits. Therefore, we developed a comprehensive genome resource based on the C. melo ssp. agrestis accession 13C. This resource includes a complete telomere-to-telomere (T2T) genome assembly, including accurate quantification of 45S rDNA copy number in melon, a transcriptome atlas from 31 tissue samples, a phenotypically diverse EMS-induced mutant library and a stable transformation system. By sequencing 1,125 M₂ families, we identified about 660,000 variants, which cover 97.33% of the annotated gene space. Leveraging these integrated resources, we identified and functionally characterized several key genes, including CLAVATA3 INSENSITIVE RECEPTOR KINASES 2 (CmCIK2), which regulates carpel number; PARA-AMINOBENZOIC ACID SYNTHASE (CmACDS), a central regulator of folate biosynthesis; and a mutant allele of the known gynoecious gene WIP DOMAIN PROTEIN 1 (CmWIP1). In addition, we discovered a specific EMS-induced variant in the fruit ripening regulator CmNAC-NOR, and further validated its function by generating targeted mutants. The CmNAC-NOR mutants exhibited delayed fruit ripening, thus providing a valuable resource for improving ripening traits in agrestis accessions. To facilitate broader utilization, we developed the Melon Information Resource (MIR), available at https://zhanglab.qau.edu.cn/melon/index.php, an integrated platform housing 13C comprehensive genome resources and associated convenient analysis tools. This unified and accession-specific resource offers unprecedented opportunities to accelerate gene discovery and trait improvement in melon through functional genomics and molecular breeding.",
-    "keywords": [
-      "EMS",
-      "Functional genomics",
-      "Melon",
-      "Morphological variations"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41231747/",
-    "fetch_date": "2025-11-20 02:06:40",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41231742",
-    "doi": "10.1093/plcell/koaf271",
-    "title": "The ZAT14 family promotes cell death and regulates expansins to affect xylem formation and salt tolerance in Arabidopsis.",
-    "authors": "Feng M, Nanda AK, Augstein F, ..., Hu J, Helariutta Y, Melnyk CW",
-    "journal": "The Plant cell",
-    "pub_date": "2025 Nov",
-    "abstract": "The ability for stress to modify development is common in plants yet how external cues determine phenotypic outputs and developmental responses is not fully understood. Here, we uncovered a ZINC FINGER OF ARABIDOPSIS THALIANA14 (ZAT14) transcription factor whose expression was enhanced in differentiating xylem through its positive regulation by VASCULAR RELATED NAC-DOMAIN PROTEIN7 (VND7) yet decreased in root tips through its negative regulation by PLETHORA2 (PLT2) in Arabidopsis (Arabidopsis thaliana). Mutating ZAT14 and its closely related homologs, ZAT5, ZAT14L and ZAT15, disrupted vascular patterning and inhibited xylem differentiation indicating that ZATs are important for xylem formation. A transcriptome analysis of zat triple and quadruple mutants found that many cell wall-related genes were differentially expressed. In particular, ten expansin genes were repressed by ZATs and several were direct targets of the ZATs. We uncovered that salinity repressed ZAT14, ZAT14L and ZAT15 vascular expression, whereas zat mutants improved salinity tolerance, decreased xylem differentiation and reduced cell death mediated by salt. Furthermore, expansin mutants decreased salinity tolerance and increased xylem differentiation under salinity stress. We propose that ZATs are key regulators of programmed cell death that promote xylem formation, yet upon salinity stress, ZATs are repressed to inhibit cell death and improve salt tolerance, thus modifying developmental outputs in response to stress. The ability for stress to modify development is common in plants yet how external cues determine phenotypic outputs and developmental responses is not fully understood. Here, we uncovered a ZINC FINGER OF ARABIDOPSIS THALIANA14 (ZAT14) transcription factor whose expression was enhanced in differentiating xylem through its positive regulation by VASCULAR RELATED NAC-DOMAIN PROTEIN7 (VND7) yet decreased in root tips through its negative regulation by PLETHORA2 (PLT2) in Arabidopsis (Arabidopsis thaliana). Mutating ZAT14 and its closely related homologs, ZAT5, ZAT14L and ZAT15, disrupted vascular patterning and inhibited xylem differentiation indicating that ZATs are important for xylem formation. A transcriptome analysis of zat triple and quadruple mutants found that many cell wall-related genes were differentially expressed. In particular, ten expansin genes were repressed by ZATs and several were direct targets of the ZATs. We uncovered that salinity repressed ZAT14, ZAT14L and ZAT15 vascular expression, whereas zat mutants improved salinity tolerance, decreased xylem differentiation and reduced cell death mediated by salt. Furthermore, expansin mutants decreased salinity tolerance and increased xylem differentiation under salinity stress. We propose that ZATs are key regulators of programmed cell death that promote xylem formation, yet upon salinity stress, ZATs are repressed to inhibit cell death and improve salt tolerance, thus modifying developmental outputs in response to stress.",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41231742/",
-    "fetch_date": "2025-11-20 02:06:40",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41230886",
-    "doi": "10.1093/plphys/kiaf588",
-    "title": "Mapping light-harvesting and photoprotection responses in the Photosystem II antenna system of higher plants.",
-    "authors": "Guardini Z, Dall'Osto L, Gomez RL, Caferri R, Joliot P, Bassi R",
-    "journal": "Plant physiology",
-    "pub_date": "2025 Nov",
-    "abstract": "Optimal photosynthetic performance of plants requires a balance between light energy capture and its use in downstream reactions. The process of light harvesting and its regulation are mediated by a complex array of antenna proteins, whose conservation throughout evolution suggests each complex serves a specific function in the diverse growth conditions in the natural subaerial environment. However, the specific roles of individual gene products in various antenna functions remain poorly understood. In this study, we investigated the Photosystem II antenna system by employing genome editing techniques targeted at subsets of LHCB genes and characterized Arabidopsis thaliana mutants missing specific components of the Photosystem II antenna: namely, the trimeric LHCII, the monomeric LHC, or both. The focus was on light-harvesting capabilities and photoprotective functions, which included exciton trapping cooperativity, Non-Photochemical Quenching of excess excitation energy, and overall resistance to photoinhibition under excess irradiation, aiming to pinpoint the site(s) of the photoprotective responses. NPQ activity was present in all genotypes, indicating that each pigment-binding protein contributes to the overall quenching response. Within each antenna subgroup, NPQ activity did not rely on lutein, whereas zeaxanthin proved essential. Although trimeric LHCII provided the largest contribution to NPQ, the presence of monomeric Lhcbs was associated with enhanced Photosystem II phototolerance under excess light exposure. We conclude that the assembly of Photosystem II supercomplexes, including monomeric Lhcbs, is vital for maintaining PSII stability and functional integrity, playing a key role in preventing photoinhibition. Optimal photosynthetic performance of plants requires a balance between light energy capture and its use in downstream reactions. The process of light harvesting and its regulation are mediated by a complex array of antenna proteins, whose conservation throughout evolution suggests each complex serves a specific function in the diverse growth conditions in the natural subaerial environment. However, the specific roles of individual gene products in various antenna functions remain poorly understood. In this study, we investigated the Photosystem II antenna system by employing genome editing techniques targeted at subsets of LHCB genes and characterized Arabidopsis thaliana mutants missing specific components of the Photosystem II antenna: namely, the trimeric LHCII, the monomeric LHC, or both. The focus was on light-harvesting capabilities and photoprotective functions, which included exciton trapping cooperativity, Non-Photochemical Quenching of excess excitation energy, and overall resistance to photoinhibition under excess irradiation, aiming to pinpoint the site(s) of the photoprotective responses. NPQ activity was present in all genotypes, indicating that each pigment-binding protein contributes to the overall quenching response. Within each antenna subgroup, NPQ activity did not rely on lutein, whereas zeaxanthin proved essential. Although trimeric LHCII provided the largest contribution to NPQ, the presence of monomeric Lhcbs was associated with enhanced Photosystem II phototolerance under excess light exposure. We conclude that the assembly of Photosystem II supercomplexes, including monomeric Lhcbs, is vital for maintaining PSII stability and functional integrity, playing a key role in preventing photoinhibition.",
-    "keywords": [
-      "LHCII",
-      "NPQ",
-      "PsbS",
-      "lutein",
-      "monomeric LHCs",
-      "non-photochemical quenching",
-      "photoprotection",
-      "photosynthesis",
-      "zeaxanthin"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41230886/",
-    "fetch_date": "2025-11-20 02:06:40",
+    "fetch_date": "2025-11-24 10:31:17",
     "query_group": "Plant-Specific Journals"
   }
 ]
