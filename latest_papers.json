@@ -2,24 +2,24 @@
   {
     "pmid": "41264695",
     "doi": "10.1126/science.adz8505",
-    "title": "CRISPR-Cas-mediated heritable chromosome fusions in ",
+    "title": "CRISPR-Cas-mediated heritable chromosome fusions in Arabidopsis.",
     "authors": "Rönspies M, Khosravi S, Helia O, ..., Fojtová M, Houben A, Puchta H",
     "journal": "Science (New York, N.Y.)",
     "pub_date": "2025 Nov",
-    "abstract": "The genome of  The genome of  Arabidopsis thaliana  consists of 10 chromosomes. By inducing CRISPR-Cas-mediated breaks at subcentromeric and subtelomeric sequences, we fused entire chromosome arms, obtaining two eight-chromosome lines. In one line, both arms of chromosome 3 were fused to chromosome 1. In another line, the arms were transferred to chromosomes 1 and 5. Both chromosome number-reduced lines were fertile. Phenotypic and transcriptional analyses revealed no differences compared with wild-type plants. After crossing with the wild type, the progeny showed reduced fertility. The meiotic recombination patterns of the transferred chromosome arms were substantially changed. Directed chromosome number changes in plants may enable new breeding strategies, redefining linkage groups and establishing genetic barriers. Moreover, our data indicate that plants are highly robust to engineered karyotype changes.",
+    "abstract": "The genome of Arabidopsis thaliana consists of 10 chromosomes. By inducing CRISPR-Cas-mediated breaks at subcentromeric and subtelomeric sequences, we fused entire chromosome arms, obtaining two eight-chromosome lines. In one line, both arms of chromosome 3 were fused to chromosome 1. In another line, the arms were transferred to chromosomes 1 and 5. Both chromosome number-reduced lines were fertile. Phenotypic and transcriptional analyses revealed no differences compared with wild-type plants. After crossing with the wild type, the progeny showed reduced fertility. The meiotic recombination patterns of the transferred chromosome arms were substantially changed. Directed chromosome number changes in plants may enable new breeding strategies, redefining linkage groups and establishing genetic barriers. Moreover, our data indicate that plants are highly robust to engineered karyotype changes.",
     "keywords": [],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41264695/",
-    "fetch_date": "2025-11-24 10:31:14",
+    "fetch_date": "2025-11-25 04:01:30",
     "query_group": "High Impact General"
   },
   {
     "pmid": "41223217",
     "doi": "10.1073/pnas.2513517122",
-    "title": "SERK5 genetically compensates for the loss of BAK1 and BKK1 in regulating elf18-triggered immune signaling in ",
+    "title": "SERK5 genetically compensates for the loss of BAK1 and BKK1 in regulating elf18-triggered immune signaling in Arabidopsis.",
     "authors": "Li Y, Tao Y, Yao X, ..., Xiong X, Gong BQ, Li JF",
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pub_date": "2025 Nov",
-    "abstract": "SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASEs (SERKs), particularly BRASSINOSTEROID INSENSITIVE1-ASSOCIATED KINASE 1 (BAK1) (SERK3) and BKK1 (SERK4), function as pleiotropic coreceptors to transduce extracellular developmental and immune signals in  SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASEs (SERKs), particularly BRASSINOSTEROID INSENSITIVE1-ASSOCIATED KINASE 1 (BAK1) (SERK3) and BKK1 (SERK4), function as pleiotropic coreceptors to transduce extracellular developmental and immune signals in  Arabidopsis thaliana . However, SERK5, the closest paralog of BAK1/BKK1, is long considered a nonfunctional kinase due to a mutation in the conserved arginine-aspartic acid (RD) motif within its kinase domain. Here, we show that artificial microRNA (amiRNA)-mediated cosilencing of  BAK1 / BKK1 / SERK5  induces autoimmunity, which is more severe than that observed in  bak1 bkk1  double mutants. Complementation with the amiRNA-resistant  mSERK5 , but surprisingly not with  mSERK5Km  encoding an ATP-binding-deficient SERK5, rescues this autoimmunity. Knockout of  ENHANCED DISEASE SUSCEPTIBILITY 1 , a central component of plant immunity with important functions in effector-triggered immunity (ETI), or  BAK-TO-LIFE 2 , a surveillance protein sensing BAK1/BKK1 perturbations in immunity, partially suppresses the amiRNA-mediated autoimmunity. The bacterial elicitor elf18 swiftly upregulates  SERK5  expression.  BAK1 / BKK1 / SERK5  cosilencing seedlings complemented with  mSERK5  maintain wild-type levels of elf18-induced mitogen-activated protein kinase (MAPK) activation, while overexpression of  SERK5 , but not unrelated  SERK1  or  SERK2 , restores normal elf18-induced MAPK activation in  bak1  null protoplasts. These findings unmask a substitute coreceptor role for SERK5 in elf18 signaling, and suggest that plants can monitor and discriminate between concurrent BAK1/BKK1/SERK5 inactivation and BAK1/BKK1 depletion to fine-tune the severity of downstream ETI responses.",
+    "abstract": "SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASEs (SERKs), particularly BRASSINOSTEROID INSENSITIVE1-ASSOCIATED KINASE 1 (BAK1) (SERK3) and BKK1 (SERK4), function as pleiotropic coreceptors to transduce extracellular developmental and immune signals in Arabidopsis thaliana. However, SERK5, the closest paralog of BAK1/BKK1, is long considered a nonfunctional kinase due to a mutation in the conserved arginine-aspartic acid (RD) motif within its kinase domain. Here, we show that artificial microRNA (amiRNA)-mediated cosilencing of BAK1/BKK1/SERK5 induces autoimmunity, which is more severe than that observed in bak1 bkk1 double mutants. Complementation with the amiRNA-resistant mSERK5, but surprisingly not with mSERK5Km encoding an ATP-binding-deficient SERK5, rescues this autoimmunity. Knockout of ENHANCED DISEASE SUSCEPTIBILITY 1, a central component of plant immunity with important functions in effector-triggered immunity (ETI), or BAK-TO-LIFE 2, a surveillance protein sensing BAK1/BKK1 perturbations in immunity, partially suppresses the amiRNA-mediated autoimmunity. The bacterial elicitor elf18 swiftly upregulates SERK5 expression. BAK1/BKK1/SERK5 cosilencing seedlings complemented with mSERK5 maintain wild-type levels of elf18-induced mitogen-activated protein kinase (MAPK) activation, while overexpression of SERK5, but not unrelated SERK1 or SERK2, restores normal elf18-induced MAPK activation in bak1 null protoplasts. These findings unmask a substitute coreceptor role for SERK5 in elf18 signaling, and suggest that plants can monitor and discriminate between concurrent BAK1/BKK1/SERK5 inactivation and BAK1/BKK1 depletion to fine-tune the severity of downstream ETI responses.",
     "keywords": [
       "SERK5",
       "autoimmunity",
@@ -27,7 +27,7 @@
       "plant immunity"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41223217/",
-    "fetch_date": "2025-11-24 10:31:15",
+    "fetch_date": "2025-11-25 04:01:31",
     "query_group": "Medium Impact Specialized"
   },
   {
@@ -37,7 +37,7 @@
     "authors": "Chung KK, Law KC, Zhao Z, ..., Xu SL, Gao C, Zhuang X",
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pub_date": "2025 Nov",
-    "abstract": "Macroautophagy (hereafter autophagy) is essential for cells to respond to nutrient deficiency by delivering cytosolic contents to vacuoles for degradation via the formation of a multilayer organelle named an autophagosome. A set of autophagy-related (ATG) regulators are recruited to the phagophore assembly site for phagophore initiation, including its expansion and closure, and subsequent delivery into the vacuole. However, it remains elusive how the phagophore assembly is regulated under different stress conditions. Here, we described an uncharacterized  Macroautophagy (hereafter autophagy) is essential for cells to respond to nutrient deficiency by delivering cytosolic contents to vacuoles for degradation via the formation of a multilayer organelle named an autophagosome. A set of autophagy-related (ATG) regulators are recruited to the phagophore assembly site for phagophore initiation, including its expansion and closure, and subsequent delivery into the vacuole. However, it remains elusive how the phagophore assembly is regulated under different stress conditions. Here, we described an uncharacterized  Arabidopsis  ( Arabidopsis thaliana ) ERC (ELKS/Rab6-interacting/CAST) protein family as an interacting partner of ATG8. ERC1 proteins translocate to the phagophore membrane and develop into ring-like autophagosomes upon autophagic induction. Notably, we found that ERC1 proteins possess the ability to assemble into substantial droplets together with ATG8e proteins prior to ATG8 conjugation to the membrane. Through multiscale characterization, we demonstrated that the ERC1 membraneless droplet represents a distinct type of plant condensate. Additionally, ERC1 directly binds to NBR1 to promote NBR1 degradation. ERC1 dysfunction suppresses the turnover of ubiquitinated substrates and compromises plant tolerance to heat stress. Our study suggests a model for autophagic degradation in response to heat stress by the action of ERC1-mediated biomolecular condensation in  Arabidopsis .",
+    "abstract": "Macroautophagy (hereafter autophagy) is essential for cells to respond to nutrient deficiency by delivering cytosolic contents to vacuoles for degradation via the formation of a multilayer organelle named an autophagosome. A set of autophagy-related (ATG) regulators are recruited to the phagophore assembly site for phagophore initiation, including its expansion and closure, and subsequent delivery into the vacuole. However, it remains elusive how the phagophore assembly is regulated under different stress conditions. Here, we described an uncharacterized Arabidopsis (Arabidopsis thaliana) ERC (ELKS/Rab6-interacting/CAST) protein family as an interacting partner of ATG8. ERC1 proteins translocate to the phagophore membrane and develop into ring-like autophagosomes upon autophagic induction. Notably, we found that ERC1 proteins possess the ability to assemble into substantial droplets together with ATG8e proteins prior to ATG8 conjugation to the membrane. Through multiscale characterization, we demonstrated that the ERC1 membraneless droplet represents a distinct type of plant condensate. Additionally, ERC1 directly binds to NBR1 to promote NBR1 degradation. ERC1 dysfunction suppresses the turnover of ubiquitinated substrates and compromises plant tolerance to heat stress. Our study suggests a model for autophagic degradation in response to heat stress by the action of ERC1-mediated biomolecular condensation in Arabidopsis.",
     "keywords": [
       "ATG8",
       "ERC protein family",
@@ -46,7 +46,7 @@
       "biomolecular condensation"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41213015/",
-    "fetch_date": "2025-11-24 10:31:15",
+    "fetch_date": "2025-11-25 04:01:31",
     "query_group": "Medium Impact Specialized"
   },
   {
@@ -56,7 +56,7 @@
     "authors": "Amundson KR, Marimuthu MPA, Nguyen O, ..., Phan A, Henry IM, Comai L",
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "pub_date": "2025 Nov",
-    "abstract": "The potential impact of new mutations on organismal function and evolution depends on the developmental fate of the affected cells. Stem cells in the shoot apical meristem form much of the plant body, but only those in the L2 can form gametes. This raises the question of whether the mutation rate is optimized for this developmental plan. To test this, we compare stem cell mutations accumulated over decades of clonal propagation in two potato varieties with those arising during leaf-cell regeneration. By sequencing DNA from layer-enriched cell fractions, we found that variant allele frequencies in whole-leaf DNA can predict a mutation's layer of origin. We further observed that mutations accumulate independently in L1 but jointly in L2 and L3. In cultivar Desiree, L1 mutation rates were fourfold higher than in deeper layers, suggesting germline-progenitor protection. In Red Polenta, layer-specific DNA from regenerants marked by a periclinal chromosomal translocation revealed a similar, though subtler, bias, with L1 exhibiting a 1.6-fold higher rate. In stark contrast, mutations during regeneration of differentiated cells were fiftyfold more frequent and bore a pronounced 8-oxoguanine signature confined to intergenic regions. Across all samples-and consistent with enhanced repair or purifying selection-the genic mutation rate was less than half that of intergenic regions. These findings indicate that plants employ mechanisms to restrict mutations according to cellular context and genomic region and suggest that the layered organization of angiosperm meristems evolved to balance genetic fidelity with adaptability. The potential impact of new mutations on organismal function and evolution depends on the developmental fate of the affected cells. Stem cells in the shoot apical meristem form much of the plant body, but only those in the L2 can form gametes. This raises the question of whether the mutation rate is optimized for this developmental plan. To test this, we compare stem cell mutations accumulated over decades of clonal propagation in two potato varieties with those arising during leaf-cell regeneration. By sequencing DNA from layer-enriched cell fractions, we found that variant allele frequencies in whole-leaf DNA can predict a mutation's layer of origin. We further observed that mutations accumulate independently in L1 but jointly in L2 and L3. In cultivar Desiree, L1 mutation rates were fourfold higher than in deeper layers, suggesting germline-progenitor protection. In Red Polenta, layer-specific DNA from regenerants marked by a periclinal chromosomal translocation revealed a similar, though subtler, bias, with L1 exhibiting a 1.6-fold higher rate. In stark contrast, mutations during regeneration of differentiated cells were fiftyfold more frequent and bore a pronounced 8-oxoguanine signature confined to intergenic regions. Across all samples-and consistent with enhanced repair or purifying selection-the genic mutation rate was less than half that of intergenic regions. These findings indicate that plants employ mechanisms to restrict mutations according to cellular context and genomic region and suggest that the layered organization of angiosperm meristems evolved to balance genetic fidelity with adaptability.",
+    "abstract": "The potential impact of new mutations on organismal function and evolution depends on the developmental fate of the affected cells. Stem cells in the shoot apical meristem form much of the plant body, but only those in the L2 can form gametes. This raises the question of whether the mutation rate is optimized for this developmental plan. To test this, we compare stem cell mutations accumulated over decades of clonal propagation in two potato varieties with those arising during leaf-cell regeneration. By sequencing DNA from layer-enriched cell fractions, we found that variant allele frequencies in whole-leaf DNA can predict a mutation's layer of origin. We further observed that mutations accumulate independently in L1 but jointly in L2 and L3. In cultivar Desiree, L1 mutation rates were fourfold higher than in deeper layers, suggesting germline-progenitor protection. In Red Polenta, layer-specific DNA from regenerants marked by a periclinal chromosomal translocation revealed a similar, though subtler, bias, with L1 exhibiting a 1.6-fold higher rate. In stark contrast, mutations during regeneration of differentiated cells were fiftyfold more frequent and bore a pronounced 8-oxoguanine signature confined to intergenic regions. Across all samples-and consistent with enhanced repair or purifying selection-the genic mutation rate was less than half that of intergenic regions. These findings indicate that plants employ mechanisms to restrict mutations according to cellular context and genomic region and suggest that the layered organization of angiosperm meristems evolved to balance genetic fidelity with adaptability.",
     "keywords": [
       "development",
       "germline",
@@ -65,341 +65,7 @@
       "variation"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41213012/",
-    "fetch_date": "2025-11-24 10:31:15",
+    "fetch_date": "2025-11-25 04:01:31",
     "query_group": "Medium Impact Specialized"
-  },
-  {
-    "pmid": "41249506",
-    "doi": "10.1038/s44318-025-00614-x",
-    "title": "The Arabidopsis phosphatase PP2C12 negatively regulates LRX-RALF-FER-mediated cell wall integrity sensing.",
-    "authors": "Hou X, Bender KW, Fernández-Fernández ÁD, ..., Wicker T, Zipfel C, Ringli C",
-    "journal": "The EMBO journal",
-    "pub_date": "2025 Nov",
-    "abstract": "Plants have evolved an elaborate cell wall integrity (CWI) sensing system to monitor and modify cell wall formation. LRR-extensins (LRXs) are cell wall-anchored proteins that bind RAPID ALKALINIZATION FACTOR (RALF) peptide hormones and induce compaction of cell wall structures. LRXs also form a signaling platform with RALFs and the transmembrane receptor kinase FERONIA (FER) to maintain cell wall integrity. LRX1 of Arabidopsis thaliana is predominantly expressed in root hairs, and lrx1 mutants develop defective root hairs. Here, we identify a regulator of LRX1-RALF-FER signaling as a suppressor of the lrx1 root hair phenotype. The repressor of lrx1_23 (rol23) gene encodes PP2C12, a clade H phosphatase that interacts with FER and dephosphorylates Thr696 in the FER activation loop in vitro. Expression of FER phospho-mimetic and phospho-null mutants in an lrx1 fer-4 background demonstrates that phosphorylation of FER at Thr696 is essential for suppression of lrx1 phenotypes by rol23. The LRX1-related function of PP2Cs appears clade H-specific. Collectively, our data suggest that LRX1 acts upstream of the RALF-FER signaling module and that PP2C12 inhibits FER via activation-loop dephosphorylation. Plants have evolved an elaborate cell wall integrity (CWI) sensing system to monitor and modify cell wall formation. LRR-extensins (LRXs) are cell wall-anchored proteins that bind RAPID ALKALINIZATION FACTOR (RALF) peptide hormones and induce compaction of cell wall structures. LRXs also form a signaling platform with RALFs and the transmembrane receptor kinase FERONIA (FER) to maintain cell wall integrity. LRX1 of Arabidopsis thaliana is predominantly expressed in root hairs, and lrx1 mutants develop defective root hairs. Here, we identify a regulator of LRX1-RALF-FER signaling as a suppressor of the lrx1 root hair phenotype. The repressor of lrx1_23 (rol23) gene encodes PP2C12, a clade H phosphatase that interacts with FER and dephosphorylates Thr696 in the FER activation loop in vitro. Expression of FER phospho-mimetic and phospho-null mutants in an lrx1 fer-4 background demonstrates that phosphorylation of FER at Thr696 is essential for suppression of lrx1 phenotypes by rol23. The LRX1-related function of PP2Cs appears clade H-specific. Collectively, our data suggest that LRX1 acts upstream of the RALF-FER signaling module and that PP2C12 inhibits FER via activation-loop dephosphorylation.",
-    "keywords": [
-      "Arabidopsis",
-      "FERONIA",
-      "LRX1",
-      "PP2C12",
-      "Root Hairs"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41249506/",
-    "fetch_date": "2025-11-24 10:31:15",
-    "query_group": "Medium Impact Specialized"
-  },
-  {
-    "pmid": "41138724",
-    "doi": "10.1016/j.cub.2025.09.060",
-    "title": "Arabidopsis LOHN1 peptide modulates lateral root spacing under the control of systemic nitrogen-satiety signaling.",
-    "authors": "Ito K, Sonoda T, Hisanaga Y, ..., Hanada K, Iba K, Kusumi K",
-    "journal": "Current biology : CB",
-    "pub_date": "2025 Nov",
-    "abstract": "In Arabidopsis thaliana, high nitrogen (N) levels are known to induce a systemic signal that represses lateral root (LR) development. However, the molecular mechanisms underlying this response remain poorly understood. In this study, we identified a cysteine-rich secretory peptide, LATERAL ROOT OVERPRODUCTION UNDER HIGH-NITROGEN CONDITIONS 1 (LOHN1), as a key signaling molecule involved in translating an N-sufficient nutritional status into a morphological response that inhibits LR development. High N supply induces LOHN1 expression in phloem companion cells at the root tip region under the control of shoot-derived glutamate and glutamate receptor-like channel (GLR). LOHN1 secretion into the apoplastic space regulates the expression of auxin transporter genes to reduce the frequency of LR priming and LR founder cell formation, thereby suppressing LR branching. Our data provide a molecular basis for how plants respond to high N supply and control root architecture to achieve proper plant growth. In Arabidopsis thaliana, high nitrogen (N) levels are known to induce a systemic signal that represses lateral root (LR) development. However, the molecular mechanisms underlying this response remain poorly understood. In this study, we identified a cysteine-rich secretory peptide, LATERAL ROOT OVERPRODUCTION UNDER HIGH-NITROGEN CONDITIONS 1 (LOHN1), as a key signaling molecule involved in translating an N-sufficient nutritional status into a morphological response that inhibits LR development. High N supply induces LOHN1 expression in phloem companion cells at the root tip region under the control of shoot-derived glutamate and glutamate receptor-like channel (GLR). LOHN1 secretion into the apoplastic space regulates the expression of auxin transporter genes to reduce the frequency of LR priming and LR founder cell formation, thereby suppressing LR branching. Our data provide a molecular basis for how plants respond to high N supply and control root architecture to achieve proper plant growth.",
-    "keywords": [
-      "glutamate",
-      "lateral root development",
-      "nitrogen signal",
-      "peptide signal",
-      "short ORF"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41138724/",
-    "fetch_date": "2025-11-24 10:31:15",
-    "query_group": "Medium Impact Specialized"
-  },
-  {
-    "pmid": "41276876",
-    "doi": "10.1111/nph.70781",
-    "title": "Intraspecific variation in the growth-defense trade-off among deciduous and evergreen broadleaf woody plants.",
-    "authors": "Zhou G, Petticord DF, Wang X, ..., Zhang Z, Jin G, Liu Z",
-    "journal": "The New phytologist",
-    "pub_date": "2025 Nov",
-    "abstract": "Plants make tradeoffs between growth and defense. However, differences in these tradeoffs interindividual, variation on the axes of trait expression, remain poorly understood. We evaluated six key leaf traits - defense traits (total phenols, condensed tannins, flavonoids, and specific leaf density) and nutrient acquisition traits (nitrogen and phosphorus content)-across 1985 individuals representing 314 species in 18 natural forest communities along a 4000-km latitudinal gradient in China. We found deciduous plants have higher nutrient content, whereas evergreen plants consistently invest more heavily in defense. Moreover, this broad difference in functional type (deciduous vs evergreen) was also a useful lens to examine the influence of intraspecific, interindividual variation on defense-acquisition trait axes. In evergreen plants, intraspecific variation causes a substantial shift in the orientation of trait space, with a 46.75° rotation of the defense-nutrient axis, compared to just 1.11° in deciduous plants. Only one trait-phenology combination (specific leaf density in evergreen plants) changed in a predictable way based on phylogeny. Overall, our results suggest evergreen plants are more constrained in how much they can vary their traits. This advances our understanding of evolution along the conservation/acquisitive axis, at least with regard to leaf traits. Plants make tradeoffs between growth and defense. However, differences in these tradeoffs interindividual, variation on the axes of trait expression, remain poorly understood. We evaluated six key leaf traits - defense traits (total phenols, condensed tannins, flavonoids, and specific leaf density) and nutrient acquisition traits (nitrogen and phosphorus content)-across 1985 individuals representing 314 species in 18 natural forest communities along a 4000-km latitudinal gradient in China. We found deciduous plants have higher nutrient content, whereas evergreen plants consistently invest more heavily in defense. Moreover, this broad difference in functional type (deciduous vs evergreen) was also a useful lens to examine the influence of intraspecific, interindividual variation on defense-acquisition trait axes. In evergreen plants, intraspecific variation causes a substantial shift in the orientation of trait space, with a 46.75° rotation of the defense-nutrient axis, compared to just 1.11° in deciduous plants. Only one trait-phenology combination (specific leaf density in evergreen plants) changed in a predictable way based on phylogeny. Overall, our results suggest evergreen plants are more constrained in how much they can vary their traits. This advances our understanding of evolution along the conservation/acquisitive axis, at least with regard to leaf traits.",
-    "keywords": [
-      "deciduous plant",
-      "defense",
-      "evergreen plant",
-      "growth",
-      "nutrient",
-      "phylogeny",
-      "trait space"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41276876/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41276785",
-    "doi": "10.1111/nph.70746",
-    "title": "Integration of light quality signals regulates ABA abundance and stomatal movements during seedling establishment.",
-    "authors": "Gustavsson M, Hill L, Franklin KA, Pridgeon AJ",
-    "journal": "The New phytologist",
-    "pub_date": "2025 Nov",
-    "abstract": "Obtaining sufficient light for photosynthesis and avoiding desiccation are two key challenges faced by seedlings during early establishment. Perception of light quality via specialised photoreceptors signals the availability of sunlight for photosynthesis. Canopy shade is depleted in red (R) and enriched in far-red (FR) light, lowering R : FR ratio, while direct sunlight and sunflecks contain UV-B. The balance between these wavelengths can determine the developmental strategy adopted by seedlings to either avoid shade, via stem elongation, or promote the expansion of photosynthetic organs. How seedlings regulate stomatal movements in different light environments is poorly understood. Using FR and UV-B supplementation to mimic aspects of canopy shade and sunlight, respectively, we monitored stomatal apertures in Arabidopsis thaliana cotyledons and gas exchange in the cotyledons of Chinese kale (Brassica oleracea var alboglabra). We show that low R : FR inhibits stomatal opening via a mechanism involving PHYTOCHROME INTERACTING FACTOR 4 (PIF4) and increased abscisic acid (ABA). UV-B perceived by the UV RESISTANCE LOCUS 8 (UVR8) photoreceptor acts antagonistically, promoting stomatal opening in a response that requires phototropin photoreceptors. The convergence of phytochrome and UVR8 signalling to control ABA abundance enables plants to coordinate stem elongation and water use, potentially facilitating seedling establishment in dynamic light environments. Obtaining sufficient light for photosynthesis and avoiding desiccation are two key challenges faced by seedlings during early establishment. Perception of light quality via specialised photoreceptors signals the availability of sunlight for photosynthesis. Canopy shade is depleted in red (R) and enriched in far-red (FR) light, lowering R : FR ratio, while direct sunlight and sunflecks contain UV-B. The balance between these wavelengths can determine the developmental strategy adopted by seedlings to either avoid shade, via stem elongation, or promote the expansion of photosynthetic organs. How seedlings regulate stomatal movements in different light environments is poorly understood. Using FR and UV-B supplementation to mimic aspects of canopy shade and sunlight, respectively, we monitored stomatal apertures in Arabidopsis thaliana cotyledons and gas exchange in the cotyledons of Chinese kale (Brassica oleracea var alboglabra). We show that low R : FR inhibits stomatal opening via a mechanism involving PHYTOCHROME INTERACTING FACTOR 4 (PIF4) and increased abscisic acid (ABA). UV-B perceived by the UV RESISTANCE LOCUS 8 (UVR8) photoreceptor acts antagonistically, promoting stomatal opening in a response that requires phototropin photoreceptors. The convergence of phytochrome and UVR8 signalling to control ABA abundance enables plants to coordinate stem elongation and water use, potentially facilitating seedling establishment in dynamic light environments.",
-    "keywords": [
-      "UV‐B signalling",
-      "abscisic acid",
-      "light signalling",
-      "seedling establishment",
-      "shade avoidance",
-      "signal integration",
-      "stomata"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41276785/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41272237",
-    "doi": "10.1111/nph.70753",
-    "title": "Roberto Solano.",
-    "authors": "",
-    "journal": "The New phytologist",
-    "pub_date": "2025 Nov",
-    "abstract": "Roberto Solano, National Biotechnology Center, CSIC (Spain). Roberto Solano, National Biotechnology Center, CSIC (Spain).",
-    "keywords": [
-      "COI1",
-      "JAZ",
-      "MYC",
-      "Marchantia",
-      "OPDA",
-      "herbivory",
-      "jasmonate",
-      "plant defense"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41272237/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41271605",
-    "doi": "10.1111/nph.70755",
-    "title": "Jun Yuan ().",
-    "authors": "",
-    "journal": "The New phytologist",
-    "pub_date": "2025 Nov",
-    "abstract": "",
-    "keywords": [
-      "continuous cropping obstacles",
-      "cry for help",
-      "disease‐suppressive soils",
-      "microbiome‐informed sustainable agriculture",
-      "plant–microbe interactions",
-      "rhizosphere microbiome"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41271605/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41264810",
-    "doi": "10.1093/plphys/kiaf602",
-    "title": "MONOPTEROS isoform MP11ir plays a role during somatic embryogenesis in Arabidopsis thaliana.",
-    "authors": "Wójcikowska B, Belaidi S, Mironova V, Citerne S, Robert HS",
-    "journal": "Plant physiology",
-    "pub_date": "2025 Nov",
-    "abstract": "Auxin is crucial for plant morphogenesis, including embryo development. Exogenous auxin application is necessary for inducing embryogenic responses in in vitro cultured explants of Arabidopsis (Arabidopsis thaliana) and other plants. Thus, components of auxin transport, signaling, and metabolism are key to somatic embryogenesis. AUXIN RESPONSE FACTOR (ARF) transcription factors bind to auxin response elements to control auxin-responsive gene expression and are often repressed by AUXIN/INDOLE-3-ACETIC ACIDs (Aux/IAAs). MONOPTEROS (MP)/ARF5 is especially important in the embryogenic transition, being highly expressed during somatic embryogenesis; its mutant cannot develop somatic embryos. The MP11ir transcript, an alternatively spliced variant of MP, produces a truncated protein missing the Phox and Bem1p (PB1) domain, crucial for ARF-Aux/IAA dimerization. This renders MP11ir insensitive to Aux/IAA repression, suggesting auxin-independent regulation. High levels of MP11ir transcript are observed during auxin- and trichostatin A-dependent induction of somatic embryogenesis. Both MP and MP11ir are essential for embryo regeneration in the mpS319 mutant. However, overexpression of a truncated MP protein (ΔARF5) lacking the PB1 domain inhibits somatic embryogenesis, resulting in callus instead of somatic embryos. Overexpression of ΔARF5, lack of MP protein (mp mutant), or interference with MP action by the auxin-resistant BODENLOS (BDL) protein affects the expression of auxin biosynthesis genes. Our results suggest that these auxin-related genes might be targets of MP11ir and/or MP. Consequently, any adjustment to MP activity alters auxin homeostasis and endogenous auxin levels, hindering embryogenic transition. Auxin is crucial for plant morphogenesis, including embryo development. Exogenous auxin application is necessary for inducing embryogenic responses in in vitro cultured explants of Arabidopsis (Arabidopsis thaliana) and other plants. Thus, components of auxin transport, signaling, and metabolism are key to somatic embryogenesis. AUXIN RESPONSE FACTOR (ARF) transcription factors bind to auxin response elements to control auxin-responsive gene expression and are often repressed by AUXIN/INDOLE-3-ACETIC ACIDs (Aux/IAAs). MONOPTEROS (MP)/ARF5 is especially important in the embryogenic transition, being highly expressed during somatic embryogenesis; its mutant cannot develop somatic embryos. The MP11ir transcript, an alternatively spliced variant of MP, produces a truncated protein missing the Phox and Bem1p (PB1) domain, crucial for ARF-Aux/IAA dimerization. This renders MP11ir insensitive to Aux/IAA repression, suggesting auxin-independent regulation. High levels of MP11ir transcript are observed during auxin- and trichostatin A-dependent induction of somatic embryogenesis. Both MP and MP11ir are essential for embryo regeneration in the mpS319 mutant. However, overexpression of a truncated MP protein (ΔARF5) lacking the PB1 domain inhibits somatic embryogenesis, resulting in callus instead of somatic embryos. Overexpression of ΔARF5, lack of MP protein (mp mutant), or interference with MP action by the auxin-resistant BODENLOS (BDL) protein affects the expression of auxin biosynthesis genes. Our results suggest that these auxin-related genes might be targets of MP11ir and/or MP. Consequently, any adjustment to MP activity alters auxin homeostasis and endogenous auxin levels, hindering embryogenic transition.",
-    "keywords": [
-      "Arabidopsis thaliana; Auxin",
-      "In vitro culture; Isoform",
-      "AUXIN RESPONSE FACTOR",
-      "Alternative splicing",
-      "Auxin signalling",
-      "MONOPTEROS",
-      "MP11ir",
-      "Somatic embryogenesis",
-      "Transcription factor"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41264810/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41261810",
-    "doi": "10.1111/nph.70772",
-    "title": "Endophytes with mycorrhizal potentials: biological and ecological implications.",
-    "authors": "Peng L, Yang Y, Martin FM, Yuan Z",
-    "journal": "The New phytologist",
-    "pub_date": "2025 Nov",
-    "abstract": "Generally, the root mycobiome is dominated by endophytic and mycorrhizal fungi with mutualistic potential to enhance plant fitness. In some cases, however, the distinction between the two biotrophic guilds is challenged by the ability of several endophytic fungi to colonize roots and transfer nutrients to the plants. With more research on harnessing plant-endophyte combinations using a gnotobiotic system, more endophytes endowed with mycorrhizal-like traits have been identified. They often benefit nonmycorrhizal plants by employing a set of responses to nutrient deficiency similar to those from mycorrhizal plants, orchestrate the development of ectomycorrhizal-like structures under controlled conditions, and share genetic traits with true mycorrhizal fungi, such as a lower content of plant cell wall-degrading enzymes and gene networks reminiscent of mutualistic interactions. Based on these characteristics, we propose the term 'mycorrhizal-like endophytes' to describe these fungi, which likely represent a transitional state along the endophyte-mycorrhizal mutualistic continuum. Generally, the root mycobiome is dominated by endophytic and mycorrhizal fungi with mutualistic potential to enhance plant fitness. In some cases, however, the distinction between the two biotrophic guilds is challenged by the ability of several endophytic fungi to colonize roots and transfer nutrients to the plants. With more research on harnessing plant-endophyte combinations using a gnotobiotic system, more endophytes endowed with mycorrhizal-like traits have been identified. They often benefit nonmycorrhizal plants by employing a set of responses to nutrient deficiency similar to those from mycorrhizal plants, orchestrate the development of ectomycorrhizal-like structures under controlled conditions, and share genetic traits with true mycorrhizal fungi, such as a lower content of plant cell wall-degrading enzymes and gene networks reminiscent of mutualistic interactions. Based on these characteristics, we propose the term 'mycorrhizal-like endophytes' to describe these fungi, which likely represent a transitional state along the endophyte-mycorrhizal mutualistic continuum.",
-    "keywords": [
-      "ectomycorrhizal fungi",
-      "endophytes",
-      "nonmycorrhizal plants",
-      "plant cell wall‐degrading enzymes",
-      "saprotrophy‐to‐symbiosis continuum"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41261810/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41261800",
-    "doi": "10.1111/nph.70754",
-    "title": "Yuting Liang.",
-    "authors": "",
-    "journal": "The New phytologist",
-    "pub_date": "2025 Nov",
-    "abstract": "",
-    "keywords": [
-      "SynComs",
-      "carbon dynamics",
-      "plant–soil microorganism interaction",
-      "soil microbiome",
-      "stress resistance"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41261800/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41254967",
-    "doi": "10.1111/nph.70738",
-    "title": "SWEET1-mediated glucose transport is crucial for energy availability in Arabidopsis.",
-    "authors": "Xue X, Li J, Yu YC, Chen LQ",
-    "journal": "The New phytologist",
-    "pub_date": "2025 Nov",
-    "abstract": "The stress-responsive hormone abscisic acid (ABA) is known for its inhibitory effects on various physiological processes, including seed germination, often resulting in energy deprivation. Interestingly, ABA-induced germination inhibition can be alleviated by exogenous glucose (Glc), mimicking a functional interplay between ABA and sugar signaling in vivo. However, it remains poorly understood which sugar transporter mediates Glc allocation under ABA treatment and how Glc counteracts the effects of ABA. To address this, we combined transcriptomic analyses, transport assays, physiological studies, and genetic approaches to identify and characterize processes involved in Glc allocation that counteract the inhibitory effects of ABA during seed germination in Arabidopsis thaliana. We identified the plasma membrane-localized Glc uniporter SWEET1 as a key player in the Glc-mediated suppression of ABA inhibition. The sweet1 mutants showed delayed germination in the presence of ABA, reduced Glc transport, and slower root growth under energy starvation conditions. The suppression of ABA inhibited germination by Glc transported by SWEET1 appears to depend, at least partially, on Glc signaling through SnRK1 kinase pathway, including KIN10. Our findings demonstrate that SWEET1 is crucial for Glc suppression of ABA-induced inhibition during seed germination and provide insight into sugar signaling pathways linked to environment- or ABA-triggered energy deficiency. The stress-responsive hormone abscisic acid (ABA) is known for its inhibitory effects on various physiological processes, including seed germination, often resulting in energy deprivation. Interestingly, ABA-induced germination inhibition can be alleviated by exogenous glucose (Glc), mimicking a functional interplay between ABA and sugar signaling in vivo. However, it remains poorly understood which sugar transporter mediates Glc allocation under ABA treatment and how Glc counteracts the effects of ABA. To address this, we combined transcriptomic analyses, transport assays, physiological studies, and genetic approaches to identify and characterize processes involved in Glc allocation that counteract the inhibitory effects of ABA during seed germination in Arabidopsis thaliana. We identified the plasma membrane-localized Glc uniporter SWEET1 as a key player in the Glc-mediated suppression of ABA inhibition. The sweet1 mutants showed delayed germination in the presence of ABA, reduced Glc transport, and slower root growth under energy starvation conditions. The suppression of ABA inhibited germination by Glc transported by SWEET1 appears to depend, at least partially, on Glc signaling through SnRK1 kinase pathway, including KIN10. Our findings demonstrate that SWEET1 is crucial for Glc suppression of ABA-induced inhibition during seed germination and provide insight into sugar signaling pathways linked to environment- or ABA-triggered energy deficiency. 逆境响应激素脱落酸(abscisic acid, ABA)以其对多种生理过程的抑制作用而著称，其中包括对种子萌发的抑制，常伴随能量匮乏的发生。值得注意的是，外源葡萄糖(Glc)可显著缓解ABA引起的萌发抑制，模拟了ABA与Glc在体内信号间的功能互作。然而，目前尚不清楚在ABA处理条件下哪种糖转运蛋白介导Glc的分配，以及Glc如何拮抗ABA作用的机制。 本研究通过结合转录组分析、转运活性测定、生理学实验及遗传学研究，系统解析了在拟南芥(Arabidopsis thaliana)种子萌发过程中，Glc分配是如何参与抵消ABA抑制效应的相关机制。 研究发现，质膜定位的Glc转运蛋白SWEET1是Glc介导缓解ABA抑制的关键因子。在有ABA存在的条件下，sweet1突变体表现出萌发延迟、Glc吸收能力下降以及能量饥饿条件下根系生长受限的表型。SWEET1介导的Glc转运对ABA抑制萌发的缓解作用，至少部分依赖于Glc‐SnRK1激酶通路(包括KIN10)介导的信号传导。 综上所述，本研究表明在种子萌发过程中，SWEET1介导的糖转运对ABA引起的抑制具有关键的缓解作用，并为理解由逆境或ABA激发的能量缺乏相关的糖信号通路提供了新的分子机制见解。. 逆境响应激素脱落酸(abscisic acid, ABA)以其对多种生理过程的抑制作用而著称，其中包括对种子萌发的抑制，常伴随能量匮乏的发生。值得注意的是，外源葡萄糖(Glc)可显著缓解ABA引起的萌发抑制，模拟了ABA与Glc在体内信号间的功能互作。然而，目前尚不清楚在ABA处理条件下哪种糖转运蛋白介导Glc的分配，以及Glc如何拮抗ABA作用的机制。 本研究通过结合转录组分析、转运活性测定、生理学实验及遗传学研究，系统解析了在拟南芥(Arabidopsis thaliana)种子萌发过程中，Glc分配是如何参与抵消ABA抑制效应的相关机制。 研究发现，质膜定位的Glc转运蛋白SWEET1是Glc介导缓解ABA抑制的关键因子。在有ABA存在的条件下，sweet1突变体表现出萌发延迟、Glc吸收能力下降以及能量饥饿条件下根系生长受限的表型。SWEET1介导的Glc转运对ABA抑制萌发的缓解作用，至少部分依赖于Glc‐SnRK1激酶通路(包括KIN10)介导的信号传导。 综上所述，本研究表明在种子萌发过程中，SWEET1介导的糖转运对ABA引起的抑制具有关键的缓解作用，并为理解由逆境或ABA激发的能量缺乏相关的糖信号通路提供了新的分子机制见解。.",
-    "keywords": [
-      "KIN10",
-      "SWEET1",
-      "TOR",
-      "abscisic acid",
-      "glucose",
-      "seed germination",
-      "sugar transporter"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41254967/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41254947",
-    "doi": "10.1111/nph.70747",
-    "title": "Pathogen mediated plant community ecology.",
-    "authors": "Cobb RC",
-    "journal": "The New phytologist",
-    "pub_date": "2025 Nov",
-    "abstract": "",
-    "keywords": [
-      "apparent competition",
-      "decomposition",
-      "defense",
-      "invasive pathogens",
-      "invasive plants"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41254947/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41253714",
-    "doi": "10.1093/plphys/kiaf595",
-    "title": "The regulatory MaIAA1-like-MaERF003 module modulates the ripening of 'Fenjiao' bananas.",
-    "authors": "Song Z, Chen H, Zhao Y, ..., Chen W, Li X, Zhu X",
-    "journal": "Plant physiology",
-    "pub_date": "2025 Nov",
-    "abstract": "Fruit ripening is a complex process mediated by plant hormones and transcriptional regulation. Ethylene and auxin are key regulators, but little is known about their crosstalk in fruit ripening. This study discovered the synergistic effect of auxin and ethylene during 'Fenjiao' banana (Musa ABB Pisang Awak) fruit ripening, which is regulated by transcription factors MaIAA1-like and MaERF003. Both ethylene and auxin enhanced ripening and the expression of MaIAA1-like and MaERF003. However, 1-methylcyclopropene (1-MCP) treatment suppressed ripening and the expression of both genes. MaIAA1-like and MaERF003 activated the transcripts of genes associated with chlorophyll, starch, and cell wall degradation. Transient overexpression of MaIAA1-like and MaERF003 in 'Fenjiao' banana enhanced ripening by accelerating softening and de-greening and by stimulating the expression of genes related to chlorophyll, starch, and cell wall degradation, while the transient silencing of MaIAA1-like and MaERF003 delayed softening and de-greening. Ectopic overexpression of MaIAA1-like and MaERF003 in tomato (Solanum lycopersicum) also accelerated fruit ripening. MaIAA1-like regulated MaERF003 transcription by directly interacting with its promoter. Additionally, the exogenous application of IAA mitigated the effect of 1-MCP on ripening in 'Fenjiao' banana fruit, alleviating the ripening disorder induced by unsuitable 1-MCP. Our findings show that the MaIAA1-like-MaERF003 regulator module participates in the auxin-ethylene signal cross-talk to mediate ripening in 'Fenjiao' banana. Fruit ripening is a complex process mediated by plant hormones and transcriptional regulation. Ethylene and auxin are key regulators, but little is known about their crosstalk in fruit ripening. This study discovered the synergistic effect of auxin and ethylene during 'Fenjiao' banana (Musa ABB Pisang Awak) fruit ripening, which is regulated by transcription factors MaIAA1-like and MaERF003. Both ethylene and auxin enhanced ripening and the expression of MaIAA1-like and MaERF003. However, 1-methylcyclopropene (1-MCP) treatment suppressed ripening and the expression of both genes. MaIAA1-like and MaERF003 activated the transcripts of genes associated with chlorophyll, starch, and cell wall degradation. Transient overexpression of MaIAA1-like and MaERF003 in 'Fenjiao' banana enhanced ripening by accelerating softening and de-greening and by stimulating the expression of genes related to chlorophyll, starch, and cell wall degradation, while the transient silencing of MaIAA1-like and MaERF003 delayed softening and de-greening. Ectopic overexpression of MaIAA1-like and MaERF003 in tomato (Solanum lycopersicum) also accelerated fruit ripening. MaIAA1-like regulated MaERF003 transcription by directly interacting with its promoter. Additionally, the exogenous application of IAA mitigated the effect of 1-MCP on ripening in 'Fenjiao' banana fruit, alleviating the ripening disorder induced by unsuitable 1-MCP. Our findings show that the MaIAA1-like-MaERF003 regulator module participates in the auxin-ethylene signal cross-talk to mediate ripening in 'Fenjiao' banana.",
-    "keywords": [
-      "MaERF003",
-      "MaIAA1-like",
-      "fruit ripening",
-      "‘Fenjiao’ banana"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41253714/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41253704",
-    "doi": "10.1093/plphys/kiaf590",
-    "title": "Autophagy restricts symbiosis-associated cell death and regulates colonization by Serendipita indica in Arabidopsis.",
-    "authors": "Zecua-Ramirez P, Dunken N, Charura NM, ..., Langen G, Dagdas Y, Zuccaro A",
-    "journal": "Plant physiology",
-    "pub_date": "2025 Nov",
-    "abstract": "Endophytic colonization of Arabidopsis (Arabidopsis thaliana) by the beneficial root endophyte Serendipita indica is characterized by an initial biotrophic phase, followed by a confined host cell death phase that facilitates fungal accommodation. However, the host molecular pathways that restrict S. indica proliferation and regulate symbiosis-associated cell death remain largely unknown. Our study demonstrates that autophagy, a key cellular degradation pathway that maintains homeostasis, is locally activated during colonization and is required to limit fungal proliferation and immunometabolic stress. Autophagy-deficient mutants exhibit elevated basal root cell death, increased colonization, and hypersensitivity to the fungal-derived purine metabolite 2'-deoxyadenosine (dAdo), an immunometabolic signal that modulates host cell viability and reprograms immune and metabolic responses via ENT3 (equilibrative nucleoside transporter 3)-mediated uptake. In ent3 and atg5 ent3 mutants, suppression of dAdo import reduces S. indica-induced cell death, confirming the central role of ENT3-mediated uptake. Despite increased colonization and stress sensitivity, autophagy-deficient plants retain S. indica-mediated root growth promotion, indicating that mutualistic benefits can occur independently of immunometabolic stress resilience. Based on these findings, we propose that autophagy-mediated pro-survival responses are essential for maintaining symbiotic homeostasis by integrating immunometabolic signals and preserving host cell viability. Endophytic colonization of Arabidopsis (Arabidopsis thaliana) by the beneficial root endophyte Serendipita indica is characterized by an initial biotrophic phase, followed by a confined host cell death phase that facilitates fungal accommodation. However, the host molecular pathways that restrict S. indica proliferation and regulate symbiosis-associated cell death remain largely unknown. Our study demonstrates that autophagy, a key cellular degradation pathway that maintains homeostasis, is locally activated during colonization and is required to limit fungal proliferation and immunometabolic stress. Autophagy-deficient mutants exhibit elevated basal root cell death, increased colonization, and hypersensitivity to the fungal-derived purine metabolite 2'-deoxyadenosine (dAdo), an immunometabolic signal that modulates host cell viability and reprograms immune and metabolic responses via ENT3 (equilibrative nucleoside transporter 3)-mediated uptake. In ent3 and atg5 ent3 mutants, suppression of dAdo import reduces S. indica-induced cell death, confirming the central role of ENT3-mediated uptake. Despite increased colonization and stress sensitivity, autophagy-deficient plants retain S. indica-mediated root growth promotion, indicating that mutualistic benefits can occur independently of immunometabolic stress resilience. Based on these findings, we propose that autophagy-mediated pro-survival responses are essential for maintaining symbiotic homeostasis by integrating immunometabolic signals and preserving host cell viability.",
-    "keywords": [
-      "ATG5",
-      "ATG8",
-      "Arabidopsis thaliana",
-      "Autophagy",
-      "ENT3",
-      "Sebacinales",
-      "Serendipita indica",
-      "autophagosomes",
-      "deoxyadenosine (dAdo)",
-      "mutualistic interaction",
-      "symbiosis"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41253704/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41254943",
-    "doi": "10.1016/j.molp.2025.11.007",
-    "title": "Pathogen-induced H",
-    "authors": "Lu X, An Y, Lu W, ..., Li W, Wang J, Chen X",
-    "journal": "Molecular plant",
-    "pub_date": "2025 Nov",
-    "abstract": "Alternative splicing plays a vital role in plant immunity, but how plants stringently and selectively regulate alternative splicing to coordinate immunity and growth is poorly understood. Here we report that H Alternative splicing plays a vital role in plant immunity, but how plants stringently and selectively regulate alternative splicing to coordinate immunity and growth is poorly understood. Here we report that H 2 O 2 -triggered phosphorylation of the RNA binding protein RRM2R releases a retained-intron brake in OsMAPKKK18 to orchestrate immunity and growth in rice. During homeostasis, transcript OsMAPKKK18β containing a retained intron subjects to nonsense-mediated mRNA decay to promote growth. Upon pathogen Magnaporthe oryzae invasion, H 2 O 2  activates protein kinase OsCLK1 to phosphorylate and stabilize RRM2R, which interacts with OsRNPS1A/B to recruit spliceosome machinery and promote the production of transcript OsMAPKKK18α without retained intron to promote immunity of rice. After the endogenous H 2 O 2  is consumed or degraded by peroxidases or catalases, decreased abundance of RRM2R reduces accumulation of transcript OsMAPKKK18α to avoid autoimmunity in rice. Together, our study uncovers H 2 O 2 -controlled retained intron of OsMAPKKK18 as a novel molecular switch for orchestrating immunity and growth in rice.",
-    "keywords": [
-      "Alternative Splicing",
-      "Ethylene",
-      "H(2)O(2)",
-      "Immunity and Growth",
-      "Intron Retention",
-      "PTI",
-      "Phosphorylation",
-      "RNA Binding Protein"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41254943/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41249874",
-    "doi": "10.1111/nph.70719",
-    "title": "Exo-oligosaccharide signaling in Lotus japonicus roots promotes synthesis and secretion of symbiotic phenylpropanoids resulting in increased production of Nod factors in rhizobia.",
-    "authors": "Ruan HQ, Li CL, Dong YJ, ..., Song L, Xie ZP, Staehelin C",
-    "journal": "The New phytologist",
-    "pub_date": "2025 Nov",
-    "abstract": "Besides lipo-chitooligosaccharidic Nod factors (NFs), rhizobial exo-oligosaccharides (EOS), derived from exo-polysaccharides (EPS), are symbiotic signals that promote nodule formation on legume roots. However, plant genes regulated by EOS signaling remain unidentified. Here, we used purified EPS and the rhizobial glycanase ExoK to produce EOS in vitro. EOS was applied to Lotus japonicus roots to identify genome-wide gene expression changes. Mutants of Sinorhizobium sp. NGR234 and L. japonicus were used to investigate the symbiotic roles of EOS and NFs. Transcriptomic analysis showed that EOS induced the expression of many phenylpropanoid biosynthesis genes, among other transcriptome alterations. EOS signaling occurred in both L. japonicus wild-type plants and mutants with impaired NF signaling, but not in epr3 mutant plants defective in the EOS receptor. Root exudates from EOS-treated plants showed increased genistein levels and enhanced activation of nodulation genes in NGR234, leading to higher NF production. Further experiments demonstrated that both EOS and NFs upregulate the expression of genes involved in flavonoid synthesis. Inoculation tests with NGR234 and its mutants revealed that EOS, rather than EPS, plays a role in promoting infection thread development in L. japonicus. In conclusion, we identified L. japonicus genes regulated by EOS signaling and found that EOS can stimulate the production of symbiotic phenylpropanoids that upregulate NF synthesis in rhizobia. Besides lipo-chitooligosaccharidic Nod factors (NFs), rhizobial exo-oligosaccharides (EOS), derived from exo-polysaccharides (EPS), are symbiotic signals that promote nodule formation on legume roots. However, plant genes regulated by EOS signaling remain unidentified. Here, we used purified EPS and the rhizobial glycanase ExoK to produce EOS in vitro. EOS was applied to Lotus japonicus roots to identify genome-wide gene expression changes. Mutants of Sinorhizobium sp. NGR234 and L. japonicus were used to investigate the symbiotic roles of EOS and NFs. Transcriptomic analysis showed that EOS induced the expression of many phenylpropanoid biosynthesis genes, among other transcriptome alterations. EOS signaling occurred in both L. japonicus wild-type plants and mutants with impaired NF signaling, but not in epr3 mutant plants defective in the EOS receptor. Root exudates from EOS-treated plants showed increased genistein levels and enhanced activation of nodulation genes in NGR234, leading to higher NF production. Further experiments demonstrated that both EOS and NFs upregulate the expression of genes involved in flavonoid synthesis. Inoculation tests with NGR234 and its mutants revealed that EOS, rather than EPS, plays a role in promoting infection thread development in L. japonicus. In conclusion, we identified L. japonicus genes regulated by EOS signaling and found that EOS can stimulate the production of symbiotic phenylpropanoids that upregulate NF synthesis in rhizobia.",
-    "keywords": [
-      "Lotus japonicus",
-      "Nod factors",
-      "exo‐oligosaccharide (EOS)",
-      "exo‐polysaccharide (EPS)",
-      "nodule symbiosis",
-      "phenylpropanoids"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41249874/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41248081",
-    "doi": "10.1093/plcell/koaf276",
-    "title": "Phosphorylation and ubiquitination synergistically promote the degradation of OsRbohB to modulate rice immunity.",
-    "authors": "Tao H, Wang R, He F, ..., Xie K, Wang GL, Ning Y",
-    "journal": "The Plant cell",
-    "pub_date": "2025 Nov",
-    "abstract": "Plant respiratory burst oxidase homologs (Rbohs) contribute to the production of reactive oxygen species (ROS), which are crucial defense signals in plants. However, the regulation of rice (Oryza sativa) OsRboh homeostasis has remained unclear. In this study, we reported that overexpression of OsRbohB confers resistance to Magnaporthe oryzae and Xanthomonas oryzae pv. oryzae. Mechanistically, the calcium-dependent protein kinase OsCPK4 interacts with and phosphorylates OsRbohB at Ser322 and Ser326, thereby reducing immune responses. OsRbohB phosphomimic modifications at these two sites disrupt OsRbohB-mediated disease resistance. Moreover, the RING-type E3 ubiquitin ligase OsRING142 interacts with and ubiquitinates OsRbohB at Lys266, targeting it for degradation by the 26S proteasome pathway and compromising the immune response. Overexpression of OsRbohBK266R further increased resistance compared to OsRbohB overexpression plants. Remarkably, phosphorylation at OsRbohB facilitates OsRING142-mediated ubiquitination and degradation of OsRbohB. OsRbohBK266R×S2A overexpression plants with reduced ubiquitination and phosphorylation levels of OsRbohB exhibit stronger resistance against M. oryzae. Overall, our study highlights the critical role of Rbohs in broad-spectrum resistance and demonstrates that phosphorylation and ubiquitination synergistically fine-tune Rboh protein stability and immunity. Plant respiratory burst oxidase homologs (Rbohs) contribute to the production of reactive oxygen species (ROS), which are crucial defense signals in plants. However, the regulation of rice (Oryza sativa) OsRboh homeostasis has remained unclear. In this study, we reported that overexpression of OsRbohB confers resistance to Magnaporthe oryzae and Xanthomonas oryzae pv. oryzae. Mechanistically, the calcium-dependent protein kinase OsCPK4 interacts with and phosphorylates OsRbohB at Ser322 and Ser326, thereby reducing immune responses. OsRbohB phosphomimic modifications at these two sites disrupt OsRbohB-mediated disease resistance. Moreover, the RING-type E3 ubiquitin ligase OsRING142 interacts with and ubiquitinates OsRbohB at Lys266, targeting it for degradation by the 26S proteasome pathway and compromising the immune response. Overexpression of OsRbohBK266R further increased resistance compared to OsRbohB overexpression plants. Remarkably, phosphorylation at OsRbohB facilitates OsRING142-mediated ubiquitination and degradation of OsRbohB. OsRbohBK266R×S2A overexpression plants with reduced ubiquitination and phosphorylation levels of OsRbohB exhibit stronger resistance against M. oryzae. Overall, our study highlights the critical role of Rbohs in broad-spectrum resistance and demonstrates that phosphorylation and ubiquitination synergistically fine-tune Rboh protein stability and immunity.",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41248081/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41243520",
-    "doi": "10.1093/plcell/koaf273",
-    "title": "An iron-clad defense: Ferroptosis underpins resistance to citrus canker.",
-    "authors": "Webster SS",
-    "journal": "The Plant cell",
-    "pub_date": "2025 Nov",
-    "abstract": "",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41243520/",
-    "fetch_date": "2025-11-24 10:31:17",
-    "query_group": "Plant-Specific Journals"
   }
 ]
