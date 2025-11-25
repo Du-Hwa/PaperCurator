@@ -183,20 +183,20 @@ class PaperCuratorAutomation:
             pmid_elem = article.find('.//PMID')
             pmid = pmid_elem.text if pmid_elem is not None else ''
             
+            # Title (모든 하위 태그의 텍스트 포함)
             title_elem = article.find('.//ArticleTitle')
-            title = title_elem.text if title_elem is not None else 'No title'
+            if title_elem is not None:
+                title = ''.join(title_elem.itertext()).strip()
+            else:
+                title = 'No title'
 
+            # Abstract (모든 하위 태그의 텍스트 포함)
             abstract_texts = article.findall('.//AbstractText')
             abstract_parts = []
             for at in abstract_texts:
-                # 텍스트와 모든 하위 요소의 텍스트를 포함
-                text_parts = [at.text or '']
-                for elem in at.iter():
-                    if elem.text:
-                        text_parts.append(elem.text)
-                    if elem.tail:
-                        text_parts.append(elem.tail)
-                abstract_parts.append(' '.join(text_parts).strip())
+                text = ''.join(at.itertext()).strip()
+                if text:
+                    abstract_parts.append(text)
             abstract = ' '.join(abstract_parts) if abstract_parts else ''
             
             authors = []
