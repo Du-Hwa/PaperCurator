@@ -1,0 +1,15 @@
+[
+  {
+    "pmid": "41264695",
+    "doi": "10.1126/science.adz8505",
+    "title": "CRISPR-Cas-mediated heritable chromosome fusions in Arabidopsis.",
+    "authors": "Rönspies M, Khosravi S, Helia O, ..., Fojtová M, Houben A, Puchta H",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2025 Nov",
+    "abstract": "The genome of Arabidopsis thaliana consists of 10 chromosomes. By inducing CRISPR-Cas-mediated breaks at subcentromeric and subtelomeric sequences, we fused entire chromosome arms, obtaining two eight-chromosome lines. In one line, both arms of chromosome 3 were fused to chromosome 1. In another line, the arms were transferred to chromosomes 1 and 5. Both chromosome number-reduced lines were fertile. Phenotypic and transcriptional analyses revealed no differences compared with wild-type plants. After crossing with the wild type, the progeny showed reduced fertility. The meiotic recombination patterns of the transferred chromosome arms were substantially changed. Directed chromosome number changes in plants may enable new breeding strategies, redefining linkage groups and establishing genetic barriers. Moreover, our data indicate that plants are highly robust to engineered karyotype changes.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41264695/",
+    "fetch_date": "2025-11-25 04:01:30",
+    "query_group": "High Impact General"
+  }
+]
