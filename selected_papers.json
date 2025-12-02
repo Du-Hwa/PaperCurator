@@ -1,0 +1,95 @@
+[
+  {
+    "pmid": "40961939",
+    "doi": "10.1016/j.cell.2025.08.031",
+    "title": "Time-resolved reprogramming of single somatic cells into totipotent states during plant regeneration.",
+    "authors": "Tang LP, Zhai LM, Li J, ..., Xu J, Su YH, Zhang XS",
+    "journal": "Cell",
+    "pub_date": "2025 Nov",
+    "abstract": "Totipotency enables single cells to regenerate an organism, yet how differentiated somatic cells reacquire this potential remains unclear. Here, we show that LEAFY COTYLEDON2 (LEC2) reprograms SPEECHLESS (SPCH)-expressing meristemoid mother cells (MMCs) away from stomatal-lineage progression, driving their conversion into totipotent somatic embryo founder cells (SEFCs) in Arabidopsis cotyledons. Using time-course live imaging, single-nucleus RNA sequencing (snRNA-seq), and spatial laser capture microdissection combined with RNA sequencing (LCM-RNA-seq), we uncover a lineage bifurcation point where MMC derivatives either commit to guard cells or transition into a guard mother cell (GMC)-auxin intermediate, an auxin-enriched state that enables transcriptional reprogramming and embryonic gene activation. LEC2 and SPCH cooperatively activate TRYPTOPHAN AMINOTRANSFERASE OF ARABIDOPSIS 1 (TAA1) and YUCCA4 (YUC4), establishing a local auxin biosynthesis circuit essential for SEFC specification. Genetic and promoter analyses confirm MMCs as the origin of somatic embryos, with TAA1/YUC-mediated auxin production indispensable for totipotency and embryogenesis. These findings define an auxin-driven, transcriptionally regulated trajectory linking stomatal progenitors to somatic embryogenesis, revealing a direct route that advances mechanistic understanding of plant regenerative plasticity.",
+    "keywords": [
+      "LEC2",
+      "SPCH",
+      "auxin biosynthesis",
+      "live imaging",
+      "single-nucleus RNA sequencing",
+      "somatic embryo founder cells",
+      "somatic embryogenesis",
+      "totipotency"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40961939/",
+    "fetch_date": "2025-12-01 10:32:28",
+    "query_group": "High Impact General"
+  },
+  {
+    "pmid": "41291229",
+    "doi": "10.1038/s41587-025-02880-w",
+    "title": "Multiplexed profiling of transcriptional regulators in plant cells.",
+    "authors": "Alamos S, Waldburger L, Dee A, ..., Rattan R, Ong S, Shih PM",
+    "journal": "Nature biotechnology",
+    "pub_date": "2025 Nov",
+    "abstract": "Transcriptional regulators play key roles in plant growth, development and environmental responses; however, understanding how their regulatory activity is encoded at the protein level has been hindered by a lack of multiplexed large-scale methods to characterize protein libraries in planta. Here we present enrichment of nuclear trans-elements reporter assay in plants with sequencing (ENTRAP-seq), a high-throughput method that introduces protein-coding libraries into plant cells to drive a nuclear magnetic sorting-based reporter, enabling multiplexed measurement of regulatory activity from thousands of protein variants. Using ENTRAP-seq and machine learning, we screen 1,495 plant viruses and identify hundreds of putative transcriptional regulatory domains found in structural proteins and enzymes not associated with gene regulation. In addition, we combine ENTRAP-seq with machine-guided design to engineer the activity of a plant transcription factor in a semirational fashion. Our findings demonstrate how scalable protein function assays deployed in planta will enable the characterization of natural and synthetic coding diversity in plants.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41291229/",
+    "fetch_date": "2025-12-01 10:32:28",
+    "query_group": "High Impact General"
+  },
+  {
+    "pmid": "41296736",
+    "doi": "10.1073/pnas.2527765122",
+    "title": "Cellular energy sensor SnRK1 suppresses salicylic acid-dependent and -independent defenses and bacterial resistance in Arabidopsis.",
+    "authors": "Jie L, Sanagi M, Yasuda S, ..., Tada Y, Saijo Y, Sato T",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "pub_date": "2025 Dec",
+    "abstract": "In nature, plants cope with various pathogens that compete for cellular resources during infection. It has long been suggested that plant defense activity must be linked to cellular energy and metabolic states to optimize the balance between growth and defense. However, the molecular mechanisms that regulate immune activity in relation to cellular energy status remain unclear. Here, we demonstrate that the plant energy sensor SNF1-RELATED KINASE 1 (SnRK1) plays a critical role in modulating defense responses and bacterial resistance in Arabidopsis thaliana. Bacterial elicitor-induced expression of defense marker genes, such as PATHOGENESIS-RELATED 1 (PR1), is significantly repressed under sugar-limited conditions in wild-type seedlings, whereas this expression is markedly enhanced in the snrk1α1i/α2 knockdown mutants. SnRK1 restricts defense-related gene expression and resistance to the biotrophic bacterial pathogen Pseudomonas syringae pv. tomato DC3000, which are partly dependent on salicylic acid (SA). In addition, we found that the SnRK1 kinase activity is increased by high humidity. Consistently, SnRK1 is critical for the suppression of SA-mediated defense responses under high humidity conditions. SnRK1 physically associates with the SA-related transcription factors TGACG SEQUENCE-SPECIFIC BINDING PROTEIN 4 (TGA4) and TGA2 to attenuate PR1 expression. These findings provide valuable insight into the molecular mechanisms linking cellular energy status with immune regulation in plants.",
+    "keywords": [
+      "immunity",
+      "kinase",
+      "phytohormone",
+      "sugar availability",
+      "transcription factor"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41296736/",
+    "fetch_date": "2025-12-01 10:32:29",
+    "query_group": "Medium Impact Specialized"
+  },
+  {
+    "pmid": "40927861",
+    "doi": "10.1111/nph.70564",
+    "title": "P3IPs activate autophagy by disrupting the GAPC2-ATG3 interaction and target TuMV 6K2 for degradation.",
+    "authors": "Chen Y, Chen Y, Hu A, ..., Chen J, Lu Y, Yan F",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Dec",
+    "abstract": "Our previous work identified p3-interacting protein (P3IP) as a novel plant factor that interacts with rice stripe virus p3 protein and activates autophagy to mediate its degradation, thereby restricting infection. However, the mechanism of P3IP-mediated autophagy and the evolutionary conservation of its antiviral function remain unknown. This study demonstrates that two Arabidopsis thaliana homologs, AtP3IP and AtP3IPH (Arabidopsis P3IP homologs, AtP3IPs), similarly activate autophagy and confer resistance to turnip mosaic virus (TuMV). We show that AtP3IPs activate autophagy by competitively disrupting the interaction between glyceraldehyde-3-phosphate dehydrogenases (GAPCs), known negative regulators of autophagy, and the autophagy-related protein ATG3. This represents the first identification of an endogenous host factor that modulates autophagy through targeting the GAPC-ATG3 regulatory axis. Functional analyses revealed that AtP3IP-overexpressing plants exhibit enhanced TuMV resistance, whereas loss-of-function mutants are more susceptible. Notably, AtP3IPs directly interacted with TuMV 6K2 protein and facilitated its autophagic degradation. Collectively, our findings demonstrate the conserved role of P3IPs in autophagy activation and reveal a novel mechanism through which P3IPs stimulate autophagy by disrupting the inhibitory GAPC-ATG3 regulatory module. Additionally, TuMV 6K2 is identified as a new target of host autophagy. These expand our understanding of plant antiviral defenses and provide potential targets for engineering broad-spectrum resistance against viral pathogens.",
+    "keywords": [
+      "6K2",
+      "GAPC",
+      "P3IP",
+      "TuMV",
+      "autophagy"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40927861/",
+    "fetch_date": "2025-12-01 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "40653710",
+    "doi": "10.1111/nph.70378",
+    "title": "MLO-mediated Ca2+ influx regulates root hair tip growth in Arabidopsis.",
+    "authors": "Ogawa ST, Zhang W, Staiger CJ, Kessler SA",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Dec",
+    "abstract": "Root hair tip-growth involves coordinated Ca2+ and ROS signaling to promote growth while maintaining tip integrity. MILDEW RESISTANCE LOCUS-O (MLO) proteins act downstream of FERONIA (FER) receptor-like kinases in pollen tubes and synergids to regulate calcium dynamics. This study uses a constitutively active MLO (faNTA) to identify a new role for the FER/MLO signaling module in regulating [Ca2+]cyt oscillations in growing root hairs. faNTA was used as a tool to manipulate Ca2+ influx in fer mutants. Light sheet fluorescence imaging was used to image the reporter R-GECO1 to observe [Ca2+]cyt dynamics during root hair elongation in various genotypes. We show that faNTA is sufficient to restore normal root hair development, [Ca2+]cyt oscillations, and ROS levels to fer-4. MLO15 was identified as a regulator of root hair tip growth based on disrupted root hair growth and [Ca2+]cyt signatures in mlo15-4. We also link the FER/MLO module to ROS accumulation by showing that faNTA is sufficient to restore ROS levels in fer-4 root hairs, but is unable to complement the burst root hairs of rbohc. We propose that MLOs act downstream of FER to mediate Ca2+ influx and promote ROS production to regulate root hair tip growth.",
+    "keywords": [
+      "FERONIA",
+      "MLO",
+      "ROS",
+      "calcium",
+      "root hair",
+      "tip growth"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40653710/",
+    "fetch_date": "2025-12-01 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  }
+]
