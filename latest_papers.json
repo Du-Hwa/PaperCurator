@@ -1,50 +1,15 @@
 [
   {
-    "pmid": "41197625",
-    "doi": "10.1016/j.cell.2025.10.035",
-    "title": "Time-resolved reprogramming of single somatic cells into totipotent states during plant regeneration.",
-    "authors": "Tang LP, Zhai LM, Li J, ..., Xu J, Su YH, Zhang XS",
-    "journal": "Cell",
-    "pub_date": "2025 Nov",
-    "abstract": "",
+    "pmid": "41343626",
+    "doi": "10.1126/science.ady4102",
+    "title": "Cell wall patterning regulates plant stem cell dynamics.",
+    "authors": "Zhu X, Chen X, Liu Y, ..., Gao M, Ding Y, Yang W",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2025 Dec",
+    "abstract": "The plant cell wall regulates development through spatiotemporal modulation of its chemical and mechanical properties. Pectin methylesterification is recognized as a rheological switch controlling wall stiffness. Here, we reveal a bimodal methylesterification pattern in the shoot meristem: Mature walls exhibit high methylesterification, whereas demethylesterified pectins are deposited at new cross walls. This spatial heterogeneity is established through nuclear sequestration of PECTIN METHYLESTERASE5 (PME5) mRNA. MYB3R4-driven transcription, combined with RZ-1B/1C-mediated retention, creates a mitotically associated PME5 mRNA reservoir in the nucleus. Nuclear envelope disassembly synchronizes PME5 messenger RNA (mRNA) release with cell plate formation, enabling precise demethylesterification at division planes. Perturbation of this spatial control compromises stem cell maintenance or breaks division patterning. Our study uncovers an mRNA compartmentalization mechanism that couples stem cell dynamics with pectin modification.",
     "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41197625/",
-    "fetch_date": "2025-12-01 10:32:28",
-    "query_group": "High Impact General"
-  },
-  {
-    "pmid": "40961939",
-    "doi": "10.1016/j.cell.2025.08.031",
-    "title": "Time-resolved reprogramming of single somatic cells into totipotent states during plant regeneration.",
-    "authors": "Tang LP, Zhai LM, Li J, ..., Xu J, Su YH, Zhang XS",
-    "journal": "Cell",
-    "pub_date": "2025 Nov",
-    "abstract": "Totipotency enables single cells to regenerate an organism, yet how differentiated somatic cells reacquire this potential remains unclear. Here, we show that LEAFY COTYLEDON2 (LEC2) reprograms SPEECHLESS (SPCH)-expressing meristemoid mother cells (MMCs) away from stomatal-lineage progression, driving their conversion into totipotent somatic embryo founder cells (SEFCs) in Arabidopsis cotyledons. Using time-course live imaging, single-nucleus RNA sequencing (snRNA-seq), and spatial laser capture microdissection combined with RNA sequencing (LCM-RNA-seq), we uncover a lineage bifurcation point where MMC derivatives either commit to guard cells or transition into a guard mother cell (GMC)-auxin intermediate, an auxin-enriched state that enables transcriptional reprogramming and embryonic gene activation. LEC2 and SPCH cooperatively activate TRYPTOPHAN AMINOTRANSFERASE OF ARABIDOPSIS 1 (TAA1) and YUCCA4 (YUC4), establishing a local auxin biosynthesis circuit essential for SEFC specification. Genetic and promoter analyses confirm MMCs as the origin of somatic embryos, with TAA1/YUC-mediated auxin production indispensable for totipotency and embryogenesis. These findings define an auxin-driven, transcriptionally regulated trajectory linking stomatal progenitors to somatic embryogenesis, revealing a direct route that advances mechanistic understanding of plant regenerative plasticity.",
-    "keywords": [
-      "LEC2",
-      "SPCH",
-      "auxin biosynthesis",
-      "live imaging",
-      "single-nucleus RNA sequencing",
-      "somatic embryo founder cells",
-      "somatic embryogenesis",
-      "totipotency"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40961939/",
-    "fetch_date": "2025-12-01 10:32:28",
-    "query_group": "High Impact General"
-  },
-  {
-    "pmid": "41291229",
-    "doi": "10.1038/s41587-025-02880-w",
-    "title": "Multiplexed profiling of transcriptional regulators in plant cells.",
-    "authors": "Alamos S, Waldburger L, Dee A, ..., Rattan R, Ong S, Shih PM",
-    "journal": "Nature biotechnology",
-    "pub_date": "2025 Nov",
-    "abstract": "Transcriptional regulators play key roles in plant growth, development and environmental responses; however, understanding how their regulatory activity is encoded at the protein level has been hindered by a lack of multiplexed large-scale methods to characterize protein libraries in planta. Here we present enrichment of nuclear trans-elements reporter assay in plants with sequencing (ENTRAP-seq), a high-throughput method that introduces protein-coding libraries into plant cells to drive a nuclear magnetic sorting-based reporter, enabling multiplexed measurement of regulatory activity from thousands of protein variants. Using ENTRAP-seq and machine learning, we screen 1,495 plant viruses and identify hundreds of putative transcriptional regulatory domains found in structural proteins and enzymes not associated with gene regulation. In addition, we combine ENTRAP-seq with machine-guided design to engineer the activity of a plant transcription factor in a semirational fashion. Our findings demonstrate how scalable protein function assays deployed in planta will enable the characterization of natural and synthetic coding diversity in plants.",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41291229/",
-    "fetch_date": "2025-12-01 10:32:28",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41343626/",
+    "fetch_date": "2025-12-08 10:32:29",
     "query_group": "High Impact General"
   },
   {
@@ -63,7 +28,7 @@
       "transcription factor"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41296736/",
-    "fetch_date": "2025-12-01 10:32:29",
+    "fetch_date": "2025-12-08 10:32:30",
     "query_group": "Medium Impact Specialized"
   },
   {
@@ -82,34 +47,301 @@
       "membrane trafficking"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41296723/",
-    "fetch_date": "2025-12-01 10:32:29",
+    "fetch_date": "2025-12-08 10:32:30",
     "query_group": "Medium Impact Specialized"
   },
   {
-    "pmid": "41298481",
-    "doi": "10.1038/s41467-025-66645-4",
-    "title": "H3K4me2 orchestrates H2A.Z and Polycomb repressive marks in Arabidopsis.",
-    "authors": "Noyori T, Mori S, Oya S, ..., Kudoh H, Inagaki S, Kakutani T",
-    "journal": "Nature communications",
-    "pub_date": "2025 Nov",
-    "abstract": "The dimethylation of histone H3 lysine 4 (H3K4me2) plays an important role in developmental phase transitions in plants, such as regeneration from the callus and the initiation of flowering. H3K4me2 in plants is correlated with transcriptionally repressed states, which can be accounted for by transcription-coupled active H3K4me2 demethylation, but the converse molecular pathway by which H3K4me2 represses transcription remains largely unexplored. Here, we show that H3K4me2 colocalizes with the H2A variant H2A.Z and H2A ubiquitination (H2Aub). Our genetic analyses reveal that H3K4me2 functions upstream but not downstream of these marks. H3K4me2 also partially colocalizes with the facultative heterochromatin mark H3K27me3, and loss of H3K4me2 causes a decrease in the colocalized H3K27me3. Interestingly, in genes with diel H3K4me2 oscillation, H3K4me2 oscillates in antiphase with transcription but in phase with H2A.Z. In addition, the genetic manipulation of H3K4me2 affects the oscillating profiles of H2A.Z, suggesting the efficient relay from H3K4me2 to H2A.Z. Notably, the diel oscillation of H2Aub is much weaker than that of H2A.Z despite the overall similarity in their distributions. These results suggest that H3K4me2 orchestrates H2A.Z and H2Aub with distinct dynamics. We propose that H3K4me2 promotes stepwise progression of chromatin toward repressive states in plants.",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41298481/",
-    "fetch_date": "2025-12-01 10:32:29",
-    "query_group": "Medium Impact Specialized"
+    "pmid": "41353561",
+    "doi": "10.1016/j.molp.2025.12.001",
+    "title": "Integrative regulation of axillary meristem maturation and stolon fate determination in strawberry by light, gibberellin, and ZFP6.",
+    "authors": "Guo L, Li M, Luo X, ..., Ma N, Tang S, Liu Z",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Dec",
+    "abstract": "The strawberry axillary-meristem can develop into a branch crown (a flowering shoot) or a stolon (a horizontal stem that produces daughter plants), with gibberellin promoting stolon fate. Despite its importance for plant architecture, asexual reproduction, and perennial growth, the regulatory mechanism governing this fate decision remains poorly understood. We found that the juvenile-to-adult transition of the axillary-meristem is marked by induction of GA20ox4 expression and the onset of stolon formation. RNA-sequencing of staged meristems identified the zinc-finger protein ZFP6, which is strongly co-expressed with GA20ox4. CRISPR knockout of ZFP6 abolished GA20ox4 expression and eliminated stolon formation, a phenotype rescued by exogenous gibberellin, demonstrating that ZFP6 acts to activate gibberellin biosynthesis and promote stolon formation. Genetic analysis of mutants in the red-light receptor PhyB, together with mutants in gibberellin biosynthesis and signaling, further revealed that red light and PhyB promote axillary-meristem maturation-a previously unrecognized developmental stage that precedes fate determination. Together, these findings illuminate how developmental stage and environmental cues converge to regulate axillary-meristem maturation and fate determination and identify a stage-specific regulator controlling the switch to stolon formation.",
+    "keywords": [
+      "GA20ox4",
+      "PhyB",
+      "Stolon",
+      "ZFP6",
+      "axillary meristem",
+      "strawberry"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41353561/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
   },
   {
-    "pmid": "41285787",
-    "doi": "10.1038/s41467-025-65355-1",
-    "title": "A mutually antagonistic mechanism mediated by RNA m6A modification in plant-virus interactions.",
-    "authors": "Liu JH, Lin Y, Li YX, Lang Z, Zhang Z, Duan CG",
-    "journal": "Nature communications",
-    "pub_date": "2025 Nov",
-    "abstract": "RNA-based immunity plays a central role in host defense against pathogens, with both hosts and pathogens continually evolving antagonistic strategies in their ongoing arms race. Although the presence of N6-methyl-adenosine (m6A) in viruses has been recognized for decades, its functional significance in plant antiviral defenses has only recently been revealed. Moreover, viral counterstrategies targeting m6A-mediated defenses remain largely unexplored. Here, we uncover a mutually antagonistic mechanism between m6A-mediated antiviral defense and a countermeasure employed by the RNA virus Cucumber mosaic virus (CMV). The deposition of m6A modification on CMV genomic RNAs was validated through m6A antibody-mediated MeRIP and nanopore-based direct RNA sequencing (DRS). During infection, plant m6A methyltransferases are translocated to the cytoplasm through their interaction with the viral coat protein (CP), facilitating viral m6A deposition. The plant EVOLUTIONARILY CONSERVED C-TERMINAL REGION 8 (ECT8) protein acts as a reader of viral m6A, destabilizing viral RNAs and mediating antiviral activity. Conversely, the CMV-2b protein, known as a viral suppressor of RNA silencing (VSR), antagonizes this defense by inhibiting viral m6A deposition. This occurs via direct interactions between 2b and the m6A methyltransferase components MTB and HAKAI, disrupting the methyltransferase complex's functionality. Furthermore, CMV-2b also downregulates global plant m6A levels, leading to the misexpression of defense-related transcripts. Collectively, our findings elucidate a previously unrecognized layer of host-virus interaction in which m6A modification serves as a regulatory battleground, positioning m6A dynamics as a new frontier in plant-virus coevolution.",
+    "pmid": "41351190",
+    "doi": "10.1111/nph.70821",
+    "title": "A trade-off between leaf water retention capacity and rehydration capacity among plant species.",
+    "authors": "Liu J, Du T, Yang X, ..., Zhang H, Xiao Y, Xiong D",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Dec",
+    "abstract": "How plants cope with drought remains a major challenge in plant biology. Plants have evolved diverse drought resistance strategies, whether they operate synergistically or exhibit trade-offs remains a critical knowledge gap. Here, we examined drought resistance strategies across 128 plant species, encompassing diverse plant phyla, original biomes, leaf types, and growth forms. Their leaf water retention capacity, rehydration capacity, and anatomical traits of leaves were measured. Our analyses revealed a significant negative correlation between leaf water retention capacity and rehydration capacity (R2 = 0.55, P < 0.001), providing compelling evidence for an trade-off between desiccation avoidance and desiccation tolerance at the leaf level. This trade-off exhibits clear anatomical underpinnings in leaf structural traits including cell size, leaf thickness, vein density, and xylem proportion. We found significant variations in both capacities across plant phyla, original biomes, and leaf types, suggesting that vascular structure evolution and habitat adaptation may be primary drivers shaping drought resistance strategies. Notably, interspecific differences in leaf water retention capacity were mainly due to variations in water loss rate rather than water storage capacity. Our findings advance mechanistic understanding of drought resistance strategies across different plant types and contribute to improved predictions of vegetation responses to climate change.",
+    "keywords": [
+      "Chl fluorescence",
+      "cell size",
+      "drought avoidance",
+      "drought resistance strategies",
+      "drought tolerance",
+      "minimum leaf conductance",
+      "succulent"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41351190/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41346171",
+    "doi": "10.1111/nph.70808",
+    "title": "Placing a mustard oil bomb trigger in the endoplasmic reticulum: the SUN in plant defense against herbivory attack.",
+    "authors": "Zheng H",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Dec",
+    "abstract": "",
+    "keywords": [
+      "Cruciferae",
+      "glucosinolates",
+      "herbivory attack",
+      "mustard oil bomb",
+      "myrosinases",
+      "plant defense",
+      "β‐glucosidases"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41346171/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41346117",
+    "doi": "10.1016/j.xplc.2025.101634",
+    "title": "Targeting the MafA gene using plant-mediated RNAi enhances rice resistance to white-backed planthoppers.",
+    "authors": "Guo B, Zhang J, Wang Y, ..., Gao H, Li Y, Qiu L",
+    "journal": "Plant communications",
+    "pub_date": "2025 Dec",
+    "abstract": "",
     "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41285787/",
-    "fetch_date": "2025-12-01 10:32:29",
-    "query_group": "Medium Impact Specialized"
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41346117/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41346115",
+    "doi": "10.1016/j.xplc.2025.101633",
+    "title": "Liquid-liquid phase separation at the frontline of plant-pathogen battles.",
+    "authors": "Zou J, Zhang B, Cao J, ..., Zhang Z, Zhang S, Wu J",
+    "journal": "Plant communications",
+    "pub_date": "2025 Dec",
+    "abstract": "Liquid-liquid phase separation (LLPS) underlies the formation of biomolecular condensates, which compartmentalize proteins and RNAs without membrane boundaries. In the ongoing arms race between plants and pathogens, LLPS has emerged as a key regulatory process. Pathogens exploit biomolecular condensates to construct replication factories or hijack host factors, while plants leverage LLPS to orchestrate immune signaling, RNA silencing, and stress adaptation. Recent findings portray a \"biomolecular condensate battleground\" in which the outcome of infection depends on the dynamic balance between pathogen-induced and host-driven assemblies. In this review, we synthesize recent advances in understanding LLPS mediated by viral, fungal, bacterial, and oomycete effectors, as well as host immune regulators. We further discuss the potential of biomolecular condensate engineering as a novel strategy for crop protection, and outline the major conceptual and technical challenges that remain. By bridging molecular biophysics with plant pathology, we propose that targeting LLPS represents a timely and promising avenue for developing durable disease resistance and achieving sustainable agricultural productivity.",
+    "keywords": [
+      "Liquid-liquid phase separation",
+      "RNA silencing",
+      "biomolecular condensates",
+      "pathogen effectors",
+      "plant immunity"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41346115/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41346114",
+    "doi": "10.1016/j.xplc.2025.101629",
+    "title": "Prefoldins 3 promotes the turnover of WRKY70 and FHY3 to modulate UV-B-induced hypocotyl growth inhibition in Arabidopsis thaliana.",
+    "authors": "Song Y, Liu M, Gao XM, ..., Chang WL, Liu JQ, Liu HH",
+    "journal": "Plant communications",
+    "pub_date": "2025 Dec",
+    "abstract": "Ultraviolet-B (UV-B) radiation, a pervasive light stimulus, profoundly impacts plant hypocotyl growth through intricate signaling transduction pathways. Although the primary pathways have been identified, the precise mechanisms regulating these processes remain elusive. Here, we identify PFD3, an α subunit of the prefoldin complex, as a novel negative regulator of UV-B-induced hypocotyl growth inhibition in Arabidopsis thaliana. Under UV-B exposure, PFD3 accumulates and accelerates the turnover of WRKY70 and FHY3, thereby reducing their transcriptional activities toward HY5/PRE1 and COP1, respectively. These findings delineate two modules, PFD3-WRKY70-HY5/PRE1 and PFD3-FHY3-COP1, which precisely modulate UV-B-inhibited hypocotyl elongation in a UVR8-dependent manner. Furthermore, we identified amino acid variations in FHY3 within the high-altitude Tibet-0 ecotype of A. thaliana, which confer resistance to PFD3-mediated suppression. This genetic adaptation sustains COP1 activation, resulting in shortened hypocotyls under UV-B radiation in this alpine ecotype. Thus, allelic variations in genes associated with these two modules may enhance adaptation to intense UV-B habitats, highlighting the evolutionary significance of these regulatory networks in environmental acclimation.",
+    "keywords": [
+      "Arabidopsis thaliana",
+      "FHY3",
+      "Hypocotyl",
+      "PFD3",
+      "UV-B",
+      "WRKY70"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41346114/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41340277",
+    "doi": "10.1016/j.xplc.2025.101631",
+    "title": "Plant immune inducers from fundamental research to applications: Past achievements, current challenges and future perspectives.",
+    "authors": "Jiang Y, Gao Y, Liu J, ..., Yin Z, Li Y, Ding X",
+    "journal": "Plant communications",
+    "pub_date": "2025 Dec",
+    "abstract": "Plant pathogens cause massive global crop losses, threatening food security. Traditional chemical pesticides face challenges such as pathogen resistance and environmental pollution, whereas plant immune inducers offer a sustainable alternative by activating the plant immune system, thereby reducing dependency on chemical pesticides. This review provides a systematic overview of the historical development, classification, applications and future challenges associated with plant immune inducers. It focuses on existing commercialized products and the obstacles that promising active substances encounter during the process of commercialization. Additionally, we outline the future directions and strategies for the development and production of plant immune inducers, especially several emerging technologies, including artificial intelligence (AI) for screening and developing products, as well as delivery technologies for their application. Plant immune inducers represent a crucial shift toward sustainable agriculture by harnessing the plant defenses. Overcoming current challenges through interdisciplinary innovation in design, delivery, mechanistic understanding and application is key to unlocking their full potential for enhancing global food security and reducing environmental impact.",
+    "keywords": [
+      "Artificial intelligence",
+      "Biostimulants",
+      "Biotic stress",
+      "Delivery technologies",
+      "Plant immunity inducers",
+      "Plant‒pathogen interaction"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41340277/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41331777",
+    "doi": "10.1093/plphys/kiaf614",
+    "title": "CsNAC2 and CsMYB306 orchestrate a jasmonate signaling cascade contributing to tea plant resistance to Ectropis obliqua.",
+    "authors": "Li J, Li M, Gu H, ..., Liu S, Zhu J, Wei C",
+    "journal": "Plant physiology",
+    "pub_date": "2025 Dec",
+    "abstract": "(Z)-3-Hexenyl acetate (3-HAC) is a herbivore-induced plant volatile (HIPV) that plays a crucial role in plant herbivore resistance. In this study, we report the mechanisms underlying the anti-herbivore activity of 3-HAC. Stable-isotope-labeled [²H₂]-3-HAC was applied to tea plants and was effectively absorbed by the leaves, subsequently inducing resistance against the destructive herbivore Ectropis obliqua. An integrated omics approach revealed that 3-HAC accelerates jasmonic acid (JA) biosynthesis. A lipoxygenase gene (CsLOX2), an early committed gene in JA biosynthesis, was significantly induced by exogenous 3-HAC exposure, and its suppression attenuated 3-HAC-induced JA biosynthesis and impaired the acquired resistance of tea plants to E. obliqua. Furthermore, two transcription factors, CsNAC2 and CsMYB306, which were co-expressed with CsLOX2 under 3-HAC induction, positively regulated CsLOX2 transcription. Suppression of either one attenuated 3-HAC-induced JA biosynthesis and tea plant resistance to E. obliqua. Simultaneous suppression of both genes showed stronger effects than the suppression of either gene alone. These findings provide insights into the mechanisms of HIPV-induced herbivore resistance in plants and emphasize the agricultural significance of 3-HAC as an environmentally friendly anti-herbivore agent.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41331777/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41340276",
+    "doi": "10.1016/j.molp.2025.11.015",
+    "title": "Rice SINA E3 ligases dichotomously control ERECTA1 ubiquitination and stability to regulate panicle morphogenesis and grain yield.",
+    "authors": "Lu ZQ, Guo T, Cao YJ, ..., Zhou JF, Gao J, Lin HX",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Dec",
+    "abstract": "Rice panicle architecture affects grain number per panicle and therefore determines grain yield. The receptor-like kinase OsER1 controls rice panicle development by recognizing extracellular small peptide ligands. However, the mechanism by which the activated OsER1 receptor fine-tunes panicle morphogenesis remains unclear. This study reveals that members of the conserved SEVEN IN ABSENTIA of RICE (SINAR) E3 ubiquitin ligase family contribute either synergistically or antagonistically to rice spikelet number by modulating the ubiquitination and stability of OsER1. Notably, SINAR1 and SINAR6 reduce the ubiquitination activity of SINAR2/3/4/5 through heterodimer formation, acting as a molecular brake to protect OsER1 from vacuolar degradation. This highlights the critical roles of SINAR1 and SINAR6 as key components of the negative feedback mechanism that ensures precise OsER1 signaling and shapes panicle architecture. Targeted suppression of SINAR1 and SINAR6 greatly enhances grain yield by promoting OsER1 degradation, demonstrating that attenuating OsER1-mediated developmental signals while preserving its function can optimize rice panicle architecture without compromising spikelet fertility. These findings reveal an antagonistic ligases-mediated regulatory mechanism that maintains receptor homeostasis, providing a strategy to enhance rice yield by manipulating dichotomous SINA E3 ligases.",
+    "keywords": [
+      "OsER1",
+      "Rice",
+      "SINARs",
+      "antagonistic ligases",
+      "panicle architecture"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41340276/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41340274",
+    "doi": "10.1016/j.molp.2025.11.016",
+    "title": "Beyond execution: Metacaspases emerge as master switches in plant immunity.",
+    "authors": "Li Y, Dinesh-Kumar SP",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Dec",
+    "abstract": "",
+    "keywords": [
+      "BAG3",
+      "BSMV",
+      "Beclin 1",
+      "Metacaspase",
+      "TYLCV",
+      "antiviral",
+      "autophagy",
+      "caspase",
+      "cell death",
+      "translation"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41340274/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41332117",
+    "doi": "10.1111/nph.70792",
+    "title": "Danger-associated peptide modulates iron deficiency signaling and root growth in Arabidopsis.",
+    "authors": "Shikha D, Kumar A, Jakhar P, ..., Mishra S, Jaillais Y, Satbhai SB",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Dec",
+    "abstract": "Iron (Fe) is an essential micronutrient for plants and humans, with plants being a primary dietary Fe source. Fe availability significantly affects plant health, development, and yield. Its deficiency severely inhibits plant growth; however, the mechanisms by which plants coordinate growth and Fe acquisition under Fe-deficient conditions are not fully understood. This study uncovers a novel role of the signaling peptide PROPEP2 and its receptor PEPR2 in regulating plant growth and Fe uptake during Fe deficiency. PROPEP2 expression is strongly induced under Fe deficiency. Loss-of-function mutants of PROPEP2 show reduced sensitivity to Fe deficiency, indicating its key role in stress response. Exogenous application of Pep2 downregulates key iron uptake genes (IRT1 and FRO2) and upregulates BTS, a negative regulator of Fe deficiency responses. Our findings reveal that PEPR2 primarily perceives Pep2 and is involved in modulating root growth under Fe-limited conditions. The PEP2-PEPR2 module influences root architecture, rhizosphere acidification, and Fe uptake, ultimately affecting plant Fe accumulation. The PEP2-PEPR2 pathway plays a critical role in managing the trade-off between growth and stress adaptation under Fe deficiency. This research reveals a new molecular mechanism by which plants regulate iron uptake and adapt growth under nutrient stress.",
+    "keywords": [
+      "growth–stress trade‐off",
+      "iron deficiency",
+      "iron uptake",
+      "peptide–receptor signaling",
+      "root development"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41332117/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41331507",
+    "doi": "10.1038/s41477-025-02191-7",
+    "title": "A novel player in selective autophagy.",
+    "authors": "Trösch R",
+    "journal": "Nature plants",
+    "pub_date": "2025 Dec",
+    "abstract": "",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41331507/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41327852",
+    "doi": "10.1111/nph.70789",
+    "title": "Transfer of chemical defence from rye to clover is associated with enhanced clover resistance against root-knot nematodes.",
+    "authors": "Hama JR, Laursen BB, Fomsgaard IS, Vestergård M",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Dec",
+    "abstract": "Interspecific root interactions are obviously important features of natural, diverse plant communities and cocropping systems. Yet, the implications of interspecific exchange of bioactive plant metabolites for plant defence are not clear. We hypothesise that cocropped heterospecific plants exchange defence compounds, thereby enhancing plant defence against pests. This study investigated the metabolome of white clover grown as a monocrop and cocropped with rye. We used targeted and untargeted mass spectrometry-based metabolomics to elucidate whether the transfer of bioactive compounds enhances clover defence against root-knot nematode invasion and reproduction. Our findings revealed that eight benzoxazinoids (BXs), a group of bioactive compounds produced by rye, were absorbed by clover roots, with three BXs translocated to the shoots. Cocropping and the root uptake of BXs altered the clover metabolome. These metabolic changes, along with BX transfer, significantly enhanced clover root defence against Meloidogyne incognita invasion and reproduction. Overall, this study provides novel insights into how specialised metabolites, such as BXs, mediate interspecific root interactions, ultimately improving plant defence in cereal-legume intercropping systems.",
+    "keywords": [
+      "Meloidogyne",
+      "Trifolium",
+      "benzoxazinoids",
+      "cereal",
+      "co‐cropping",
+      "defence metabolites",
+      "metabolomics"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41327852/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41248081",
+    "doi": "10.1093/plcell/koaf276",
+    "title": "Phosphorylation and ubiquitination synergistically promote the degradation of OsRbohB to modulate rice immunity.",
+    "authors": "Tao H, Wang R, He F, ..., Xie K, Wang GL, Ning Y",
+    "journal": "The Plant cell",
+    "pub_date": "2025 Dec",
+    "abstract": "Plant respiratory burst oxidase homologs (Rbohs) contribute to the production of reactive oxygen species, which are crucial defense signals in plants. However, the regulation of rice (Oryza sativa) OsRboh homeostasis has remained unclear. In this study, we reported that overexpression of OsRbohB confers resistance to Magnaporthe oryzae and Xanthomonas oryzae pv. oryzae. Mechanistically, the calcium-dependent protein kinase OsCPK4 interacts with and phosphorylates OsRbohB at Ser322 and Ser326, thereby reducing immune responses. OsRbohB phosphomimic modifications at these 2 sites disrupt OsRbohB-mediated disease resistance. Moreover, the RING-type E3 ubiquitin ligase OsRING142 interacts with and ubiquitinates OsRbohB at Lys266, targeting it for degradation by the 26S proteasome pathway and compromising the immune response. Overexpression of OsRbohBK266R further increased resistance compared with OsRbohB overexpression plants. Remarkably, phosphorylation at OsRbohB facilitates OsRING142-mediated ubiquitination and degradation of OsRbohB. OsRbohBK266R×S2A overexpression plants with reduced ubiquitination and phosphorylation levels of OsRbohB exhibit stronger resistance against M. oryzae. Overall, our study highlights the critical role of Rbohs in broad-spectrum resistance and demonstrates that phosphorylation and ubiquitination synergistically fine-tune Rboh protein stability and immunity.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41248081/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41202820",
+    "doi": "10.1016/j.molp.2025.09.017",
+    "title": "A synthetic transcription cascade enables direct in planta shoot regeneration for transgenesis and gene editing in multiple plants.",
+    "authors": "Kshetry AO, Ghose K, Alok A, ..., Herrera-Estrella L, Zhang F, Patil GB",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Dec",
+    "abstract": "Developing transgenic and/or gene-edited plants largely depends on tedious, lengthy, and costly in vitro regeneration protocols. While plants have remarkable regeneration ability, not all species, genotypes, or even explants exhibit the same transformation and regeneration potential under in vitro conditions. To tackle this bottleneck, we have developed a seamless and user-friendly system to induce transgenic and gene-edited de novo meristems via a synthetic cascade comprising a wound-induced regeneration pathway, plant developmental regulators (DRs), and gene-editing reagents. WOUND INDUCED DEDIFFERENTIATION 1 (WIND1) was used as a transcriptional regulator to control the expression of various DR genes driven by ENHANCER OF SHOOT REGENERATION 1 (ESR1) promoter. This cascade was strategically applied in planta to the non-meristematic internode of Nicotiana benthamiana to induce meristematic activity and regenerate de novo shoots with knockout mutations of the phytoene desaturase (PDS) gene. Among the DR genes tested, the strategic expression of isopentenyl transferase (ipt) driven by the ESR1 promoter under the control of WIND1 proved most effective for efficient regeneration in tobacco. Subsequently, this synthetic toolkit was successfully applied to both tomato and soybean. WIND1 served as a key cellular reprogramming factor, initiating differentiation, while ipt complemented this process by promoting organogenesis through cytokinin biosynthesis. This methodology offers a transformative approach to overcome barriers in plant biotechnology, potentially accelerating the generation of transgenic and gene-edited plants without reliance, or with minimal reliance, on conventional tissue-culture intermediates.",
+    "keywords": [
+      "developmental regulator",
+      "regeneration",
+      "soybean",
+      "wounding pathway"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41202820/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41174877",
+    "doi": "10.1016/j.molp.2025.10.021",
+    "title": "A plasma membrane receptor complex mediates early heat-responsive signaling to trigger nuclear transcriptomic reprogramming in Arabidopsis.",
+    "authors": "Li J, Wu S, Wang K, ..., Gong Z, Yang S, Ding Y",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Dec",
+    "abstract": "The plasma membrane has been proposed as a primary site for temperature sensing in plants, but the molecular mechanism that links external heat signals to intracellular responses remains elusive. Here, we identify a membrane-anchored receptor complex composed of BARELY ANY MERISTEM 1 (BAM1) and AVRPPHB SUSCEPTIBLE 1 (PBS1) that orchestrates rapid heat-signal transduction. Upon heat stress, BAM1 is rapidly activated within seconds and associates with PBS1, which in turn triggers RBOHD-dependent H2O2 production. This H2O2 signal is directly decoded by the heat-shock factor HSFA1b, leading to its oxidation, increased protein stability, and nuclear accumulation, thereby driving heat-responsive transcriptional reprogramming. Furthermore, the secreted peptide CLAVATA3/EMBRYO SURROUNDING REGION-related 40 (CLE40) amplifies the heat response by promoting BAM1 activation and enhancing formation of the BAM1-PBS1 complex. Taken together, these findings reveal that a membrane complex constitutes an early and contributing pathway in the relay of heat signals from the membrane to the nucleus.",
+    "keywords": [
+      "BAM1–PBS1 module",
+      "ROS",
+      "early heat signaling",
+      "heat stress",
+      "secreted peptide CLE40"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41174877/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
   },
   {
     "pmid": "41163413",
@@ -129,7 +361,40 @@
       "tomato"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41163413/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41121663",
+    "doi": "10.1016/j.molp.2025.10.012",
+    "title": "Pm6 from Triticum timopheevii encodes an NLR receptor that directly recognizes AvrPm6 to confer powdery mildew resistance in wheat.",
+    "authors": "Wang Z, Xie J, Zhang H, ..., Wang H, Wang W, Wang X",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Dec",
+    "abstract": "",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41121663/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41108080",
+    "doi": "10.1016/j.molp.2025.10.011",
+    "title": "Gibberellin triggers ATG8-dependent autophagic degradation of DELLA proteins to promote seed germination and skotomorphogenesis under nutrient starvation in Arabidopsis.",
+    "authors": "Zhang S, Jiang L, Chen H, ..., Guo T, Wang W, Yang HQ",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Dec",
+    "abstract": "Gibberellin (GA) is a phytohormone that regulates key developmental processes in plants, including seed germination and photomorphogenesis. It is well established that GA signaling involves GA-triggered, 26S proteasome-dependent degradation of DELLA proteins. Whether DELLA proteins also undergo autophagic degradation to mediate GA signaling remains unclear. In this study, we investigated the responsiveness of Arabidopsis seedlings to GA and the dynamics of DELLA proteins under nutrient starvation in darkness. We found that GA-induced seed germination and skotomorphogenesis are impaired in autophagy mutants and that GA promotes the autophagic degradation of DELLA proteins. Biochemical and protein localization analyses revealed that GA promotes the nuclear export of DELLA proteins and ATG8, their co-localization in autophagosomes, and autophagosome formation. Further biochemical studies demonstrated that GA enhances the interaction between ATG8 and GID1, thereby promoting the association of ATG8 with DELLA proteins and their autophagic degradation. Through this mechanism, GA promotes seed germination and skotomorphogenesis under nutrient starvation in darkness, enabling seedlings to penetrate the soil rapidly, capture sunlight, and shift to autotrophic growth to overcome nutrient deficiency.",
+    "keywords": [
+      "ATG8",
+      "DELLA proteins",
+      "autophagy",
+      "gibberellin",
+      "seed germination",
+      "skotomorphogenesis"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41108080/",
+    "fetch_date": "2025-12-08 10:32:31",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -151,7 +416,27 @@
       "reassociation"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41104606/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41103034",
+    "doi": "10.1016/j.molp.2025.10.010",
+    "title": "Warm temperature activates the TCP15-HDA4 module to suppress shoot branching by promoting auxin biosynthesis and signaling in tomato.",
+    "authors": "Song X, Liu Y, Meng X, ..., Considine M, Yu J, Xia X",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Dec",
+    "abstract": "Shoot branching, an important agronomic trait, is environmentally and developmentally regulated. Epigenetic modifications play a pivotal role in regulating transcriptional responses to light and temperature cues that control plant growth. Nevertheless, the roles of epigenetic modifiers in regulating shoot branching under varying temperatures remain elusive. In this study, we reveal that elevated temperature suppresses lateral bud outgrowth in tomato (Solanum lycopersicum), accompanied by increased HISTONE DEACETYLASE 4 (HDA4) levels. Loss of function of SlHDA4 augments lateral bud outgrowth, resulting from a reduced auxin response. Notably, increased lateral bud outgrowth observed in slhda4 mutants is insensitive to elevated temperature but can be restored by SlHDA4 overexpression. Furthermore, we found that the histone deacetylase SlHDA4 interacts with the transcription factor SlTCP15 to suppress the expression of genes encoding the light receptor SlPHYB1 and auxin signaling repressor SlIAA12 by decreasing the H3K9ac levels at their promoters. In summary, our work demonstrates that the SlTCP15-SlHDA4 module participates in the regulation of lateral bud outgrowth at warm temperatures by enhancing auxin biosynthesis and signaling in tomato.",
+    "keywords": [
+      "SlIAA12",
+      "SlPHYB1",
+      "auxin",
+      "histone acetylation",
+      "shoot branching",
+      "warm temperature"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41103034/",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -173,7 +458,7 @@
       "seed storage proteins"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41097984/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -195,7 +480,27 @@
       "β‐1,3/1,4‐mixed‐linked glucans"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41077933/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41076557",
+    "doi": "10.1016/j.molp.2025.10.005",
+    "title": "Recognition of a phytocytokine by the DEPR1-SERK2 receptor complex confers multi-pathogen resistance in wheat.",
+    "authors": "Wang L, Zhao J, Yin C, ..., Deng X, Chi C, Hou S",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Dec",
+    "abstract": "The recognition of plant-derived immunogenic peptides, known as phytocytokines (PCKs), by cell surface receptors triggers immune signaling pathways that bolster basal plant defense against pathogens. However, little is known about the molecular mechanisms that underlie PCK-mediated immune regulation in wheat. In this study, we identified a wheat PCK, delta-like PCK (DEP), that robustly activates immune responses and confers multi-pathogen resistance. DEP is perceived by the leucine-rich repeat (LRR) receptor kinases (RKs) DEP RECEPTOR 1 (DEPR1) and SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASE 2 (SERK2) and triggers DEPR1- and SERK2-dependent immune signaling. Cryogenic electron microscopy structural analysis revealed that DEP2 binds to the extracellular LRR domain of DEPR1 and recruits SERK2 through a disulfide-bond-stabilized loop to promote DEPR1-SERK2 heterodimerization. Furthermore, we showed that the DEP2-DEPR1-SERK2 module confers wheat resistance to Xanthomonas translucens, Fusarium graminearum, and Fusarium pseudograminearum. We also demonstrated that this module enhances wheat resistance to X. translucens by antagonizing abscisic acid signaling. Collectively, our study reveals a novel PCK-mediated immune signaling pathway and suggests a promising strategy for engineering multi-pathogen resistance in wheat.",
+    "keywords": [
+      "Xanthomonas translucens",
+      "abscisic acid",
+      "cryogenic electron microscopy",
+      "leucine-rich repeat receptor kinases",
+      "phytocytokines",
+      "wheat"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41076557/",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -214,7 +519,7 @@
       "salt tolerance"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41063493/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -233,7 +538,7 @@
       "wheat"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41054239/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -254,7 +559,7 @@
       "hypocotyl"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41047618/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -273,7 +578,7 @@
       "transmittance loss"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41047615/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -294,7 +599,7 @@
       "trait‐functioning relationships"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41044968/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -314,7 +619,7 @@
       "squalene epoxidase"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41044966/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -327,7 +632,7 @@
     "abstract": "",
     "keywords": [],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41039641/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -348,7 +653,7 @@
       "wax biosynthesis"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41035185/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -367,7 +672,7 @@
       "rice"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41026044/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -386,7 +691,27 @@
       "nitrate"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41017212/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "40994000",
+    "doi": "10.1016/j.molp.2025.09.015",
+    "title": "The OsIMP1-OsRLK5 immunopeptide-receptor pair confers bacterial and fungal disease resistance in rice.",
+    "authors": "Sun L, Nan N, Jiang M, ..., Duan G, Li D, Sun W",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Dec",
+    "abstract": "Plant receptor-like kinases (RLKs) often function as immune receptors for exogenous and endogenous elicitors. However, only a few immune ligand-receptor pairs have been identified in rice. In this study, we report that a rice gene encoding the secretory immunopeptide OsIMP1 is induced by pathogen-associated molecular patterns. The OsIMP1 peptide triggers immune responses and positively regulates rice disease resistance. Furthermore, the leucine-rich repeat receptor-like kinases OsRLK5 and OsRLK5-L and the somatic embryogenesis receptor-like kinase 2 (OsSERK2) are essential for OsIMP1-triggered immunity. OsRLK5 interacts with and phosphorylates OsSERK2. OsIMP1 directly binds to the extracellular domain of OsRLK5, positively regulating pattern-triggered immunity. Notably, overexpression of OsRLK5 confers increased resistance to bacterial and fungal diseases without a yield penalty in rice. Taken together, these results indicate that OsIMP1 and OsRLK5/OsRLK5-L form ligand-receptor pairs that confer rice resistance to multiple pathogens without incurring a growth penalty, providing important targets for developing rice varieties with broad-spectrum disease resistance.",
+    "keywords": [
+      "Magnaporthe oryzae",
+      "Oryza sativa",
+      "OsIMP1",
+      "Xanthomonas oryzae pv. oryzae",
+      "innate immunity",
+      "receptor-like kinase OsRLK5"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40994000/",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -405,7 +730,7 @@
       "terpene synthase"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40968705/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -424,7 +749,7 @@
       "rice blast disease"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40963442/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -444,7 +769,7 @@
       "rice bacterial blight"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40955071/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -464,7 +789,7 @@
       "root hairs"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40947802/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -484,7 +809,7 @@
       "stress"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40937481/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -503,7 +828,7 @@
       "autophagy"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40927861/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -522,7 +847,7 @@
       "transcription factor"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40717417/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   },
   {
@@ -542,216 +867,7 @@
       "tip growth"
     ],
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40653710/",
-    "fetch_date": "2025-12-01 10:32:31",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41319000",
-    "doi": "10.1016/j.molp.2025.11.011",
-    "title": "Autophagy meets gibberellin signaling under stress conditions.",
-    "authors": "Sakvarelidze-Achard L, Davière JM, Achard P",
-    "journal": "Molecular plant",
-    "pub_date": "2025 Nov",
-    "abstract": "",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41319000/",
-    "fetch_date": "2025-12-01 10:32:31",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41315812",
-    "doi": "10.1111/nph.70766",
-    "title": "Causes and consequences of bacterial local adaptation via MGEs in the plant microbiome.",
-    "authors": "Porter S, Holtappels D, Montoya A, Koskella B",
-    "journal": "The New phytologist",
-    "pub_date": "2025 Nov",
-    "abstract": "Adaptations that enable plant-associated bacteria to fill disparate niches comprise a critical component of microbial diversity. Genes that confer locally adaptive bacterial traits, ranging from heavy metal resistance to pathogen or symbiont infectivity, often reside within mobile genetic elements (MGEs) that can move between genomes. While MGEs may speed microbial adaptation, they also have selfish fitness interests and potentially separate evolutionary trajectories from their host genome. MGEs can also impose physiological burdens and be limited in the transmissibility of function across hosts, which likely constrains bacterial local adaptation. Given these constraints, the prevalence of adaptive loci on potentially exploitative MGEs poses a dilemma: how do fitness conflicts and alignments between MGEs and the main replicon shape bacterial local adaptation and impact plant hosts? We synthesize research on ways MGEs confer rapid, niche-specific fitness advantages to bacteria, identify factors that promote or constrain bacterial adaptation, and highlight MGE impacts on plants. We focus on large, self-transmissible MGEs (islands, plasmids, and prophages; though we expect relevance to other MGEs as well) to better understand how MGEs bolster yet constrain bacterial local adaptation. We specifically explore the role of MGEs in shaping bacteria that themselves play a role in expanding or contracting the plant niche.",
-    "keywords": [
-      "bacteria",
-      "genomic island",
-      "local adaptation",
-      "mobile genetic element",
-      "plant–microbe interactions",
-      "plasmid",
-      "prophage"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41315812/",
-    "fetch_date": "2025-12-01 10:32:31",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41313740",
-    "doi": "10.1093/plcell/koaf281",
-    "title": "Gain and loss of gene function shaped the nickel hyperaccumulation trait in Noccaea caerulescens.",
-    "authors": "Belloeil C, Garcia de la Torre VS, Contreras-Aguilera R, ..., Quintela-Sabarís C, Thomine S, Merlot S",
-    "journal": "The Plant cell",
-    "pub_date": "2025 Nov",
-    "abstract": "Nickel hyperaccumulation is an extreme adaptation to ultramafic soils observed in more than 500 plant species. However, our understanding of the molecular mechanisms underlying the evolution of this trait remains limited. To shed light on these mechanisms, we have generated a high-quality genome assembly of the metal hyperaccumulator Noccaea caerulescens. We then used this genome as reference to conduct comparative intraspecific and interspecific transcriptomic analyses using various accessions of N. caerulescens and the non-accumulating relative Microthlaspi perfoliatum to identify genes associated with nickel hyperaccumulation. Our results suggest a correlation between nickel hyperaccumulation and a decrease in the expression of genes involved in defense responses and the regulation of membrane trafficking. Surprisingly, these analyses did not reveal a significant enrichment of genes involved in the regulation of metal homeostasis. However, we found that the expression levels of selected metal transporter genes, namely NcHMA3, NcHMA4 and NcIREG2, are consistently elevated in N. caerulescens accessions hyperaccumulating nickel. Furthermore, our analyses identified frameshift mutations in NcIRT1 associated with the loss of nickel hyperaccumulation in a few accessions. We further showed that the expression of a functional NcIRT1 in the roots of the La Calamine accession increases nickel accumulation in shoots. Our results demonstrate that NcIRT1 participates in nickel hyperaccumulation in N. caerulescens. They also suggest that nickel hyperaccumulation is an ancient trait in N. caerulescens that has evolved from the high and constitutive expression of several metal transporters, including NcIREG2, and that the trait was subsequently lost in a few accessions due to mutations in NcIRT1.",
-    "keywords": [
-      "IREG2",
-      "IRT1",
-      "frameshift mutation",
-      "hyperaccumulation",
-      "nickel",
-      "transcriptomic"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41313740/",
-    "fetch_date": "2025-12-01 10:32:31",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41296664",
-    "doi": "10.1093/plphys/kiaf620",
-    "title": "Balancing rice blast resistance and growth through suppression of the E3 ubiquitin ligase OsRING80.",
-    "authors": "Hou X, You X, Mi X, ..., Wang R, Wang S, Ning Y",
-    "journal": "Plant physiology",
-    "pub_date": "2025 Nov",
-    "abstract": "In crop plants, there is often a trade-off between growth and defense; modulating the balance is crucial for effective crop improvement. In rice (Oryza sativa), the DENSE AND ERECT PANICLE 2 (DEP2) mutant shows altered phenotypes such as a more vertical leaf angle, erect panicles, small and round grains, slightly lower thousand-grain weight, and dwarfism. Here, we determined that loss of DEP2 function enhances resistance to the rice blast fungus Magnaporthe oryzae. We established that DEP2 interacts with the E3 ubiquitin ligase OsRING80, which ubiquitinates DEP2 and promotes its degradation via the 26S proteasome pathway. Interestingly, the transcriptional level of OsRING80 was lower in dep2 mutant lines, suggesting feedback regulation of OsRING80 by DEP2. Remarkably, knocking out OsRING80 through CRISPR/Cas9-mediated gene editing resulted in greater resistance to M. oryzae without compromising plant growth. These findings reveal that OsRING80 plays a crucial role in balancing plant immunity and growth by targeting DEP2; they also provide a valuable candidate gene for developing improved rice cultivars with both disease resistance and optimal agronomic traits.",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41296664/",
-    "fetch_date": "2025-12-01 10:32:31",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41253714",
-    "doi": "10.1093/plphys/kiaf595",
-    "title": "The regulatory MaIAA1-like-MaERF003 module modulates the ripening of \"Fenjiao\" bananas.",
-    "authors": "Song Z, Chen H, Zhao Y, ..., Chen W, Li X, Zhu X",
-    "journal": "Plant physiology",
-    "pub_date": "2025 Nov",
-    "abstract": "Fruit ripening is a complex process mediated by plant hormones and transcriptional regulation. Ethylene and auxin are key regulators, but little is known about their crosstalk in fruit ripening. This study discovered the synergistic effect of auxin and ethylene during \"Fenjiao\" banana (Musa ABB Pisang Awak) fruit ripening, which is regulated by transcription factors MaIAA1-like and MaERF003. Both ethylene and auxin enhanced ripening and the expression of MaIAA1-like and MaERF003. However, 1-methylcyclopropene (1-MCP) treatment suppressed ripening and the expression of both genes. MaIAA1-like and MaERF003 activated the transcripts of genes associated with chlorophyll, starch, and cell wall degradation. Transient overexpression of MaIAA1-like and MaERF003 in \"Fenjiao\" banana enhanced ripening by accelerating softening and de-greening and by stimulating the expression of genes related to chlorophyll, starch, and cell wall degradation, while the transient silencing of MaIAA1-like and MaERF003 delayed softening and de-greening. Ectopic overexpression of MaIAA1-like and MaERF003 in tomato (Solanum lycopersicum) also accelerated fruit ripening. MaIAA1-like regulated MaERF003 transcription by directly interacting with its promoter. Additionally, the exogenous application of IAA mitigated the effect of 1-MCP on ripening in \"Fenjiao\" banana fruit, alleviating the ripening disorder induced by unsuitable 1-MCP. Our findings show that the MaIAA1-like-MaERF003 regulator module participates in the auxin-ethylene signal crosstalk to mediate ripening in \"Fenjiao\" banana.",
-    "keywords": [],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41253714/",
-    "fetch_date": "2025-12-01 10:32:31",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41305889",
-    "doi": "10.1016/j.xplc.2025.101623",
-    "title": "BAM1/2-mediated Phosphorylation of ABCG16 Reduces its Stability and ABA Export Activity to Suppress Root Growth in Arabidopsis.",
-    "authors": "Zhou Y, Liang X, Liang J",
-    "journal": "Plant communications",
-    "pub_date": "2025 Nov",
-    "abstract": "The phytohormone abscisic acid (ABA) governs plant stress responses depending on dynamic regulation of its cellular distribution by ABA transporters, yet the mechanisms controlling ABA transporter activity remain poorly understood. Here, we uncover a phosphorylation-dependent regulatory mechanism that controls cellular ABA level and Arabidopsis root growth responses. We show that ABA mediates the subcellular distribution of its transporter ABCG16, which is negatively involved in ABA-induced root growth inhibition. Contrary to ABCG16, the receptor-like kinases BAM1/2 are found to be required for root responses to ABA. It is further shown that BAM1/2 physically interact with ABCG16 and phosphorylate it at threonine 45 (Thr45). Relative intensity and cell degradation assays reveal enhanced ABCG16 accumulation in the bam1;+/- bam2 mutant, pointing to that ABCG16 protein stability is at least partially dependent on BAM1/2. ABA transport and root growth assays show that whilst the non- phosphorylated variant of ABCG16 facilitates ABA efflux activity and rescues root growth responses to ABA as wild-type ABCG16, the phosphor-mimic ABCG16 impairs cytosolic ABA efflux and fails to rescue root growth under ABA treatment. Moreover, the bam1;+/-bam2 mutant exhibits constantly improved ABA efflux activity compared with wild-type Ler, further verifying that BAM1/2-mediated phosphorylation of ABCG16 dampens its transport activity. Genetic hierarchy analyses show that the double mutants g16 bam1 and g16 bam2 phenocopy the single mutant g16, with ABA hypersensitivities in root growth responses. These findings together suggest that BAM1/2-mediated phosphorylation of ABCG16 dampens its stability and ABA export activity, thus maintaining cellular ABA level for inhibiting root growth.",
-    "keywords": [
-      "ABA",
-      "ABCG16",
-      "Arabidopsis",
-      "BAM1/2",
-      "phosphorylation",
-      "root growth",
-      "transport"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41305889/",
-    "fetch_date": "2025-12-01 10:32:31",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41305888",
-    "doi": "10.1016/j.xplc.2025.101624",
-    "title": "Chromosome-level genome assembly of triploid Cyperus rotundus uncovers allelic expression patterns and herbicide resistance mechanisms.",
-    "authors": "Wu L, Luo Z, Lu Y, ..., He S, Bai L, Pan L",
-    "journal": "Plant communications",
-    "pub_date": "2025 Nov",
-    "abstract": "Cyperus rotundus, a widespread and highly competitive weed, has developed herbicide resistance, posing a major challenge to sustainable agriculture; however, the lack of genomic resources has hindered in-depth investigations into its resistance mechanisms. Here, we assembled a chromosome-level genome of triploid C. rotundus (875.13 Mb across 165 chromosomes) exhibiting high synteny among haplotypes. Comparative analysis of six populations revealed that only the R-HN population displayed dual resistance to glyphosate and glufosinate. In this population, the overexpression of the target-site resistance gene glutamine synthetase 2 contributed to glufosinate resistance, whereas glyphosate resistance was primarily mediated by non-target-site resistance (NTSR) mechanisms. By integrating transcriptomic data with yeast-based validation, we identified two functional NTSR genes, CrABCG15 and CrCASPL2C2, that confer glyphosate resistance. This study provides a high-quality genomic resource for C. rotundus and enhances our understanding of the genomic evolution and herbicide resistance mechanisms in C. rotundus.",
-    "keywords": [
-      "Cyperus rotundus",
-      "genome assembly",
-      "glutamine synthetase overexpression",
-      "glyphosate non-target-site resistance",
-      "herbicides resistance"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41305888/",
-    "fetch_date": "2025-12-01 10:32:31",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41289031",
-    "doi": "10.1093/plphys/kiaf615",
-    "title": "Leaf It to Science: Uncovering Plant Immune Systems Through Technological Advances.",
-    "authors": "Dong X",
-    "journal": "Plant physiology",
-    "pub_date": "2025 Nov",
-    "abstract": "For the past two years, I have been contemplating how best to write this review that not only reflects on a few significant and nostalgic moments in my more than three decades of professional career in the molecular plant-microbe interaction (MPMI) field, but also offers my personal outlook on the future aimed at inspiring young scientists to join this exciting discipline. Rather than a comprehensive overview, I would like to place greater emphasis on the \"whys\" and the \"hows\" than the \"whats\". I finally decided to use technological advancements critical for the development of our field as a thread to connect the past with the future.",
-    "keywords": [
-      "NPR1",
-      "Plant immune mechanisms",
-      "biomolecular condensates",
-      "broad spectrum disease resistance",
-      "circadian clock",
-      "effector-triggered immunity",
-      "engineering disease resistance in crops",
-      "genetics",
-      "genomics",
-      "metabolic activities",
-      "pattern-triggered immunity",
-      "proteomics",
-      "redox rhythm",
-      "salicylic acid",
-      "systemic acquired resistance",
-      "transcriptional regulation",
-      "translational regulation",
-      "translatomics"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41289031/",
-    "fetch_date": "2025-12-01 10:32:31",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41287363",
-    "doi": "10.1111/nph.70749",
-    "title": "Stomatal traits covary with leaf mycobiome diversity and composition.",
-    "authors": "Apigo A, Heitmann S, Leopold D, Anderegg LDL, Busby PE",
-    "journal": "The New phytologist",
-    "pub_date": "2025 Nov",
-    "abstract": "The scope of plant control over its microbiome is a central question in evolutionary biology and agriculture. Leaf traits are known to shape pathogen colonization and disease development, but their impact on the broader community of largely non-pathogenic fungi that colonize plant leaves remains an open question. We used reciprocal common gardens of the model tree, Populus trichocarpa (black cottonwood), to examine relationships between leaf traits and the leaf mycobiome in two strongly contrasting environments. We measured six leaf traits (stomatal length, stomatal density, carbon-to-nitrogen ratio, leaf thickness, leaf dry matter content, and specific leaf area) and used fungal marker gene sequencing to characterize leaf fungal communities for 57 tree genotypes replicated in one mesic and one xeric common garden (809 trees). Several leaf traits covaried with the leaf mycobiome, yet one relationship was paramount: plant genotypes with longer, sparser leaf stomata hosted a greater richness and diversity of more similar fungal species compared to plant genotypes with shorter, denser leaf stomata. These relationships, while modulated by the environment plants were sourced from and grown in, suggest that stomatal traits may be a general mechanism through which plants and the leaf mycobiome influence one another.",
-    "keywords": [
-      "Populus trichocarpa",
-      "fungi",
-      "intraspecific plant variation",
-      "leaf traits",
-      "microbiome",
-      "stomata"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41287363/",
-    "fetch_date": "2025-12-01 10:32:31",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41284743",
-    "doi": "10.1093/plphys/kiaf608",
-    "title": "Grapevine protein Src2 mediates plant disease resistance during Lasiodiplodia theobromae infection.",
-    "authors": "Peng J, Xing Q, Zhang W, ..., Wang H, Wang C, Yan J",
-    "journal": "Plant physiology",
-    "pub_date": "2025 Nov",
-    "abstract": "Lysin motif (LysM) effectors contribute to the virulence of many pathogens, but the underlying mechanism of this type of effector remains poorly understood. Here, we identified a LysM-containing protein, named LtLysM2, in the plant opportunistic pathogen Lasiodiplodia theobromae. We demonstrated that LtLysM2 contributes to the virulence of the pathogen, is able to bind to chitin oligosaccharides, and can suppress chitin-triggered plant immune responses. Importantly, we showed that the grapevine (Vitis vinifera) protein VvSrc2, a membrane- and nuclear-localized protein homologous to the soybean (Glycine max) protein Src2 (Soybean genes regulated by cold 2), interacts with LtLysM2. Interestingly, the nuclear accumulation of VvSrc2 was elevated in the presence of LtLysM2. Ectopic expression of VvSrc2 in Nicotiana benthamiana enhanced resistance to L. theobromae. Additionally, the VvSrc2 protein interacted with the nuclear-localized RNA-binding protein VvUbp1, contributing to the programmed cell death evoked by VvUbp1. Our findings reveal a previously uncharacterized regulatory pathway in which VvSrc2 is up-regulated after the recognition of LtLysM2 and serves as an intermediator to transduce extracellular signaling events into nuclear components during infection by L. theobromae through association with the downstream target VvUbp1 in the cell nucleus.",
-    "keywords": [
-      "Lasiodiplodia theobromae",
-      "effector",
-      "immunity",
-      "virulence"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41284743/",
-    "fetch_date": "2025-12-01 10:32:31",
-    "query_group": "Plant-Specific Journals"
-  },
-  {
-    "pmid": "41284732",
-    "doi": "10.1093/plphys/kiaf612",
-    "title": "ABSCISIC ACID INSENSITIVE 5 confers cold tolerance by regulating MdCBF3 and MdJAZ1/3 in apple.",
-    "authors": "Deng M, Zhao Q, Pang H, ..., Zheng Q, Wei J, Xu J",
-    "journal": "Plant physiology",
-    "pub_date": "2025 Nov",
-    "abstract": "Apple (Malus × domestica) trees suffer from low-temperature-induced cold stress, leading to huge production and economic losses. Understanding the molecular mechanism of apple plants under cold stress is the basis of cold-resistance improvement. Here, we report that a basic region/leucine zipper (bZIP) transcription factor gene ABSCISIC ACID INSENSITIVE 5 (MdABI5) involved in ABA signaling can positively contribute to cold tolerance in apple. MdABI5 directly binds to the promoters of C-Repeat Binding Factor 3 (MdCBF3) and jasmonate ZIM domain 1/3 (MdJAZ1/3), activating the expression of MdCBF3 but inhibiting the expression of MdJAZ1/3 to regulate cold responses in apple. Because previous studies have verified that MdABI5 can interact with the transcriptional factor TEOSINTE BRANCHED/CYCLOIDEA/PROLIFERATING CELL FACTOR 15 (MdTCP15) and histone deacetylase 6 (MdHDA6) we investigated the coordinated regulations of MdTCP-MdABI5 and MdHDA6-MdABI5 on MdCBF3 and MdJAZ1/3. MdTCP15 suppressed the transcriptional regulation of MdABI5 on MdCBF3 and MdJAZ1/3, corresponding with the negative regulatory role of MdTCP15 in response to cold stress. MdHDA6 enhanced the repression of MdABI5 on MdJAZ1/3 expression to positively regulate cold response in apple. However, MdABI5 also interacted with and recruited MdHDA6 to the promoter regions of MdJAZ1/3, resulting in histone deacetylation around MdJAZ1/3, reinforcing the repression of MdABI5 on MdJAZ1/3, and enhancing cold tolerance in apple. Our findings provide insights into the involvement of MdABI5 in apple response to cold stress, providing the basis of genetic improvement for cold-resistant germplasm using a molecular approach.",
-    "keywords": [
-      "ABI5",
-      "Apple",
-      "CBF3",
-      "Cold",
-      "JAZ"
-    ],
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41284732/",
-    "fetch_date": "2025-12-01 10:32:31",
+    "fetch_date": "2025-12-08 10:32:33",
     "query_group": "Plant-Specific Journals"
   }
 ]
