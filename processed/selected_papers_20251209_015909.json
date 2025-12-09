@@ -1,0 +1,73 @@
+[
+  {
+    "pmid": "41343626",
+    "doi": "10.1126/science.ady4102",
+    "title": "Cell wall patterning regulates plant stem cell dynamics.",
+    "authors": "Zhu X, Chen X, Liu Y, ..., Gao M, Ding Y, Yang W",
+    "journal": "Science (New York, N.Y.)",
+    "pub_date": "2025 Dec",
+    "abstract": "The plant cell wall regulates development through spatiotemporal modulation of its chemical and mechanical properties. Pectin methylesterification is recognized as a rheological switch controlling wall stiffness. Here, we reveal a bimodal methylesterification pattern in the shoot meristem: Mature walls exhibit high methylesterification, whereas demethylesterified pectins are deposited at new cross walls. This spatial heterogeneity is established through nuclear sequestration of PECTIN METHYLESTERASE5 (PME5) mRNA. MYB3R4-driven transcription, combined with RZ-1B/1C-mediated retention, creates a mitotically associated PME5 mRNA reservoir in the nucleus. Nuclear envelope disassembly synchronizes PME5 messenger RNA (mRNA) release with cell plate formation, enabling precise demethylesterification at division planes. Perturbation of this spatial control compromises stem cell maintenance or breaks division patterning. Our study uncovers an mRNA compartmentalization mechanism that couples stem cell dynamics with pectin modification.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41343626/",
+    "fetch_date": "2025-12-08 10:32:29",
+    "query_group": "High Impact General"
+  },
+  {
+    "pmid": "41332117",
+    "doi": "10.1111/nph.70792",
+    "title": "Danger-associated peptide modulates iron deficiency signaling and root growth in Arabidopsis.",
+    "authors": "Shikha D, Kumar A, Jakhar P, ..., Mishra S, Jaillais Y, Satbhai SB",
+    "journal": "The New phytologist",
+    "pub_date": "2025 Dec",
+    "abstract": "Iron (Fe) is an essential micronutrient for plants and humans, with plants being a primary dietary Fe source. Fe availability significantly affects plant health, development, and yield. Its deficiency severely inhibits plant growth; however, the mechanisms by which plants coordinate growth and Fe acquisition under Fe-deficient conditions are not fully understood. This study uncovers a novel role of the signaling peptide PROPEP2 and its receptor PEPR2 in regulating plant growth and Fe uptake during Fe deficiency. PROPEP2 expression is strongly induced under Fe deficiency. Loss-of-function mutants of PROPEP2 show reduced sensitivity to Fe deficiency, indicating its key role in stress response. Exogenous application of Pep2 downregulates key iron uptake genes (IRT1 and FRO2) and upregulates BTS, a negative regulator of Fe deficiency responses. Our findings reveal that PEPR2 primarily perceives Pep2 and is involved in modulating root growth under Fe-limited conditions. The PEP2-PEPR2 module influences root architecture, rhizosphere acidification, and Fe uptake, ultimately affecting plant Fe accumulation. The PEP2-PEPR2 pathway plays a critical role in managing the trade-off between growth and stress adaptation under Fe deficiency. This research reveals a new molecular mechanism by which plants regulate iron uptake and adapt growth under nutrient stress.",
+    "keywords": [
+      "growth–stress trade‐off",
+      "iron deficiency",
+      "iron uptake",
+      "peptide–receptor signaling",
+      "root development"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41332117/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41174877",
+    "doi": "10.1016/j.molp.2025.10.021",
+    "title": "A plasma membrane receptor complex mediates early heat-responsive signaling to trigger nuclear transcriptomic reprogramming in Arabidopsis.",
+    "authors": "Li J, Wu S, Wang K, ..., Gong Z, Yang S, Ding Y",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Dec",
+    "abstract": "The plasma membrane has been proposed as a primary site for temperature sensing in plants, but the molecular mechanism that links external heat signals to intracellular responses remains elusive. Here, we identify a membrane-anchored receptor complex composed of BARELY ANY MERISTEM 1 (BAM1) and AVRPPHB SUSCEPTIBLE 1 (PBS1) that orchestrates rapid heat-signal transduction. Upon heat stress, BAM1 is rapidly activated within seconds and associates with PBS1, which in turn triggers RBOHD-dependent H2O2 production. This H2O2 signal is directly decoded by the heat-shock factor HSFA1b, leading to its oxidation, increased protein stability, and nuclear accumulation, thereby driving heat-responsive transcriptional reprogramming. Furthermore, the secreted peptide CLAVATA3/EMBRYO SURROUNDING REGION-related 40 (CLE40) amplifies the heat response by promoting BAM1 activation and enhancing formation of the BAM1-PBS1 complex. Taken together, these findings reveal that a membrane complex constitutes an early and contributing pathway in the relay of heat signals from the membrane to the nucleus.",
+    "keywords": [
+      "BAM1–PBS1 module",
+      "ROS",
+      "early heat signaling",
+      "heat stress",
+      "secreted peptide CLE40"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41174877/",
+    "fetch_date": "2025-12-08 10:32:31",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41076557",
+    "doi": "10.1016/j.molp.2025.10.005",
+    "title": "Recognition of a phytocytokine by the DEPR1-SERK2 receptor complex confers multi-pathogen resistance in wheat.",
+    "authors": "Wang L, Zhao J, Yin C, ..., Deng X, Chi C, Hou S",
+    "journal": "Molecular plant",
+    "pub_date": "2025 Dec",
+    "abstract": "The recognition of plant-derived immunogenic peptides, known as phytocytokines (PCKs), by cell surface receptors triggers immune signaling pathways that bolster basal plant defense against pathogens. However, little is known about the molecular mechanisms that underlie PCK-mediated immune regulation in wheat. In this study, we identified a wheat PCK, delta-like PCK (DEP), that robustly activates immune responses and confers multi-pathogen resistance. DEP is perceived by the leucine-rich repeat (LRR) receptor kinases (RKs) DEP RECEPTOR 1 (DEPR1) and SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASE 2 (SERK2) and triggers DEPR1- and SERK2-dependent immune signaling. Cryogenic electron microscopy structural analysis revealed that DEP2 binds to the extracellular LRR domain of DEPR1 and recruits SERK2 through a disulfide-bond-stabilized loop to promote DEPR1-SERK2 heterodimerization. Furthermore, we showed that the DEP2-DEPR1-SERK2 module confers wheat resistance to Xanthomonas translucens, Fusarium graminearum, and Fusarium pseudograminearum. We also demonstrated that this module enhances wheat resistance to X. translucens by antagonizing abscisic acid signaling. Collectively, our study reveals a novel PCK-mediated immune signaling pathway and suggests a promising strategy for engineering multi-pathogen resistance in wheat.",
+    "keywords": [
+      "Xanthomonas translucens",
+      "abscisic acid",
+      "cryogenic electron microscopy",
+      "leucine-rich repeat receptor kinases",
+      "phytocytokines",
+      "wheat"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41076557/",
+    "fetch_date": "2025-12-08 10:32:33",
+    "query_group": "Plant-Specific Journals"
+  }
+]
