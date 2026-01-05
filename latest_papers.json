@@ -1,1 +1,375 @@
-[]
+[
+  {
+    "pmid": "41249506",
+    "doi": "10.1038/s44318-025-00614-x",
+    "title": "The Arabidopsis phosphatase PP2C12 negatively regulates LRX-RALF-FER-mediated cell wall integrity sensing.",
+    "authors": "Hou X, Bender KW, Fernández-Fernández ÁD, ..., Wicker T, Zipfel C, Ringli C",
+    "journal": "The EMBO journal",
+    "pub_date": "2026 Jan",
+    "abstract": "Plants have evolved an elaborate cell wall integrity (CWI) sensing system to monitor and modify cell wall formation. LRR-extensins (LRXs) are cell wall-anchored proteins that bind RAPID ALKALINIZATION FACTOR (RALF) peptide hormones and induce compaction of cell wall structures. LRXs also form a signaling platform with RALFs and the transmembrane receptor kinase FERONIA (FER) to maintain cell wall integrity. LRX1 of Arabidopsis thaliana is predominantly expressed in root hairs, and lrx1 mutants develop defective root hairs. Here, we identify a regulator of LRX1-RALF-FER signaling as a suppressor of the lrx1 root hair phenotype. The repressor of lrx1_23 (rol23) gene encodes PP2C12, a clade H phosphatase that interacts with FER and dephosphorylates Thr696 in the FER activation loop in vitro. Expression of FER phospho-mimetic and phospho-null mutants in an lrx1 fer-4 background demonstrates that phosphorylation of FER at Thr696 is essential for suppression of lrx1 phenotypes by rol23. The LRX1-related function of PP2Cs appears clade H-specific. Collectively, our data suggest that LRX1 acts upstream of the RALF-FER signaling module and that PP2C12 inhibits FER via activation-loop dephosphorylation.",
+    "keywords": [
+      "Arabidopsis",
+      "FERONIA",
+      "LRX1",
+      "PP2C12",
+      "Root Hairs"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41249506/",
+    "fetch_date": "2026-01-05 10:34:35",
+    "query_group": "Medium Impact Specialized"
+  },
+  {
+    "pmid": "41485092",
+    "doi": "10.1016/j.molp.2026.01.001",
+    "title": "The F-box protein ZmFBK1 facilitates autophagy-mediated degradation of maize NLR protein Rp1-D21 to suppress the hypersensitive response.",
+    "authors": "Tang CX, Ma SJ, Ge QD, ..., Liu X, Cao Y, Wang GF",
+    "journal": "Molecular plant",
+    "pub_date": "2026 Jan",
+    "abstract": "The recognition between nucleotide-binding, leucine-rich repeat (NLR) proteins and their cognate pathogen effectors often triggers the hypersensitive response (HR), a localized cell death in plants. Although NLR-interacting proteins are known to fine tune the activities of NLRs, the molecular mechanism of the kelch-containing F-box protein (FBK) in regulating NLR-mediated defense response remains unknown. Here, we report that maize ZmFBK1, but not its close homologs ZmFBK2 and ZmFBK3, modulates the homeostasis of the NLR protein Rp1-D21 and regulates Rp1-D21-mediated HR. Overexpression of ZmFBK1 suppresses the HR while mutation of ZmFBK1 enhances the HR in maize. Interestingly, ZmFBK1 is predominantly located in the autophagosome-like dots and it relocates Rp1-D21 from the nucleo-cytoplasm to the punctate dots. Moreover, we found that ZmFBK1 interacts with the autophagy-related protein ZmATG6 and facilitates autophagy-mediated degradation of Rp1-D21, thereby suppressing Rp1-D21-mediated HR. Notably, ZmFBK1 also negatively regulates the resistance to southern corn rust caused by Puccinia polysora and southern leaf blight caused by Cochliobolus heterostrophu, and both pathogens appear to promote ZmFBK1-mediated autophagy in maize. In summary, we demonstrate that ZmFBK1 and ZmATG6 suppresses Rp1-D21-mediated HR likely by sequestering Rp1-D21 in autophagosome-like structures for degradation. Our study reveals a novel mechanism about how the activity of an NLR protein is precisely regulated by an FBK protein and the autophagy pathway.",
+    "keywords": [
+      "F-box protein",
+      "NLR",
+      "autophagy",
+      "disease resistance",
+      "hypersensitive response",
+      "maize",
+      "plant immunity",
+      "southern corn rust"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41485092/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41485098",
+    "doi": "10.1016/j.xplc.2025.101692",
+    "title": "Nutritional Defense: Disarming Pathogens Through Resource Deprivation.",
+    "authors": "Cao P, Sun Z, Zhang S, An Y, Zhang M",
+    "journal": "Plant communications",
+    "pub_date": "2026 Jan",
+    "abstract": "",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41485098/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41482670",
+    "doi": "10.1111/nph.70883",
+    "title": "Root tip excision-induced exodermis lignification impacts lateral root emergence in Brachypodium distachyon.",
+    "authors": "Bellande K, Vieira Teixeira CJ, Malai M, ..., Roulin AC, Vermeer JEM, Badet T",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "The mechanisms controlling lateral root emergence in monocots, particularly the role of the exodermis, are poorly understood. We investigated how natural variation in the Brachypodium distachyon stress response shapes root system architecture by modulating cell wall dynamics. We used root tip excision to synchronize lateral root development across natural accessions. The resulting phenotypes were analysed using comparative transcriptomics, biochemical lignin quantification, confocal Raman spectroscopy, and chemical inhibition of lignin biosynthesis. Two distinct root system architectures, 'pine tree' and 'fishbone', were identified. The 'fishbone' phenotype results from an altered lateral emergence caused by a differential lignification intensity of the exodermis. This phenotype was accompanied by the transcriptional upregulation of lignin biosynthesis genes and was partially rescued by treatment with a lignin inhibitor. Stress-induced exodermal lignification acts as a mechanical 'brake' on lateral root emergence. This positions the exodermis as a key regulatory hub that integrates environmental cues with lateral root development to control Root System Architecture plasticity in grasses.",
+    "keywords": [
+      "Brachypodium distachyon",
+      "comparative transcriptomics",
+      "lateral root formation",
+      "lignification",
+      "response to stress",
+      "root system architecture diversity"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41482670/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41482661",
+    "doi": "10.1111/nph.70862",
+    "title": "Evolution of paleo-duplicated chromosome pairs with enrichment of NBS-LRR genes generated through ρ-WGD in Poaceae.",
+    "authors": "Wang Y, Qi Y, Zhang Y, ..., Xu J, Zhang Q, Zhang J",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "In Poaceae, the rho whole-genome duplication (ρ-WGD) event gave rise to three Paleo-duplicated chromosome pairs (PdCPs) that are enriched in resistance genes (nucleotide-binding site-leucine-rich repeat (NBS-LRR) genes) but show low transcriptional levels. Despite their evolutionary importance, systematic family-wide studies of PdCPs have been lacking. We analyzed 37 Poaceae genomes using karyotyping and evolutionary analyses, mapped NBS-LRR genes distributions, and examined transcriptomic and epigenomic patterns across representative species to characterize the evolution and regulation of PdCPs. Our findings show that PdCPs have persisted throughout the evolutionary history of Poaceae, exhibiting distinct patterns of rearrangements among different subfamilies. Notably, one PdCPs is consistently enriched in disease resistance genes across multiple subfamilies and displays conserved low transcriptional activity. This PdCPs also exhibits conserved CHH hypomethylation around transcription start site regions. Further analyses suggest that this PdCPs maintains a more closed chromatin state, associated with repressive histone modifications that suppress gene expression. These results imply that the low transcriptional levels of genes on this PdCPs may be regulated by multiple epigenetic mechanisms. This study advances our understanding of the formation, diversification, and epigenetic regulation of PdCPs following the ρ-WGD in Poaceae.",
+    "keywords": [
+      "NBS‐LRR genes",
+      "Paleo‐duplicated chromosome pairs",
+      "Poaceae",
+      "epigenetic modification",
+      "evolution"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41482661/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41482653",
+    "doi": "10.1093/plphys/kiaf685",
+    "title": "Natural variation in TaRFR1-5B modulates Fusarium head blight resistance via recognition of pTaRIN1-like in wheat.",
+    "authors": "Liu F, Chen F, Zhai W, ..., Liu C, Xu F, Wu J",
+    "journal": "Plant physiology",
+    "pub_date": "2026 Jan",
+    "abstract": "Fusarium head blight (FHB) is a fungal disease that significantly threatens the yield and quality of wheat production worldwide. However, the genetic basis of FHB resistance remains unclear. Using a genome-wide association study in a natural population of common wheat, we identified a coiled-coil (CC)-NBS-LRR protein, TaRFR1-5B, that participates in resistance against FHB. Natural variation in TaRFR1-5B alters its binding affinity to the immune-regulatory protein TaRIN1-like and affects plant resistance to FHB. In common wheat, TaRFR1-5B recognizes phosphorylated TaRIN1-like, which regulates the reactive oxygen species burst and cell death response. Our findings provide insights into the regulatory mechanisms of TaRFR1-5B-TaRIN1-like in wheat FHB resistance, demonstrating its potential for improving resistance in wheat breeding.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41482653/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41254947",
+    "doi": "10.1111/nph.70747",
+    "title": "Pathogen mediated plant community ecology.",
+    "authors": "Cobb RC",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "",
+    "keywords": [
+      "apparent competition",
+      "decomposition",
+      "defense",
+      "invasive pathogens",
+      "invasive plants"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41254947/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41208321",
+    "doi": "10.1111/nph.70718",
+    "title": "Weak global trade-off between frost and drought resistance in trees.",
+    "authors": "Larter M, Charrier G, Delzon S, ..., Bertrand C, Martin-StPaul N, Kunstler G",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "Drought and frost stresses play important roles in determining species distributions, especially at range margins. Understanding how stress resistance traits interact to determine vulnerability to climate change is critical. We developed a large global database of published and new measurements of drought resistance (xylem embolism resistance; P50) and frost resistance (electrolyte leakage; LT50), and investigated evolutionary trade-offs using Bayesian phylogenetic quantile regressions. Across all woody biomes, P50 ranged from -1 to -19 MPa, and LT50 from 0 to below -80°C with conifers generally more resistant than angiosperms. We found a weak trade-off between drought and frost resistance: Drought-resistant species tend to be less frost hardy, and vice versa. There are few species resistant to both stresses (e.g. junipers). Including the phylogeny reduced the strength of the relationship, reflecting the phylogenetic signal for these traits. We did not find any strong effects of LT50 on growth-related traits, but drought resistance is associated with denser wood, smaller conduits, shorter stature and lower specific leaf area. While we show a trade-off between frost and drought resistance, our study does not support the global fast-slow economics spectrum. Our results have implications for forests experiencing hotter, drier summers and potentially damaging late frosts.",
+    "keywords": [
+      "drought stress",
+      "embolism resistance",
+      "frost resistance",
+      "functional traits",
+      "trade‐off",
+      "trees",
+      "xylem"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41208321/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41204768",
+    "doi": "10.1111/nph.70721",
+    "title": "Arabidopsis phospholipid modifications mediate cellulase-induced resistance to a fungal peptide antibiotic by imposing cell polarity.",
+    "authors": "Panthapulakkal Narayanan S, Dotson BR, Noack L, ..., Persson S, Lager I, Rasmusson AG",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "Plant-symbiotic Trichoderma fungi attack microorganisms by secreting antibiotic membrane-permeabilising peptaibols such as alamethicin. These peptaibols also permeabilise plant root epidermis plasma membranes (PMs), but mild pretreatment with Trichoderma cellulase activates a unique cellulase-induced resistance to alamethicin (CIRA), via an unknown mechanism. We identify two Arabidopsis genes that are essential for the CIRA process: CIRA12 encodes a phosphatidylserine (PS) decarboxylase and CIRA13, a phospholipase Dζ, implying that specific changes in anionic membrane lipids mediate alamethicin resistance. Fluorescent sensors revealed that cellulase induced a laterally asymmetric decrease in PS and surface charge to outer periclinal root epidermal PMs. Consistently, the CIRA response was reversed by addition of lysoPS. CIRA13 is essential for vesicle trafficking, which in turn is crucial for CIRA induction. Overall, cellulase induces a cellular polarity with respect to phospholipids, not previously observed in plants, that is leading to increased lipid packing and preventing peptaibol permeabilization of the outer periclinal membrane.",
+    "keywords": [
+      "Arabidopsis",
+      "PHOSPHATIDYLSERINE DECARBOXYLASE3",
+      "PHOSPHOLIPASE Dζ2",
+      "Trichoderma",
+      "alamethicin",
+      "cellulase",
+      "phosphatidic acid",
+      "phosphatidylserine"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41204768/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41188692",
+    "doi": "10.1111/nph.70685",
+    "title": "Unraveling mannan biosynthesis in poplar and spruce: functional characterization of Cellulose Synthase-Like family A (CSLA) genes.",
+    "authors": "Guevara-Rozo S, de Vries L, Yoshimi Y, Eli E, Dupree P, Mansfield SD",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "Hemicelluloses are key chemical constituents of plant cell walls, influencing structure, strength, and interactions between cellulose and lignin. While xylan has been widely studied and shown to affect cell wall integrity, the function of mannan remains largely unexplored. To address this gap, we identified and functionally characterized putative mannan biosynthetic genes from spruce and poplar, and tested their impact on wood formation and digestibility. Bioinformatic and phylogenetic tools were employed to identify Cellulose Synthase-Like family A (CSLA) genes from spruce and poplar. These genes were then functionally validated by complementing the mannan deficient Arabidopsis csla2,3,9 triple mutants, and creating CRISPR-Cas9 knockouts and ectopic overexpression lines in poplar. Spruce and poplar CSLA candidates restored mannan biosynthesis in the Arabidopsis mutant. In poplar, mannan content was altered without impacting plant growth. Changes in mannan content marginally affected glucose and xylose release and improved cellulose hydrolysis during saccharification assays. This study demonstrates an effective approach to engineering mannan content in trees and highlights that this polysaccharide is not essential for cell wall formation in poplar. Our work provides a platform for further investigating the role of this polymer in tree cell wall structure and stability.",
+    "keywords": [
+      "CSLAs",
+      "mannan",
+      "poplar",
+      "secondary cell wall",
+      "spruce"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41188692/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41174857",
+    "doi": "10.1111/nph.70697",
+    "title": "RSD-mediated suppression of NIN and NLP2 transcription is crucial for symbiotic nitrogen fixation.",
+    "authors": "Bhardwaj A, Gupta M, Bhattacharjee O, ..., Bandyopadhyay K, Ranjan A, Sinharoy S",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "Indeterminate nodules establish a developmental gradient along their longitudinal axis, separating cell differentiation from symbiotic nitrogen fixation (SNF). The apex contains differentiating cells, while the differentiated leghemoglobin-rich cells of the nitrogen-fixation zone shield the rhizobial nitrogenase complex from oxygen to facilitate SNF. By combining biochemical, genetic, and genomic approaches, we demonstrate the pivotal role of the Regulator of Symbiosome Differentiation (RSD), a transcriptional repressor, in the transition from symbiosome development to SNF. Interacting Protein of DMI3 (IPD3) activates RSD expression in the invasion zone (ZII) and interzone (IZ). RSD interacts with Nodule Inception (NIN), and NIN-like protein 2 (NLP2) through a novel protein-protein interaction domain. RSD determines cell fate in ZII and the IZ by suppressing several targets of NIN and NLP2, including Leghemoglobins, Nodule-specific Cysteine-Rich genes, and Symbiotic Cysteine-rich Receptor-like Kinase. Our findings underscore the critical role of RSD-mediated suppression of transcription in facilitating the transition from bacteroid differentiation to SNF.",
+    "keywords": [
+      "Leghemoglobin",
+      "NIN‐like protein 2",
+      "nitrogen fixation",
+      "nodule inception",
+      "regulator of symbiosome differentiation",
+      "root nodule symbiosis",
+      "sustainable agriculture"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41174857/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41163408",
+    "doi": "10.1111/nph.70686",
+    "title": "Undermining the cry for help: the phytopathogenic fungus Verticillium dahliae secretes an antimicrobial effector protein to undermine host recruitment of antagonistic Pseudomonas bacteria.",
+    "authors": "Kraege A, Punt W, Doddi A, ..., Schmitz N, Snelders NC, Thomma BPHJ",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "During pathogen attack, plants recruit beneficial microbes in a 'cry for help' to mitigate disease development. Simultaneously, pathogens secrete effectors to promote host colonisation through various mechanisms, including targeted host microbiota manipulation. Inspired by in silico antimicrobial activity prediction, we investigated the antimicrobial activity of Av2, an effector of Verticillium dahliae, in vitro. Furthermore, its role in V. dahliae virulence was assessed through microbiota sequencing of inoculated plants, microbial co-cultivation assays, and inoculations in a gnotobiotic plant cultivation system. Av2 appears structurally unique and lacks domains that hint towards its function. We show that Av2 inhibits bacterial growth and acts as a virulence factor during host colonisation. Microbiota sequencing revealed involvement of Av2 in suppression of Pseudomonas spp. recruitment upon plant inoculation with V. dahliae, indicating that Av2 suppresses the cry for help. We show that several Pseudomonas spp. are antagonistic to V. dahliae and sensitive to Av2 treatment. We conclude that V. dahliae secretes Av2 to suppress the plant's cry for help by inhibiting the recruitment of antagonistic Pseudomonas spp. to pave the way for successful plant invasion.",
+    "keywords": [
+      "AMP",
+      "antimicrobial",
+      "intermicrobial interaction",
+      "microbe–microbe interaction",
+      "microbiota",
+      "plant pathogen"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41163408/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41163369",
+    "doi": "10.1111/nph.70677",
+    "title": "Memory in the wall: expanding our understanding of the roles of plant cell walls.",
+    "authors": "Shikata H, Yoshinari A, Asaoka M, Takahashi D",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "The plant cell wall, while providing mechanical support to cells, also dynamically adjusts its composition and structure in response to cellular and environmental cues. Recent findings indicate that plants exposed to cold stress alter the composition of cell wall polysaccharides and that this altered status primes the plants to overcome future, more severe exposure. Here, we propose that the cell wall functions as a refined interface that retains information from past experiences, with such 'memory' being encoded as structural or compositional changes. This enables more efficient responses to future stimuli. Such a memory system may support various biological processes, in parallel with other systems such as chromatin-based epigenetic memory. The cell wall is uniquely capable of storing higher-order information related to the geometry of cells and tissues, mechanical cues, and environmental histories. In this context, we present emerging perspectives and representative cases of such memory stored in the plant cell wall, and we discuss plausible mechanisms through which the memory influences cellular responses.",
+    "keywords": [
+      "cell wall",
+      "lignin",
+      "mechanics",
+      "memory",
+      "plasma membrane",
+      "polysaccharide",
+      "receptor‐like kinase"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41163369/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41104607",
+    "doi": "10.1111/nph.70668",
+    "title": "Brown planthopper salivary protein SISP stabilizes rice OsSR45 to undermine host resistance to insects.",
+    "authors": "Gao H, Yuan X, Wang J, ..., Li G, Dou D, Liu Z",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "The brown planthoppers (BPH), Nilaparvata lugens Stål (Hemiptera: Delphacidae), is a destructive pest of rice. As a piercing-sucking insect, BPH depends critically on salivary proteins to facilitate its infestation. However, the functions of these salivary proteins remain largely unknown. Using transcriptomic, protein interaction, transgenic, and bioassay approaches, we identified a novel salivary protein and characterized its functional roles in rice defense responses. Here, we report that a key BPH salivary protein, termed SR45-interacting salivary protein (SISP), is secreted into rice plants during feeding and interacts with the rice splicing factor OsSR45. We demonstrated that SISP physically binds to OsSR45 in nuclear speckles, with mutual stabilization between the two proteins. Notably, the RG/RGG motif of SISP plays a key functional role in this interaction. Genetic studies using SISP-overexpressing, OsSR45-overexpressing, and OsSR45-knockout rice lines demonstrated that both proteins negatively regulate rice resistance to BPH by suppressing the phenylalanine biosynthesis pathway. RNA-seq data analysis suggested that the alternative splicing mediated by SISP and OsSR45 may indirectly affect the phenylalanine biosynthesis pathway. Furthermore, SISP was shown to be indispensable for BPH survival. We propose a SISP-mediated infestation model for BPH and provide a potential target for pest control.",
+    "keywords": [
+      "SR45‐interacting salivary protein",
+      "effector",
+      "nuclear speckles",
+      "plant immunity",
+      "pre‐mRNA splicing"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41104607/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "40974215",
+    "doi": "10.1111/nph.70563",
+    "title": "Phylogenetic relatedness drives litter-mediated diversity-invasibility relationships.",
+    "authors": "Sun C, Cheng C, Zhang Z, ..., Li B, Liu X, Wu J",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "Native plant diversity typically enhances community resistance to biological invasions by reducing resource availability and by accumulating natural enemies. However, after senescence, litter-mediated processes may either strengthen resistance through pathogen spillover or promote invasion through nutrient enrichment. We experimentally partitioned nutrient and pathogen effects to test how litter diversity and phylogenetic relatedness between native and invasive species shape invasion outcomes. Three invasive Asteraceae species were exposed to diseased litter from native plants that were either closely or distantly related, while manipulating litter diversity (1, 2, or 6 species) and pathogen presence (with or without fungicide). Higher litter diversity from closely related natives suppressed invader biomass. Fungicide treatment eliminated this effect, demonstrating that pathogen spillover mediated diversity-driven invasion resistance. Conversely, litter from distantly related natives enhanced invader biomass with increasing diversity due to nutrient enrichment. Our results show that phylogenetic relatedness structures the balance between pathogen spillover and nutrient enrichment, determining whether native diversity reinforces or undermines invasion resistance through litter pathways.",
+    "keywords": [
+      "Darwin's naturalization hypothesis",
+      "diversity–invasibility",
+      "litter",
+      "pathogens",
+      "phylogeny"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40974215/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "40919732",
+    "doi": "10.1111/nph.70553",
+    "title": "Mutualism, herbivory, and invasive ants as seasonally dependent drivers of root surface area in a foundational savanna ant-plant.",
+    "authors": "Milligan PD, Rossiter J, Zare A, ..., Riginos C, Goheen JR, Pringle EG",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "Many plants are defended from herbivory by costly insect mutualists. Understanding positive associations between plants and mutualists requires a whole-plant perspective including roots. We hypothesized that root surface area increases with mutualist activity (to a saturation threshold) and recent rainfall but that this relationship shifts when herbivores are excluded. We also hypothesized that invasive ants limit root surface area and that mutualism breakdown driven by invaders blunts root responses to rainfall and herbivore exclusion. Using minirhizotrons (est. 2021), we surveyed root surface area of ant-acacias during a dry (2022) and then a wet (2023) season. Study plots either excluded or permitted vertebrate browsers, within a natural experiment comparing mutualist-defended ant-acacias to those invaded by a mutualism-disrupting ant. Root area increased with mutualist activity to a threshold, but this positive association was less apparent during rainy periods. Megabrowser exclusion increased overall root area but reduced the threshold for a positive association with mutualist activity and reduced the steepness of the root area-rainfall correlation. Ant-invaded acacias had smaller root areas that correlated less steeply with rainfall. Positive associations between insect defense and root area were thus contingent on rainfall, herbivory, and biotic invasion, drivers that are shifting under global change.",
+    "keywords": [
+      "ant–plant",
+      "biological invasion",
+      "cost–benefit tradeoff",
+      "herbivore extinction",
+      "mutualism",
+      "mutualism breakdown",
+      "root density",
+      "saturating benefits"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40919732/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "40919705",
+    "doi": "10.1111/nph.70520",
+    "title": "The genetic architecture and spatiotemporal dynamics of adaptation across human-modified landscapes.",
+    "authors": "Kreiner JM",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "Understanding the rate and nature of adaptation is crucial for managing biodiversity across our changing landscapes. This perspective synthesizes insights from resistance evolution - a case of rapid, repeated adaptation to extreme human-mediated selection - to reveal how adaptive genetic architectures determine and feedback with evolutionary dynamics. Recent population genomic and quantitative genetic approaches have demonstrated that the extent of genetic parallelism and reliance on de novo vs standing genetic variation can vary with the complexity of genetic architectures. However, we are only starting to understand how spatial and temporal heterogeneity influence the importance of alternative genetic architectures within and among populations, and the pace of adaptation across scales. I outline how the integration of landscape-scale population genomics with high-resolution genomic time series has the potential to transform our understanding of these phenomena. With careful consideration of their limitations, spatiotemporal approaches should prove powerful for reconstructing and predicting the adaptive dynamics of populations across increasingly variable geographic landscapes - from pesticide resistance to climate adaptation.",
+    "keywords": [
+      "fluctuating selection",
+      "genetic architecture",
+      "genomic timeseries",
+      "migration",
+      "parallel evolution",
+      "polygenic",
+      "rapid adaptation"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40919705/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "40906609",
+    "doi": "10.1111/nph.70516",
+    "title": "Distal to proximal: a continuum of drivers shaping tree growth and carbon partitioning.",
+    "authors": "Cabon A",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "The relationship between tree carbon (C) assimilation and growth is central to understanding tree functioning and forecasting forest C sequestration, yet remains unresolved. The long-standing debate over C source vs sink limits to growth has yielded invaluable insight, but rests on a false dichotomy. Reframing this issue in terms of distal-to-proximal processes driving sink activity and placing it within a broader understanding of C partitioning offers new insights. Building on transport-resistance theory, I outline a framework where plant resource economies shape spatial gradients of resource availability along the leaf-to-root axis, thereby regulating local sink activity. This spatially explicit, trait-informed perspective aligns with optimality theory and provides a mechanistic link between C partitioning and the plant functional trait spectrum. By moving beyond binary limitations and emphasizing integrated physiological processes, this approach can improve understanding of tree function and biomass increment under climate change.",
+    "keywords": [
+      "allocation",
+      "carbon partitioning",
+      "photosynthesis",
+      "source vs sink limitation",
+      "trait coordination",
+      "transport‐resistance",
+      "tree growth",
+      "turgor"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40906609/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "40525304",
+    "doi": "10.1111/nph.70314",
+    "title": "TIR innovations in plant immunity.",
+    "authors": "Wu Z",
+    "journal": "The New phytologist",
+    "pub_date": "2026 Jan",
+    "abstract": "Toll/interleukin-1 receptor (TIR) domain-containing immune receptors are crucial for plant immunity, with recent advancements highlighting the enzymatic functions of TIR domains and their production of signaling molecules. TIR-catalyzed compounds interact with receptors to form functional modules that trigger the oligomerization of helper proteins, regulating Ca2+ influx and downstream signaling. Moreover, TIR proteins have been recognized not only as intracellular receptors for pathogenic effectors but also for their broader immune signaling capabilities. Although typical TIR-containing proteins are missing in monocots, both monocots and dicots exhibit conserved mechanisms in utilizing TIR proteins for immune signaling, underscoring their significance across diverse plant lineages. This review consolidates recent findings on TIR-initiated signaling, its intricate roles, and the fine-tuned regulatory mechanisms governing plant defense.",
+    "keywords": [
+      "Ca2+ signaling",
+      "EDS1 dimers",
+      "NADase enzymatic activities",
+      "TIR/TNL signaling",
+      "immune regulation",
+      "plant immunity",
+      "second messengers"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40525304/",
+    "fetch_date": "2026-01-05 10:34:36",
+    "query_group": "Plant-Specific Journals"
+  }
+]
