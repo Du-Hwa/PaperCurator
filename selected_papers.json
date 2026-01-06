@@ -1,0 +1,21 @@
+[
+  {
+    "pmid": "41249506",
+    "doi": "10.1038/s44318-025-00614-x",
+    "title": "The Arabidopsis phosphatase PP2C12 negatively regulates LRX-RALF-FER-mediated cell wall integrity sensing.",
+    "authors": "Hou X, Bender KW, Fernández-Fernández ÁD, ..., Wicker T, Zipfel C, Ringli C",
+    "journal": "The EMBO journal",
+    "pub_date": "2026 Jan",
+    "abstract": "Plants have evolved an elaborate cell wall integrity (CWI) sensing system to monitor and modify cell wall formation. LRR-extensins (LRXs) are cell wall-anchored proteins that bind RAPID ALKALINIZATION FACTOR (RALF) peptide hormones and induce compaction of cell wall structures. LRXs also form a signaling platform with RALFs and the transmembrane receptor kinase FERONIA (FER) to maintain cell wall integrity. LRX1 of Arabidopsis thaliana is predominantly expressed in root hairs, and lrx1 mutants develop defective root hairs. Here, we identify a regulator of LRX1-RALF-FER signaling as a suppressor of the lrx1 root hair phenotype. The repressor of lrx1_23 (rol23) gene encodes PP2C12, a clade H phosphatase that interacts with FER and dephosphorylates Thr696 in the FER activation loop in vitro. Expression of FER phospho-mimetic and phospho-null mutants in an lrx1 fer-4 background demonstrates that phosphorylation of FER at Thr696 is essential for suppression of lrx1 phenotypes by rol23. The LRX1-related function of PP2Cs appears clade H-specific. Collectively, our data suggest that LRX1 acts upstream of the RALF-FER signaling module and that PP2C12 inhibits FER via activation-loop dephosphorylation.",
+    "keywords": [
+      "Arabidopsis",
+      "FERONIA",
+      "LRX1",
+      "PP2C12",
+      "Root Hairs"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41249506/",
+    "fetch_date": "2026-01-05 10:34:35",
+    "query_group": "Medium Impact Specialized"
+  }
+]
