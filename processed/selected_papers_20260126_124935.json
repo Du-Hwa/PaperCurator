@@ -1,0 +1,41 @@
+[
+  {
+    "pmid": "41580897",
+    "doi": "10.1016/j.xplc.2026.101739",
+    "title": "Plant non-canonical peptides: from identification to mechanisms.",
+    "authors": "Wang S, Zhang J, Gao X, ..., Li P, Zhang B, Wu L",
+    "journal": "Plant communications",
+    "pub_date": "2026 Jan",
+    "abstract": "Plant peptides have emerged as key regulators of plant growth, development, immunity, and environmental adaptation. Earlier studies in crops have demonstrated the potential application of certain peptides, such as systemin and Plant Elicitor Peptides (PEPs), to improve disease resistance. Based on the structure and function, these peptides are typically classified as canonical peptides (CPs), non-canonical peptides (NCPs), and non-ribosomal peptides (NRPs). Advances in peptidogenomics and mass spectrometry have enabled the genome-wide discovery of numerous endogenous peptides, including those translated from untranslated regions (UTRs) and non-coding RNAs, greatly expanding the plant peptidome. This review provides a comprehensive overview of the peptides, their classification, biosynthesis, and functional mechanisms in regulating various biological processes. Importantly, this review systematically summarizes the historical development and recent advances in strategies used to identify plant peptides. Despite substantial progress, peptide discovery and functional annotation remain challenging. Therefore, we finally propose that high-throughput technologies, functional genomics, and synthetic biology need to be integrated to reveal the potential of plant peptides in crop improvement and cross-disciplinary innovation.",
+    "keywords": [
+      "cross-disciplinary innovation",
+      "non-canonical peptides",
+      "peptidogenomics",
+      "plant peptides",
+      "receptor–ligand signaling"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41580897/",
+    "fetch_date": "2026-01-26 10:35:57",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "41580896",
+    "doi": "10.1016/j.molp.2026.01.007",
+    "title": "Pseudomonas syringae histidine kinase BvgS acts as the sensory receptor of plant-derived putrescine to activate the type III secretion system and enhance bacterial virulence.",
+    "authors": "Yang L, Yang M, Zhao B, ..., Wang Y, Shen X, Huang L",
+    "journal": "Molecular plant",
+    "pub_date": "2026 Jan",
+    "abstract": "Plant diseases caused by Pseudomonas syringae pathovars pose a substantial threat to global crop production. While plants produce a range of secondary metabolites as part of their defense response, how bacterial pathogens exploit these compounds to facilitate infection remains poorly understood. Here, we report that Pseudomonas syringae pv. actinidiae (Psa), the causal agent of kiwifruit bacterial canker, senses putrescine (Put), a crucial plant metabolite involved in defense and physiological regulation, via the histidine kinase BvgS. We identify BvgS as a Put receptor in bacteria and show that this perception upregulates the expression of the type III secretion system (T3SS), a major virulence determinant. Binding and virulence assays demonstrate that Put sensing through the PBPb domains of BvgS is essential for T3SS activation both in vitro and during plant infection. Modulating Put levels in Actinidia plants, either by genetic reduction or exogenous application, correspondingly alters T3SS activity and bacterial invasion. Evolutionary analysis indicates that the PBPb domain is highly conserved across diverse P. syringae pathovars, suggesting a widespread mechanism for virulence potentiation. Together, this work delineates a signaling pathway through which a phytopathogen co-opts a central host metabolite to enhance the expression of its core virulence machinery, thereby increasing infectivity.",
+    "keywords": [
+      "BvgS",
+      "Kiwifruit bacterial canker",
+      "Putrescine",
+      "Two component system",
+      "Type III Secretion System",
+      "c-di-GMP"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41580896/",
+    "fetch_date": "2026-01-26 10:35:57",
+    "query_group": "Plant-Specific Journals"
+  }
+]
