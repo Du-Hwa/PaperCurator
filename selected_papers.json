@@ -1,0 +1,15 @@
+[
+  {
+    "pmid": "41635082",
+    "doi": "10.1016/j.molp.2026.01.015",
+    "title": "Endophyte-engineered plant immunity: A post-GMO strategy for programmable crop defense.",
+    "authors": "Zhang F, Zheng J, Xie X, ..., Huang J, Mei Z, Chen XL",
+    "journal": "Molecular plant",
+    "pub_date": "2026 Feb",
+    "abstract": "Plant disease control is trapped in a constant evolutionary competition between plants and pathogens. Pathogens evolve faster than we can breed resistance genes or register new fungicides (Singh et al., 2023). Notably, plants employ multiple immune strategies, including both disease resistance and tolerance, to protect their health (Tang et al., 2025), enriching the contextual understanding of plant defense mechanisms. Transgenic crops, while powerful, remain facing regulatory and public acceptance challenges in many regions, with regulatory timelines varying across global frameworks-extending 8-12 years in some Western countries, while China has established a structured evaluation system that balances safety and efficiency (Liang et al., 2022, 2025). Meanwhile, chemical control faces an accelerating loss of efficacy due to resistance and is increasingly incompatible with climate-smart and biodiversity-friendly farming mandates. We argue that it is time to decouple crop immunity from plant genetics altogether and outsource it to an editable, transient, and regulation-resilient microbial layer: the endophyte microbiome.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41635082/",
+    "fetch_date": "2026-02-09 11:01:44",
+    "query_group": "Plant-Specific Journals"
+  }
+]
