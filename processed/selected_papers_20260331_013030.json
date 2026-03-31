@@ -1,0 +1,22 @@
+[
+  {
+    "pmid": "41889171",
+    "doi": "10.1016/j.molp.2026.03.011",
+    "title": "AI-driven protein engineering: A new paradigm for plant trait design.",
+    "authors": "Fu R, Jiang S, Wu T, Yin C, Yan J, Wang X",
+    "journal": "Molecular plant",
+    "pub_date": "2026 Mar",
+    "abstract": "Protein engineering modifies protein molecules to achieve specific biological or technological functions. Protein design forms the core methodology, and in recent years, artificial intelligence (AI)-driven approaches have enabled more precise trait design in plants. This review highlights the convergence of protein structure prediction, generative sequence modeling, and function optimization to create synthetic proteins with improved specificity, stability, and activity in plant systems. We trace the development of protein design, from rational design to semi-rational strategies and AI-driven platforms that integrate structure prediction, sequence generation, and de novo design. We discuss eight application areas relevant to plant physiology and breeding: enhanced disease resistance via engineered immune receptors; insect resistance through optimized insecticidal proteins; abiotic stress tolerance through metabolic enzyme stabilization; improved nutrient use via transporter redesign; variant mining for trait fine-tuning; genome editing system optimization; environmental sensing with synthetic biosensors; and programmable regulatory circuits for plant factories (including controlled environment agriculture). Across these areas, we summarize design principles, advances, and translational considerations, emphasizing how AI expands sequence space and improves candidate prioritization. We also address current bottlenecks, including domain shift, generative model reliability gaps, limited portability, the genotype-to-phenotype gap, and design-to-validation workflow constraints. Finally, we propose a staged roadmap for AI-driven plant trait design, outlining milestones and requirements for translation into breeding.",
+    "keywords": [
+      "Artificial intelligence",
+      "Genome editing",
+      "Plant trait design",
+      "Precision breeding",
+      "Protein engineering",
+      "Protein language model"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41889171/",
+    "fetch_date": "2026-03-30 11:10:09",
+    "query_group": "Plant-Specific Journals"
+  }
+]
