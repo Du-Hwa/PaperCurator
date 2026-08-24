@@ -1,0 +1,19 @@
+[
+  {
+    "pmid": "42607133",
+    "doi": "10.1093/plcell/koag233",
+    "title": "CERK1-mediated phosphorylation of nitrilases activates auxin biosynthesis and promotes resistance to Botrytis cinerea.",
+    "authors": "Zheng J, Chen S, Wang Y, ..., Ortiz-Morea FA, Liu B, Liu J",
+    "journal": "The Plant cell",
+    "pub_date": "2026 Aug",
+    "abstract": "Plant immunity relies on dynamic modulation of phytohormone signaling to balance growth and defense, with auxin contributing to resistance against the necrotrophic pathogen Botrytis cinerea (B. cinerea). However, how plants rapidly and precisely regulate auxin biosynthesis during pathogen infection remains unclear. Here, we identified the nitrilases NIT1, NIT2 and NIT3, as key components of auxin biosynthesis during infection. Upon chitin perception, CERK1 associates with and phosphorylates nitrilases to stimulate the conversion of indole-3-acetonitrile (IAN) into indole-3-acetic acid (IAA), thereby activating auxin signaling and promoting resistance to B. cinerea. CRISPR/Cas9-generated nit1, nit2 and nit3 triple mutants (ntm) exhibit increased susceptibility to B. cinerea, whereas reintroduction of individual nitrilases restores resistance. IAN, similar to IAA, enhances resistance to B. cinerea in WT plants in a nitrilase-dependent manner. Furthermore, CERK1 phosphorylates NIT2 at a conserved threonine residue (T149), thereby enhances nitrilase activity and stimulating IAA biosynthesis and auxin signaling during infection. Notably, nitrilase-dependent defense is likely conserved, as RNAi-silencing of the tomato nitrilase SlNIT impairs IAN-mediated resistance to B. cinerea. Collectively, our findings demonstrate that CERK1-mediated chitin signaling activates nitrilase-dependent IAA biosynthesis, directly linking pathogen perception to auxin-regulated defense.",
+    "keywords": [
+      "Botrytis cinerea",
+      "auxin",
+      "chitin"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42607133/",
+    "fetch_date": "2026-08-24 10:42:39",
+    "query_group": "Plant-Specific Journals"
+  }
+]
