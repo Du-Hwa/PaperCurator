@@ -1,0 +1,33 @@
+[
+  {
+    "pmid": "42665660",
+    "doi": "10.1038/s41477-026-02379-5",
+    "title": "Brassinosteroids promote sugar synthesis by inhibiting BIN2 phosphorylation of phosphoenolpyruvate carboxykinase.",
+    "authors": "Zhang H, Aizezi Y, Bessho-Uehara K, ..., Trinh CS, Xu SL, Wang ZY",
+    "journal": "Nature plants",
+    "pub_date": "2026 Aug",
+    "abstract": "Sugar is both an essential energy source and the major substrate for cell wall biosynthesis during plant growth, yet how growth-promoting hormones regulate sugar synthesis remains unclear. Here we show that the brassinosteroids (BRs) promote gluconeogenic and photosynthetic sugar synthesis by activating phosphoenolpyruvate carboxykinase (PCK), which catalyses the conversion of oxaloacetate to phosphoenolpyruvate, a central step in primary metabolism. Arabidopsis BR-deficient mutants display reduced PCK1 activity and elevated phosphorylation at conserved Ser-62 and Thr-66 residues. BR treatment induces PCK1 dephosphorylation and activation, whereas the GSK3-like kinase BIN2 phosphorylates these sites, altering quaternary structure and inhibiting PCK1. Phospho-blocking mutations of Ser-62/Thr-66 confer BR-independent PCK1 activity and enhance seedling growth, while phosphomimetic mutations reduce PCK1 activity and impair seedling growth and establishment. BRs also promote PCK dephosphorylation and activation in photosynthetic leaves of maize and sorghum. Our study demonstrates that BRs regulate primary metabolism via GSK3/BIN2-mediated phosphorylation of PCK, thereby promoting gluconeogenesis and photosynthesis.",
+    "keywords": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42665660/",
+    "fetch_date": "2026-08-31 17:30:18",
+    "query_group": "Plant-Specific Journals"
+  },
+  {
+    "pmid": "42623442",
+    "doi": "10.1073/pnas.2612340123",
+    "title": "The TaLYK5-TaDSK2a module serves as a molecular switch between plant growth and immunity during fungal attack.",
+    "authors": "Wu Y, Yang D, Zhao H, ..., Wang X, Wei Y, Xu Q",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "pub_date": "2026 Aug",
+    "abstract": "Plants are constantly challenged by pathogenic microorganisms that threaten growth and survival. While the individual signaling pathways involved in these immune responses have been well characterized, how plants balance growth with rapid pathogen perception and immune signal transduction remains largely unclear. Here, we report that the receptor-like kinase TaLYK5 receptor of wheat (Triticum aestivum) recognizes chitin on the fungal pathogen Puccinia striiformis f. sp. tritici (Pst) and initiates a cascade of events that increase immune response while reducing growth. TaLYK5 acts as a positive regulator of defense by phosphorylating the ankyrin-repeat-containing protein TaAKR2A, which supports reactive oxygen species (ROS) production and defense responses. In parallel, activated TaLYK5 negatively regulates growth responses by phosphorylating serine residue S234 in the ubiquitin-binding protein TaDSK2a, blocking its ability to degrade TaLYK5. Without infection by Pst, TaAKR2A does not initiate ROS signaling and immune responses and TaDSK2a associates with polyubiquitin chains on TaLYK5 to mediate its degradation, suppress TaLYK5-mediated plant defense. Meanwhile, TaDSK2a regulates gibberellin (GA) accumulation to promote plant growth, possibly by accelerating the degradation of TaEUI, a GA-deactivating enzyme. These findings demonstrate that the TaLYK5-TaDSK2a module functions as a molecular switch that dynamically regulates the trade-off between plant immunity and growth.",
+    "keywords": [
+      "growth and immunity",
+      "molecular switch",
+      "stripe rust",
+      "wheat"
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42623442/",
+    "fetch_date": "2026-08-31 17:30:19",
+    "query_group": "Medium Impact Specialized"
+  }
+]
